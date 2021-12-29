@@ -109,9 +109,6 @@ http://93.157.62.180/TringInternational/index.m3u8
 #EXTINF:0 tvg-id="SkyLiving.uk" group-title="EU AL",Living
 http://93.157.62.180/LivingHD/index.m3u8
 
-
-#EXTM3U
-#EXTINF:-0,==========BULGARIA=========
 #EXTINF:-0 tvg-id="24Kitchen.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG",2 4 Kitchen
 https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
 #EXTINF:-0  tvg-id=" AMC.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo=""group-title="EU BG",AMC
