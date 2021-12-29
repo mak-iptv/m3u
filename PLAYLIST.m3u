@@ -112,91 +112,91 @@ http://93.157.62.180/TringInternational/index.m3u8
 http://93.157.62.180/LivingHD/index.m3u8
 
 
-
+#EXTM3U
 #EXTINF:-1,==========BULGARIA=========
-#EXTINF:-1 tvg-id="24 Kitchen" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",2 4 Kitchen
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG",2 4 Kitchen
 https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
-#EXTINF:-1  tvg-id=" AMC" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",AMC
+#EXTINF:-1  tvg-id=" AMC" tvg-country="BG" tvg-language="Bulgarian" tvg-logo=""group-title="EU BG",AMC
 https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
-#EXTINF:-1tvg-id="BG Music"  tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",BG Music
+#EXTINF:-1tvg-id="BG Music"  tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG",BG Music
 https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8
-#EXTINF:-1  tvg-id=" BOX TV" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",BOX TV
+#EXTINF:-1  tvg-id=" BOX TV" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG",BOX TV
 https://cdn1.mobiletv.bg/T5/box_tv/box_tv_794613_850k.m3u8
-#EXTINF:-1 tvg-id="BTK" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",BTK
+#EXTINF:-1 tvg-id="BTK" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG",BTK
 http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
-#EXTINF:-1 tvg-id=" BTV CINEMA" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",BTV Cinema
+#EXTINF:-1 tvg-id=" BTV CINEMA" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG",BTV Cinema
 https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" BTV COMEDY" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",BTV Comedy
+#EXTINF:-1 tvg-id=" BTV COMEDY" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG",BTV Comedy
 https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" BN MUSIC" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",Bn Music
+#EXTINF:-1 tvg-id=" BN MUSIC" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG",Bn Music
 https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
-#EXTINF:-1 tvg-id="BULGARIA ON AIR" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",Bulgaria On Air
+#EXTINF:-1 tvg-id="BULGARIA ON AIR" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",Bulgaria On Air
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1tvg-id="BULGARIA ON AIR" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG" ,Bulgaria On Air
+#EXTINF:-1 tvg-id="BULGARIA ON AIR" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG" ,Bulgaria On Air
 http://hls.cdn.bg:2006/fls/bonair.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id=" BULGARIA ON AIR" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",Bulgaria On Air
+#EXTINF:-1 tvg-id=" BULGARIA ON AIR" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",Bulgaria On Air
 https://cdn1.mobiletv.bg/T3/bg_on_air/bg_on_air_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" CITY TV" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",CITY TV
+#EXTINF:-1 tvg-id=" CITY TV" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",CITY TV
 https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" DIEMA TV" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",DIEMA
+#EXTINF:-1 tvg-id=" DIEMA TV" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo=""  group-title="EU BG",DIEMA
 https://cdn1.mobiletv.bg/T13/diema/diema_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" DMSAT" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",DM SAT
+#EXTINF:-1 tvg-id=" DMSAT" tvg-country="BG" tvg-language="Bulgarian"   tvg-logo="" group-title="EU BG",DM SAT
 https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" DISCOVERY" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",Discovery
+#EXTINF:-1 tvg-id=" DISCOVERY" tvg-country="BG" tvg-language="Bulgarian"   tvg-logo="" group-title="EU BG",Discovery
 https://cdn1.mobiletv.bg/T3/discovery/discovery_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" EKIDS" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",EKIDS
+#EXTINF:-1 tvg-id=" EKIDS" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",EKIDS
 https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" ETA" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",ETA
+#EXTINF:-1 tvg-id=" ETA" tvg-country="BG" tvg-language="Bulgarian" tvg-logo=""  group-title="EU BG",ETA
 https://cdn1.mobiletv.bg/T7/eta/eta_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" EUROSPORT1" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",Eurosport 1
+#EXTINF:-1 tvg-id=" EUROSPORT1" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",Eurosport 1
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" EUROSPORT 2" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",Eurosport 2
+#EXTINF:-1 tvg-id=" EUROSPORT 2" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo=""  group-title="EU BG",Eurosport 2
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" FENTV" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",FEN TV
+#EXTINF:-1 tvg-id=" FENTV" tvg-country="BG" tvg-language="Bulgarian"   tvg-logo="" group-title="EU BG",FEN TV
 https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" FOX TV" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",FOX
+#EXTINF:-1 tvg-id=" FOX TV" tvg-country="BG" tvg-language="Bulgarian" tvg-logo=""  group-title="EU BG",FOX
 https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
-#EXTINF:-1 tvg-id="FOX CRIMEE" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",FOX Crime
+#EXTINF:-1 tvg-id="FOX CRIMEE" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",FOX Crime
 https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" FOX LIVE" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",FOX Life
+#EXTINF:-1 tvg-id=" FOX LIVE" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",FOX Life
 https://cdn1.mobiletv.bg/T3/foxlife/foxlife_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" FISHING " tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",Fishing & Hunting Channel
+#EXTINF:-1 tvg-id=" FISHING " tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",Fishing & Hunting Channel
 https://cdn1.mobiletv.bg/T5/fh/fh_794613_850k.m3u8
-#EXTINF:-1 tvg-id="HISTORY" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",History
+#EXTINF:-1 tvg-id="HISTORY" tvg-country="BG" tvg-language="Bulgarian"   tvg-logo=""  group-title="EU BG",History
 https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" KINO NOVA " tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",KINO NOVA
+#EXTINF:-1 tvg-id=" KINO NOVA " tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",KINO NOVA
 https://cdn1.mobiletv.bg/T3/kinonova/kinonova_794613_850k.m3u8
 #EXTINF:-1 tvg-id=" NG WILD" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",NG WILD
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" NATIONAL GEOGRAPHIC" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",National Geographic
+#EXTINF:-1 tvg-id=" NATIONAL GEOGRAPHIC" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG",National Geographic
 https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
-#EXTINF:-1 tvg-id="  NICK JR" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",Nick Jr.
+#EXTINF:-1 tvg-id="  NICK JR" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",Nick Jr.
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" RTL" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",RTL
+#EXTINF:-1 tvg-id=" RTL" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",RTL
 https://cdn1.mobiletv.bg/T5/rtl/rtl_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" RING BG" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG" ,Ring BG
+#EXTINF:-1 tvg-id=" RING BG" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG" ,Ring BG
 https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" THE VOICE" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",THE Voice
+#EXTINF:-1 tvg-id=" THE VOICE" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG",THE Voice
 https://cdn1.mobiletv.bg/T3/thevoice/thevoice_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" TLC" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",TLC
+#EXTINF:-1 tvg-id=" TLC" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",TLC
 https://cdn1.mobiletv.bg/T8/tlc/tlc_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" TRAVEL" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",Travel
+#EXTINF:-1 tvg-id=" TRAVEL" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",Travel
 https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
-#EXTINF:-1  tvg-id="TRAVELV" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",Travel TV
+#EXTINF:-1  tvg-id="TRAVELV" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-#EXTINF:-1  tvg-id=" BNT3" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",BNT 3
+#EXTINF:-1  tvg-id=" BNT3" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG",BNT 3
 https://cdn1.mobiletv.bg/T3/kanal3/kanal3_794613_850k.m3u8
-#EXTINF:-1  tvg-id=" BNT4" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",BNT 4
+#EXTINF:-1  tvg-id=" BNT4" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG",BNT 4
 https://cdn1.mobiletv.bg/T10/kanal4/kanal4_794613_850k.m3u8
-#EXTINF:-1 tvg-id="PRVI KANAL" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",РџРµСЂРІС‹Р№ РєР°РЅР°Р»
+#EXTINF:-1 tvg-id="PRVI KANAL" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",РџРµСЂРІС‹Р№ РєР°РЅР°Р»
 https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" PLANETA" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",Рlaneta
+#EXTINF:-1 tvg-id=" PLANETA" tvg-country="BG" tvg-language="Bulgarian" tvg-logo=""   group-title="EU BG",Рlaneta
 https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" Skat" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG", Skat
+#EXTINF:-1 tvg-id=" Skat" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG", Skat
 https://cdn1.mobiletv.bg/T3/skat/skat_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" РўР’ Р•РІСЂРѕРїР°" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",РўР’ Р•РІСЂРѕРїР°
+#EXTINF:-1 tvg-id=" РўР’ Р•РІСЂРѕРїР°" tvg-country="BG" tvg-language="Bulgarian"   tvg-logo="" group-title="EU BG",РўР’ Р•РІСЂРѕРїР°
 https://cdn1.mobiletv.bg/T10/tvevropa/tvevropa_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" Vratsa TV" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG", Vratsa TV
+#EXTINF:-1 tvg-id=" Vratsa TV" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG", Vratsa TV
 https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8
-#EXTINF:-1 tvg-id=" Folklor" tvg-country="BG" tvg-language="Bulgarian" group-title="EU BG",Folklor
+#EXTINF:-1 tvg-id=" Folklor" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",Folklor
 https://cdn1.mobiletv.bg/T5/folklor/folklor_794613_850k.m3u8
