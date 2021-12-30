@@ -128,21 +128,17 @@ https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
 https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BG: BN MUSIC" tvg-logo="" group-title="BULGARIA",BG: BN MUSIC
 https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
-#EXTINF:-0 tvg-id="BULGARIA ON AIR" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",Bulgaria On Air
+#EXTINF:-0 tvg-id="BULGARIA ON AIR"   tvg-logo="" group-title="BG",Bulgaria On Air
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-0 tvg-id="BULGARIA ON AIR" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="EU BG" ,Bulgaria On Air
-http://hls.cdn.bg:2006/fls/bonair.stream/chunklist.m3u8
-#EXTINF:-0 tvg-id=" BULGARIA ON AIR" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",Bulgaria On Air
-https://cdn1.mobiletv.bg/T3/bg_on_air/bg_on_air_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BG: City TV" tvg-logo="" group-title="BULGARIA",BG: City TV
 https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BG: Diema TV" tvg-logo="" group-title="BULGARIA",BG: Diema TV
 https://cdn1.mobiletv.bg/T13/diema/diema_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BG: DMSAT TV" tvg-logo="" group-title="BULGARIA",BG: DMSAT TV
 https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
-#EXTINF:-0 tvg-id=" DISCOVERY.bg" tvg-country="BG" tvg-language="Bulgarian"   tvg-logo="" group-title="EU BG",Discovery
-https://cdn1.mobiletv.bg/T3/discovery/discovery_794613_850k.m3u8
-#EXTINF:-0 tvg-id=" EKIDS.bg" tvg-country="BG" tvg-language="Bulgarian"  tvg-logo="" group-title="EU BG",EKIDS
+#EXTINF:-0 tvg-id="" tvg-name="BG: Discovery"   tvg-logo="" group-title="BG",Discovery
+https://cdn1.mobiletv.bg/T3/discovery/discovery_794613_850k.m3u
+#EXTINF:-0 tvg-id="" tvg-name="BG:  EKIDS tvg-logo="" group-title=" B8G",EKIDS
 https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
 #EXTINF:-0 tvg-id=" ETA.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo=""  group-title="EU BG",ETA
 https://cdn1.mobiletv.bg/T7/eta/eta_794613_850k.m3u8
