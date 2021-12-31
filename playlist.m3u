@@ -196,5 +196,319 @@ https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8
 https://cdn1.mobiletv.bg/T5/folklor/folklor_794613_850k.m3u8
 
 
-
+#EXTINF:=================Makedonija=================
+#EXTINF:-1 tvg-id="MRT1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="MK: MRT 1" tvg-logo="http://nextgen-iptv.com/logo/MRT_1_new_logo.png" group-title="Macedonia",Mrt 1 Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
+#EXTINF:-1 tvg-id="SITEL_MK" tvg-link="http://193.164.133.64/guide.xmltv" tvg-name="SITEL MK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sitel.jpg" group-title="MAKEDONSKI",Sitel Hd Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxYGumvxo5OdEz_0899ApcD2w1tGJdlgPsZ5w4hS5X-wNlSfTR3hIYY9bmggd5GigatMmBAOQooSCNc5qzJZYFvO9ajmAfWrOPg&usqp=CAU&ec=45761792",Alfa Hd Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="?????" tvg-logo="http://ohridskoleto.com.mk/wp-content/uploads/2017/04/telma.png" group-title="MAQEDONI",Telma Hd Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/kanal510.png",Kanal 5 Hd Makedonija Tv
+http://51.195.90.133:8081/tvstanici/2/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/mk/9/94/Mrt_3.png",Sobraniski Hd Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.infel.net.mk/media/images/tv_channels/nasatv.jpg",Naša Hd Makedonija Tv
+http://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QX4vqEG.png" group-title="ARGENTINA",Mtm Prva Skopska Hd Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+#EXTINF:-1 tvg-id="NOVA 12" tvg-name="NOVA 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjSSXp5j8Jj-jmGf4EuWymp82lHMZ7sYs55Q&usqp=CAU",Nova 12 Hd Makedonija Tv
+http://151.236.247.171:9000/live/dzunde/dzunde/1.ts
+#EXTINF:-1 tvg-id="ORBIS" tvg-name="ORBIS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Orbis-logo.png",Orbis Makedonija Tv
+http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8 
+#EXTINF:-1 tvg-id="KANAL 8" tvg-name="KANAL 8" tvg-logo="https://i.ytimg.com/vi/giP7hKv5W_4/hqdefault.jpg",Kanal 8 Makedonija Tv
+http://kanal8.hugo.mk:1935/live/kanal8/chunklist.m3u8
+#EXTINF:-1 tvg-id="Zdravkin" tvg-name="Zdravkin" tvg-logo="http://www.predavatel.com/mk/5/veles_images/vel_tvzdravkin.jpg",Zdravkin Hd Makedonija Tv
+http://zdravkin.hugo.mk:1935/live/zdravkin/chunklist.m3u8 
+#EXTINF:-1 tvg-id="M NET INFO" tvg-name="M NET Info" tvg-logo="https://live.mnet.mk/mnet-url-image.jpg",M-Net Info Tv
+https://giganet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 tvg-id="M NET" tvg-name="M NET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-9LFc_3k7XgmjFiGIXWDNecKuY5caRar7Q&usqp=CAU",M-Net Makedonija Tv
+https://giganet.mk/hls/mnet.m3u8
+#EXTINF:-1 tvg-id="MDC" tvg-name="MDC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjO6jtcfyCMa-aIL4vnUQR1nGgDS01cNDyBg&usqp=CAU",Macedonian Channel Documentary Tv
+https://giganet.mk/hls/macdoc.m3u8
+#EXTINF:-1 tvg-id="M NET Sport" tvg-name="M NET Sport" tvg-logo="https://www.multichoice.com/media/1199/1992-2x.png",M-Net Sport Tv
+https://giganet.mk/hls/mnet-sport.m3u8 
+#EXTINF:-1 tvg-id="M NET Kids" tvg-name="M NET Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3oX1FiLVovoYHPFNWJSq91AVLrJarrojln9_ta5K7jcW_FuEJQ-TU-PxXNNt9PmlaMN0&usqp=CAU",M-Net Kids Tv
+https://giganet.mk/hls/mnet-kids.m3u8  
+#EXTINF:-1 tvg-id="IN TV" tvg-name="IN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRACShV0-PbWtwlwmtcodDTn-Ct5PL-1mXrhw&usqp=CAU",In Tv Folk Hd Makedonija Tv
+rtmp://tv1.intv.mk:1935/live/intv
+#EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/folk_k10.jpg",Folk Club Hd Makedonija Tv
+rtmp://tv1.intv.mk:1935/live2/folkklub
+#EXTINF:-1 tvg-id="Folk" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Folk" tvg-logo="https://4.bp.blogspot.com/-Qf3XHQRxox8/WomY065dPxI/AAAAAAAAAFw/CVOo4d2igg8AQs-d4T_rL8rJoiWl6qWpQCLcBGAs/s1600/DA.jpg" group-title="MAKEDONIJA",Sky Folk Hd Music Makedonija Tv
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="https://i42.servimg.com/u/f42/14/19/88/25/folk_t10.png",Star Folk Hd Makedonija Tv
+https://live.muzickatv.mk/live/StarMusic.m3u8
+#EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/h210.png",Hugo 2 Hd Makedonija Tv
+http://fta.hugo.mk:1935/tvhugo/stream/2
+#EXTINF:-1 tvg-name="Balkan Music" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/balkan_music.png" group-title="Ex-Yu Glazba",Balkan Music Hd Makedonija Tv
+http://163.172.88.94:12989/live/Balkan.Music.MK/7Io7o7Q6o2/1.m3u8 
+#EXTINF:===============Muzika==============
+#EXTINF:-1 tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Ex-Yu-Rock-350x350px.png",S Music Tv
+https://sradio.ipradio.rs/sradio/radiostv/chunklist_w1590879283.m3u8
+#EXTINF:-1 tvg-logo="https://www.iconeasy.com/icon/png/System/Qs%20Vista%20Ready%20Icons/Qs%20Winamp.png"group-title="WORLD Music",Jeka Music Srbija Tv
+https://muzzik-live.morescreens.com/mts-4/chunklist.m3u8
+#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat RS" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/dmsatexyu.png" group-title="LIVE: ex-Yu Countries",Dm Sat Music Srbija Tv 
+https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="http://www.tv-vratsa.bg/user_pic/images/bn_music.jpg" group-title="Bosna",Bn Music Bosna Tv
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i42.servimg.com/u/f42/14/19/88/25/kopern11.png",Kcn 2 Music Srbija Tv
+http://212.200.102.3:5000/udp/239.0.0.2:5000
+#EXTINF:-1 tvg-logo="https://i42.servimg.com/u/f42/14/19/88/25/kopern12.png",Kcn 3 Music Srbija Tv
+http://212.200.102.3:5000/udp/239.0.0.3:5000 
+#EXTINF:0 tvg-country="AT" tvg-logo="https://i.imgur.com/4fAkcCd.jpg" group-title="Austria(23)",Uppera Balkan Tv
+http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8?checkedby
+http://89.187.168.245:8080/live/sUPPERchannel2/tracks-v1a1/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="TV Sehara HD ex-Yu" tvg-logo="http://195.154.221.171/picons/tvseharahdexyu.png" group-title="ex-Yu",Sehara Music Bosna Tv
+http://ip2.xxlservices.com:8081/seharatv/mpegts/mpeg.2ts
+#EXTINF:-1 tvg-id="Domaci" tvg-name="Domaci" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngsU8UcTzibCO7ocf-CEGt_rU1JRvwbqj14fB_W=s900-c-k-c0x00ffffff-no-rj",Domaci Music Srbija Tv
+https://stream.domaci.com.hr:3865/live/domacitvlive.m3u8
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga Plus" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" tvg-url="" group-title="Music",Duga Plus Music Srbija Tv
+http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1097511114.m3u8
+#EXTINF:-1 tvg-id="RTBTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Banovina TV" tvg-logo="http://nextgen-iptv.com/logo/RTVBanovina_HR.png" group-title="HRVATSKI PROGRAMI",Banovina  Music Hrvatska Tv
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF: 0 tvg-name="GLas Drine" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/glas_drine.jpg" group-title="Ex-Yu Glazba",GLas Drine Music Tv
+rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+#EXTINF:-1 tvg-id="CRO" tvg-name="CRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyWO4ssUMNru43lyUmEIe9Qj_cL-GZDhYB_w&usqp=CAU",Cro Music Hrvatska Tv
+http://92.204.40.139:545/CROTVHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV BG" tvg-logo="http://213.128.89.165/Main/Logo/bg/dstv.png",Ds Music Bugarija Tv
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 tvg-logo="https://stvron.com/canale/512/balkanika-tv.png",Balkanika Music Bugarija Tv
+http://78.83.191.18:8000/play/a05h
+#EXTINF:-1 tvg-id="" tvg-name="BG- FEN TV" tvg-logo="http://www.vod-logo.net/photos/ff035a9f9258989fe02a87e00fd0f43f.jpg" group-title="Bulgaria",Fen Music Bugarija Tv
+https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG- PLANETA TV" tvg-logo="http://www.vod-logo.net/photos/a3536b55443f7df469b8230efa180c8b.JPG" group-title="Bulgaria",Planeta Music Bugarija Tv
+https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8
+#EXTINF:-1 tvg-id="TIANKOV" tvg-name="Folk" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bg-tiankov-music-6779.jpg",Tiankov Folk Bugarija Tv
+http://31.13.223.103:1935/tiankov/tiankov-folk.stream/playlist.m3u8?hash=?
+#EXTINF:-1 tvg-id="Tiankov Folk BG" tvg-name="Tiankov Folk BG" tvg-logo="http://pici.life/Bulgarian/tiankov-folk.png" group-title="Bulgarian",Tiankov Folk Orient Bugarija Tv
+https://streamer104.neterra.tv/tiankov/tiankov-orient.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="Folklor TV BG" tvg-name="Folklor TV BG" tvg-logo="http://pici.life/Bulgarian/folklor.png" group-title="Bulgarian",Folklor Music Bugrija Tv
+https://cdn1.mobiletv.bg/T5/folklor/folklor_794613_850k.m3u8
+#EXTINF:-1 tvg-id="BG Music Channel BG" tvg-name="BG Music Channel HD BG" tvg-logo="http://pici.life/BG/bgmusic.png" group-title="Bulgarian",Bg Music Bugarija Tv
+https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurofolk" tvg-logo="https://tv.eurofolk.com/img/TVeurofolkLIVEON.jpg",Eurofolk Bugarija Tv
+https://eurofolk.cdn.netbadgers.com/bg040/bg041/bg041.m3u8
+#EXTINF:-1 tvg-id="Stara" tvg-name="Zagora" tvg-logo="https://lh3.googleusercontent.com/proxy/v7u85-vJFxuIs5a6Hj1tujFU7tl2ZRdqwqRyWDQz99tL28dkmOZ0aT9kR3l7BFqFX8epORCi6TBe1topC35jjC2VAM4Lq_-KIvvZFNgk-2_pUnpRvzAW5Dw2kDDswOiepm94PIl6CQEiiw",Zagora Bugarija Tv
+http://95.87.0.78:8080/tvstz.m3u8
+#EXTINF:-1 tvg-id="thevoice.bg" tvg-name="The Voice BG" tvg-logo="http://pici.life/BG/thevoice.png" group-title="Bulgarian",The Voice Music Bugarija Tv
+https://bss.neterra.tv/rtplive/thevoice_live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="city.bg" tvg-name="City TV BG" tvg-logo="http://pici.life/citytv.png" group-title="Bulgarian",City Music Bugarija Tv
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+#EXTINF:-1 tvg-id="Magic TV BG" tvg-name="Magic TV BG" tvg-logo="http://pici.life/magictv.png" group-title="Bulgarian",Magic Music Bugarija Tv
+https://bss.neterra.tv/magictv/magictv_live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="boxtv.bg" tvg-name="Box TV BG" tvg-logo="http://pici.life/boxtv.png" group-title="Bulgarian",Box Music Bugarija Tv
+https://cdn1.mobiletv.bg/T5/box_tv/box_tv_794613_850k.m3u8
+#EXTINF:-1,MM Music Bg Tv
+https://streamer103.neterra.tv/mmtv/mmtv.smil/chunklist_w1574446231_b2628000_slbul.m3u8
+#EXTINF:========Srbija=============
+#EXTINF:-1 tvg-id="RED" tvg-name="RED" tvg-logo="https://www.magazin.novosti.rs/upload/Article/Image/2020_09/1599227926_Logo-Red-TV-DP.jpg",Red Srbija Tv
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+#EXTINF:-1 tvg-id="KURIR TV" tvg-name="KURIR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzZ6a_tlJ4ofWSCtQ2XtI-im2gf1xawvT_Q&usqp=CAU",Kurir Srbija Tv
+https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
+#EXTINF:-1 tvg-id="Belle Amie TV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Belle Amie TV" tvg-logo="http://nextgen-iptv.com/logo/tv-belle-amie-logo.png" group-title=",Belle Amie Srbija Tv
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+#EXTINF:-1 tvg-name="Pirot Tv" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/pirot_tv.png" group-title="Srbija",Pirot Srbija Tv
+http://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1 tvg-id="PirotM" tvg-name="PirotM" tvg-logo="https://www.pirotskevesti.rs/wp-content/uploads/2017/07/Screen-Shot-2017-07-10-at-08.11.36-po-podne.png",Pirot M Srbija Tv
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w1209443471.m3u8
+#EXTINF:-1 tvg-id="City" tvg-name="City" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/CityTV_logo.png",Sity Klub Srbija Tv
+http://167.172.39.13/hls/tvcityub.m3u8
+#EXTINF:-1 tvg-logo="http://www.pruga.rs/Pruga-TV.png" group-title="EX-YU_Srbija",Pruga Srbija Tv
+https://stream.pruga.rs:8443/live/pruga/index.m3u8
+#EXTINF:-1 tvg-id="Tsd" tvg-name="Tsd" tvg-logo="https://tsd-tv.com/wp-content/uploads/2019/10/cropped-android-chrome-512x512.png",TV Srpska Dijaspora
+https://live.tsd-tv.com/live/tsd.m3u8
+#EXTINF:-1 tvg-id="TK" tvg-name="TK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmGKQTcvO1lq8mKg7tQzZjrQ0rx4crpSYRmw&usqp=CAU",Tk Srbija Tv
+rtmp://91.148.117.134/tkturist/tkturist
+#EXTINF:-1 tvg-logo="http://jefimija.tv/wp-content/uploads/2016/09/logo21.png" group-title="EX-YU_Srbija",Jefimija Srbija Tv
+rtmp://212.200.108.253/live/jefimija.flv 
+#EXTINF:-1 tvg-id="http://rtvas.rs/" tvg-name="RTV AS" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/wcXNcP6.png" tvg-url="" group-title="",As Srbija Tv
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 tvg-id="MIS Tv" tvg-name="MIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3S5_y85uS7K5_NuL3RgmbLcHDZEb9ZdUcew&usqp=CAU",Mis Australija Tv
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/chunklist_w558422854.m3u8
+#EXTINF:-1 tvg-id="BAP" tvg-name="BAP" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngfj3hukRfI6nVKe5AE26zm7_OZGSxV6DM832f7=s900-c-k-c0x00ffffff-no-rj",Bap Backa Palanka Tv
+https://5bc45691ca49f.streamlock.net/rtvbap/uzivo/chunklist_w1314121693.m3u8 
+#EXTINF:-1 tvg-id="SP" tvg-name="SP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8S-QQSDdLtNf2RWDQAx4xV6Ymatx7WcRDvg&usqp=CAU",Stara Pazova Srbija Tv
+rtmp://bk.ddstream.info:1935/mylive/rtvsp/rtvsp
+#EXTINF:-1 tvg-id="Art" tvg-name="Art" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgD9YK4cGlqom63-BFsqjK7yXeQJXLhQZbr5pAmeDvgoKGtiidr8S71jW-UyiC7vcu0bE&usqp=CAU",Art Srbija Tv
+rtmp://92.60.237.39/live/test
+#EXTINF:-1 tvg-id="KCN 1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="KCN 1" tvg-logo="http://nextgen-iptv.com/logo/kcn1.png" group-title="Srbija",Kcn 1 Srbija Tv
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+#EXTINF:-1 tvg-id="MARS Tv" tvg-name="MARS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOeF6Ez0q0vB7EPGbTZPJs7e4i_-0t4f7h1A&usqp=CAU",Mars Valjevo Srbija Tv
+http://cdn.dovecher.tv:8081/live/marsh/chunks.m3u8
+#EXTINF:-1 tvg-id="TESLA" tvg-name="VISSION" tvg-logo="https://www.idea2dezign.net/i2dlab_content/uploads/2017/05/TeslaVision.TV_.jpg",Tesla Vision Srbija Tv
+http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8 
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/uE3uH28.png",Kosovo I Metohija 2 Srbija Tv
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/chunklist_w4886007.m3u8
+#EXTINF:-1 tvg-id="NOVI" tvg-name="PAZAR" tvg-logo="https://play-lh.googleusercontent.com/AARBl55fPzFzQfyhLSt0ViOI6coQVM9buS6hyQgJsl_Zb_Q1ZUSVuoeiE--X3U7DsIKH",Novi Pazar Srbija Tv
+https://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1 tvg-id="RTV KRUSEVAC" tvg-link="http://epg.iptvhr.net/"tvg-name="RTV KRUSEVAC" tvg-logo="http://www.priv.rs/upload/images/logo_rtv_krusevac_20150713_132219.jpg"group-title="SRBIJA",Krusevac Srbija Tv
+http://91.148.123.53:8888/ipvt_009
+#EXTINF:-1 tvg-id="HRAM" tvg-name="Hram" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/hram.png" group-title="Srbija",Hram Srbija Tv
+https://vod1.laki.eu/live/hram/tracks-v1a1/mono.m3u8
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-id="Puls" tvg-link="http://epg.iptvhr.net/" tvg-name="Puls" tvg-logo="https://seeklogo.com/images/T/tv-puls-logo-568817DCF8-seeklogo.com.png"group-title="SRBIJA",Puls Srbija Tv
+http://stream.rtvpuls.com/broadcasting 
+#EXTINF:-1 tvg-logo="https://www.danas.rs/wp-content/uploads/2019/07/n1-678x382.jpg",N1 Srbija Tv
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 tvg-id="NIS" tvg-name="VILLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5L4BP8f9XgZ0d8LreJMeTOjqQrNS4LHVpjg&usqp=CAU",Nis Vile Srbija Tv
+http://92.60.237.32:1935/live/nisville/playlist.m3u8
+#EXTINF:-1 tvg-id="rtv.rs" tvg-name="Radio-televizija Vojvodine 1" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://static.rtv.rs/assets/repository/2017/img/header/logo-rtv_sr_ci.png" tvg-url="" group-title="",RTV 1
+http://212.200.255.151/rtv1/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="rtv.rs" tvg-name="Radio-televizija Vojvodine 2" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://static.rtv.rs/assets/repository/2017/img/header/logo-rtv_sr_ci.png" tvg-url="" group-title="",RTV 2
+http://212.200.255.151/rtv2/tracks-v1a1/mono.m3u8?token=test 
+#EXTINF:-1 tvg-logo="http://radio-uzivo.square7.net/uploads/thumbs/ab4217544-1.jpg",M Paracin Srbija Tv
+http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:-1 tvg-id="Sandzak TV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sandzak TV" tvg-logo="http://nextgen-iptv.com/logo/sandzak-tv-logo.jpg" group-title=",Sandzacka Tv Mreza
+http://46.240.128.178:4444/STVHD
+#EXTINF:==========Hrvatska==============
+#EXTINF:-0 tvg-id="htv1.hr" tvg-name="HTV1" tvg-language="Croatian" tvg-logo="https://i.imgur.com/W3FBVwT.png" tvg-country="HR" tvg-url="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" group-title="Croatian",Hrvatska 1 Tv
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-0 tvg-id="htv2.hr" tvg-name="HTV2" tvg-language="Croatian" tvg-logo="https://i.imgur.com/7swOkC3.png" tvg-country="HR" tvg-url="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" group-title="Croatian",Hrvatska 2 Tv
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1 tvg-id="Hrt3" tvg-name="Hrt3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HRT3_logo.png",Hrvatska 3 Tv
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1 tvg-id="Hrt4" tvg-name="Hrt4" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HRT4-logo.png",Hrvatska 4 Tv
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1 tvg-id="Rtl.hr" tvg-name="RTL HR" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtlhrexyu.png" group-title="LIVE: ex-Yu Countries",Rtl 1 Hrvatska Tv
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1 tvg-id="OsjeckaTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Osjecka TV" tvg-logo="http://nextgen-iptv.com/logo/OsjeckaTV_HR.png" group-title="Ex-YU",Osijecka Hrvatska Tv
+http://api.new.livestream.com/accounts/27681961/events/8347875/live.m3u8
+#EXTINF:-1 tvg-id="Trend TV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Trend TV" tvg-logo="https://i.imgur.com/rtAznnQ.jpg" group-title="CROATIA",Trend Hrvatska Tv
+rtmp://185.62.75.22:1935/trend/myStream
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/QMQqXgS.jpg" tvg-country="HR" tvg-url="" group-title="Croatian",Aurora Hrvatska Tv
+http://85.94.81.190:8844/sdi/aurora.m3u8
+#EXTINF:-1 tvg-id="SlavonskaTv.hr"tvg-name="CR: SLAVONSKA TV" tvg-logo="https://img.endole.co.uk/?t=e72754f0431279b57d0cebaaffe782d2&l=" group-title="CROATIAN -//- SLOVENIJA",Slavonska Hrvatska Tv
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="Hrv" tvg-name="Radio" tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2013/05/prvi-karlovacki.jpg",Hrvatski Radio Karlovac Tv
+https://5b57bb229a2e6.streamlock.net/live/_definst_/karlovac/playlist.m3u8
+#EXTINF:-1 tvg-id="N1" tvg-name="N1" tvg-logo="https://pbs.twimg.com/profile_images/984755560028495873/GevCcVB2_200x200.jpg" group-title="CROATIAN -//- SLOVENIJA",N1 Hrvatska Tv
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 tvg-id="MARY TV" tvg-name="MARY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KIej7Nn6jrM_SYVpYib7BI8qqR9MtDpHbw&usqp=CAU",Mary Hrvatska Tv
+https://2-fss-1.streamhoster.com/pl_122/amlst:200012-111298/chunklist_b2000000.m3u8 
+#EXTINF:=============Bosna==========
+#EXTINF:-1 tvg-id="86" tvg-name="BN Music" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpMLOH7A4xoKEVuzdJwBW4SpgeBKlPaHu6rgilsd-dyfUBDEbX8oBdA" group-title="",Bn Bosna Tv
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="RTRS" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTRS" tvg-logo="http://nextgen-iptv.com/logo/RTRS_BiH.png" group-title="Ex-YU",Srpska 1 Bosna Tv
+https://parh.rtrs.tv/tv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="RTRS PLUS" tvg-logo="https://i0.wp.com/umetnikfotograf.files.wordpress.com/2017/12/rtrsplus.png?ssl=1&w=450",Srpska Plus Bosna Tv
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/4/4b/Aljazeera_Balkans_alternativ.png" group-title="BOSNIA",Al Jazeera Balkans Bosna Tv
+http://live-hls-web-ajb.getaj.net/AJB/04.m3u8
+#EXTINF:-1 tvg-id="SEHARA" tvg-name="ONLINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpo5rtxQ1nuEe5EVBudhRHtXCyGcUxWFgvDg&usqp=CAU",Sehara Online Bosna Tv
+http://ip2.xxlservices.com:8081/seharaonline/live/chunks.m3u8  
+#EXTINF:-1 tvg-id="RTVHB" tvg-name="RTVHB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShLQ68CsaGXbHDuxWkdLNy4k1eYKOfaHPoQ&usqp=CAU",Herceg Bosna Tv
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
+#EXTINF: -1 tvg-id="N1" tvg-name="N1" tvg-logo="https://agk-ks.org/wp-content/uploads/2020/11/N1teleLogo.jpg",N1 Bosna Tv
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0 
+#EXTINF:-1 tvg-id="Super" tvg-name="Super" tvg-logo="https://www.bresciasat.it/assets/front/img/logo3.png",Super Bosna Tv
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-name="RTV SLON" tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/01/tvslon.png?ssl=1&w=450",Slon Music Bosna Tv
+http://31.47.0.130:8082
+#EXTINF: -1 tvg-id="KANAL6" tvg-name="Kanal 6" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/kanal_6.png" group-title="Bosna i Hercegovina",Kanal 6 Bosna Tv
+https://restreamer1.tnt.ba/hls/kanal6.m3u8?token=test
+#EXTINF:-1 tvg-id="VIKOM" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/4/46/RTV_Zenica_logo.png",Zenica Bosna Tv
+https://stream.rtvze.ba/123.m3u8
+#EXTINF:-1 tvg-id="B1TV.ba" tvg-name="B1 TV" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/fdd1oQP.png" group-title=",B1 Bosna Tv
+http://proxy.bihnet.net:88/live/b1tv.m3u8
+#EXTINF:-1 tvg-name="Tnt Kids" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/tnt-kids_logo.png",Tnt Kids Tv
+https://restreamer1.tnt.ba/hls/tntkids.m3u8 
+#EXTINF:-1 tvg-id="Vikom" tvg-link="http://epg.iptvhr.net/"tvg-name="Vikom" tvg-logo="http://tvprofil.net/img/kanali-logo/vikom_tv_ba.png" group-title="BIH",Vikom Bosna Tv
+http://91.191.42.74:8080
+#EXTINF:-1 tvg-name="Medjugorje Tv" tvg-logo="https://static.wixstatic.com/media/58224c_4839be44947b4ace89817b49390241fc~mv2.gif",Medjugorje Bosna Tv
+https://streamlive.arcapuglia.it:8080/live/medjugorietv/index.m3u8
+#EXTINF:============Crna Gora=========
+#EXTINF:-1 tvg-id="45" tvg-name="RTV CG" tvg-logo="http://i.imgur.com/6FYxgKE.png" group-title="Domaci",Crna Gora Sat Tv
+rtmp://rtcg2.videostreaming.rs/rtcg/rtcg.2.stream
+#EXTINF:-1 tvg-logo="https://geografijazasve.me/wp-content/uploads/2017/10/fe9aac50b87d4ccfe79ee85df17618ba.png",Kanal 7 Crna Gora Tv
+http://uk4.streamingpulse.com:1935/tehnikatv777/tehnikatv777/chunklist.m3u8
+#EXTINF:-1 " tvg-logo="http://rozaje.do.am/picons/jupok1.png",Jurok Crna Gora Tv
+http://tinyurl.com/jupok
+#EXTINF:0 tvg-logo="http://rozaje.do.am/picons/tvrround.png",Rozaje Crna Gora Tv
+http://tinyurl.com/rtvrozaje
+#EXTINF:============Slovenija=========
+#EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo1-dark-bg.png" group-title="Slovenija",Slovenija 1 Tv
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo2-dark-bg.png" group-title="Slovenija",Slovenija 2 Tv
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo3-dark-bg.png" group-title="Slovenija",Slovenija 3 Tv
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo1-dark-bg.png" group-title="Slovenija",Maribor Slovenija Tv
+https://24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/XzkurJ3.png" group-title="Undefined",Koper Slovenija Tv
+https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/ogq22B7.png" group-title="Undefined",Mmc Slovenija Tv
+https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.hkdk.sk/sites/default/files/sponzori/tvdk.jpg" group-title="Slovenija",Dk Slovenija Tv
+http://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-FiwOvyj38Tdl3bAhgW3251ZQK66HK4c-A&usqp=CAU",Veseljak Slovenija Tv
+https://stream.veseljak.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RTG" tvg-name="RTG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv8nLeBUgZq656vc4wM7hugGFoLg7zoCdRMA&usqp=CAU",Gorenjska Slovenija Tv
+http://91.220.221.60/gtv_hls/gtv_03.m3u8 
+#EXTINF:-1 tvg-id="RTE" tvg-name="RTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqV4xyZqmN7uu-t-iaPH5QnEA2OCabVhSzQ&usqp=CAU",Exodus Slovenija Tv
+https://584943999.r.worldssl.net/584943999/_definst_/vzivo/chunklist_w837990398.m3u8 
+#EXTINF:===============Sport================
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Es1" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png?ssl=1",Eurosport 1 Tv
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Es2" tvg-logo="https://p7.hiclipart.com/preview/327/493/115/eurosport-1-television-channel-logo-eurosport-2-others.jpg",Eurosport 2 Tv
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Arena Sport 1 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena1_logo.png",Arena Sport 1 Tv
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/197cf3f448f47b1.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-id="ArenaSport2.hr" tvg-name="Arena Sport 2 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena2_logo.png",Arena Sport 2 Tv
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/00490feacaf3646.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-id="ArenaSport3.hr" tvg-name="Arena Sport 3 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/logo_arena3.png",Arena Sport 3 Tv 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5835b824e88919b.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-id="ArenaSport4.hr" tvg-name="Arena Sport 4 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena4_logo.png",Arena Sport 4 Tv
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ce220746856cda4.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-id="ArenaSport5.hr" tvg-name="Arena Sport 5 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena5_logo.png",Arena Sport 5 Tv 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c65ab974f6bdc47.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-id="SK1" tvg-name="SK1" tvg-logo="https://1.bp.blogspot.com/-EjphWud0mKA/XsghkqBN0II/AAAAAAAADFI/xQTUMxZ-QeoJUHKO4K6oaISaiE60yZVbgCLcBGAsYHQ/s640/SPORT%2BKLUB%2B1%2BHD.jpg",Sport Klub 1 Tv
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ede409d4b9e7950.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-id="SK2" tvg-name="SK2" tvg-logo="https://www.stream2watch.is/images/streams/247/600x400/16006746129103.png",Sport Klub 2 Tv
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/70df980363ba9de.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-id="SK3" tvg-name="SK3" tvg-logo="https://1.bp.blogspot.com/-Wx6Yo420g5Q/XsghmTvPLFI/AAAAAAAADFU/nkgiDKDxhcURdfL17Y_XR0g2tFj_1EoQwCLcBGAsYHQ/w1200-h630-p-k-no-nu/SPORT%2BKLUB%2B3%2BHD.jpg",Sport Klub 3 Tv
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8cbc2d64844171.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-id="SOS" tvg-name="SOS" tvg-logo="https://nstatic.net/img/tv/channels/m/sos.png",Sos Kanal Sport Tv
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ringbg.bg" tvg-name="Ring TV FHD BG" tvg-logo="http://pici.life/ringhd.png" group-title="Bulgarian",Ring Sport Bugarija Tv
+https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8
+#EXTINF:-1 tvg-id="novasport.bg" tvg-name="Nova Sport BG" tvg-logo="http://pici.life/novasport.png" group-title="Bulgarian",Nova Sport Bugarija Tv
+https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
+#EXTINF:=============Stranski Muzicki Kanali==========
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0669d26-7b30-4d01-b121-e64d61d1c89c/d5zp06i-289ddef3-671a-4cd3-904f-a9a4eb864900.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwNjY5ZDI2LTdiMzAtNGQwMS1iMTIxLWU2NGQ2MWQxYzg5Y1wvZDV6cDA2aS0yODlkZGVmMy02NzFhLTRjZDMtOTA0Zi1hOWE0ZWI4NjQ5MDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kERSa1t0XDjbcqqY80Mdt8qDWT-V7KBIKJlyvcT6Nq0"group-title="WORLD Music",Music World Srbija Tv
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.iconeasy.com/icon/png/System/Qs%20Vista%20Ready%20Icons/Qs%20Winamp.png"group-title="WORLD Music",Music Genz Srbija Tv
+http://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/69b8249f-b6c5-4ef9-81ab-b0c2acedb518/d2era3q-958fe642-cdb7-445b-9964-009b808684c6.png"group-title="WORLD Music",Music Hip Hop Srbija Tv
+http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0669d26-7b30-4d01-b121-e64d61d1c89c/d5zp06i-289ddef3-671a-4cd3-904f-a9a4eb864900.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwNjY5ZDI2LTdiMzAtNGQwMS1iMTIxLWU2NGQ2MWQxYzg5Y1wvZDV6cDA2aS0yODlkZGVmMy02NzFhLTRjZDMtOTA0Zi1hOWE0ZWI4NjQ5MDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kERSa1t0XDjbcqqY80Mdt8qDWT-V7KBIKJlyvcT6Nq0"group-title="WORLD Music",Music Srbija Tv
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0669d26-7b30-4d01-b121-e64d61d1c89c/d5zp06i-289ddef3-671a-4cd3-904f-a9a4eb864900.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwNjY5ZDI2LTdiMzAtNGQwMS1iMTIxLWU2NGQ2MWQxYzg5Y1wvZDV6cDA2aS0yODlkZGVmMy02NzFhLTRjZDMtOTA0Zi1hOWE0ZWI4NjQ5MDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kERSa1t0XDjbcqqY80Mdt8qDWT-V7KBIKJlyvcT6Nq0"group-title="WORLD Music",Music Klub Srbija Tv
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0669d26-7b30-4d01-b121-e64d61d1c89c/d5zp06i-289ddef3-671a-4cd3-904f-a9a4eb864900.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwNjY5ZDI2LTdiMzAtNGQwMS1iMTIxLWU2NGQ2MWQxYzg5Y1wvZDV6cDA2aS0yODlkZGVmMy02NzFhLTRjZDMtOTA0Zi1hOWE0ZWI4NjQ5MDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kERSa1t0XDjbcqqY80Mdt8qDWT-V7KBIKJlyvcT6Nq0"group-title="WORLD Music",Music Mediterano Srbija Tv
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0669d26-7b30-4d01-b121-e64d61d1c89c/d5zp06i-289ddef3-671a-4cd3-904f-a9a4eb864900.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwNjY5ZDI2LTdiMzAtNGQwMS1iMTIxLWU2NGQ2MWQxYzg5Y1wvZDV6cDA2aS0yODlkZGVmMy02NzFhLTRjZDMtOTA0Zi1hOWE0ZWI4NjQ5MDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kERSa1t0XDjbcqqY80Mdt8qDWT-V7KBIKJlyvcT6Nq0"group-title="WORLD Music",Music Okk Srbija Tv
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0669d26-7b30-4d01-b121-e64d61d1c89c/d5zp06i-289ddef3-671a-4cd3-904f-a9a4eb864900.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwNjY5ZDI2LTdiMzAtNGQwMS1iMTIxLWU2NGQ2MWQxYzg5Y1wvZDV6cDA2aS0yODlkZGVmMy02NzFhLTRjZDMtOTA0Zi1hOWE0ZWI4NjQ5MDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kERSa1t0XDjbcqqY80Mdt8qDWT-V7KBIKJlyvcT6Nq0"group-title="WORLD Music",Music Rock Srbija Tv
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0669d26-7b30-4d01-b121-e64d61d1c89c/d5zp06i-289ddef3-671a-4cd3-904f-a9a4eb864900.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwNjY5ZDI2LTdiMzAtNGQwMS1iMTIxLWU2NGQ2MWQxYzg5Y1wvZDV6cDA2aS0yODlkZGVmMy02NzFhLTRjZDMtOTA0Zi1hOWE0ZWI4NjQ5MDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kERSa1t0XDjbcqqY80Mdt8qDWT-V7KBIKJlyvcT6Nq0"group-title="WORLD Music",Music Vision Srbija Tv
+https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
+#EXTINF:===========Makedonski Alb Kanali==========
+#EXTINF:-1 tvg-id="MRT2" tvg-name="MRT 2" tvg-logo="http://titaniptv.com/epg/logo/MRT%202.png" group-title="Makedonija",Mrt 2 Makedonija Tv
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+#EXTINF:-1 tvg-id="ALSAT-M" tvg-name="Alsat M" tvg-logo="http://titaniptv.com/epg/logo/Alsat%20M.png" group-title="Makedonija",Alsat M Makedonija Tv
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+#EXTINF:-1 tvg-id="RTV21al" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTV 21" tvg-logo="http://nextgen-iptv.com/logo/rtv%2021.png" group-title="Makedonija",21 Makedonija Tv
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cl79bfQ.png" group-title="ALBANIA",Shenja Hd Makedonija Tv
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
+#EXTINF:-1 tvg-id="suteltv" tvg-name="Sutel TV" tvg-logo="http://titaniptv.com/epg/logo/Sutel%20TV.png" group-title="Makedonija",Sutel Makedonija Tv
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ERA TV" tvg-logo="http://diasporatv.com/uploads/dtv-channel-tvera.png" group-title="MAQEDONI",Era Hd Makedonija Tv
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
+#EXTINF:-1 tvg-logo="https://opoja.tv/wp-content/uploads/2018/10/Final-300x113.png" group-title="??????????",Opoja Makedonija Tv
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="Albania(100)",Koha Makedonija Tv
+rtmp://live.tvkoha.tv:1935/live/koha/livestream?checkedby
 
