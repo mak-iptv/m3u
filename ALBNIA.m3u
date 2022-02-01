@@ -1,99 +1,99 @@
 #EXTM3U
-#EXTINF:-1,Klan FHD
-http://62.210.152.92:25461/kanale2/Ass/6
-#EXTINF:-1,Ilahi
-http://62.210.152.92:25461/kanale2/Ass/7
-#EXTINF:-1,TOP Channel 
-http://62.210.152.92:25461/kanale2/Ass/8
-#EXTINF:-1,VIZION PLUS 
-http://62.210.152.92:25461/kanale2/Ass/9
-#EXTINF:-1,RTSH 24
-http://62.210.152.92:25461/kanale2/Ass/10
-#EXTINF:-1,KLAN Kosova
-http://62.210.152.92:25461/kanale2/Ass/11
-#EXTINF:-1,KTV HD
-http://62.210.152.92:25461/kanale2/Ass/12
-#EXTINF:-1,RTV 21 HD
-http://62.210.152.92:25461/kanale2/Ass/13
-#EXTINF:-1,TV Dukagjini
-http://62.210.152.92:25461/kanale2/Ass/14
-#EXTINF:-1,Humor HD
-http://62.210.152.92:25461/kanale2/Ass/15
-#EXTINF:-1,Qifteli HD
-http://62.210.152.92:25461/kanale2/Ass/16
-#EXTINF:-1,RTSH 1 HD
-http://62.210.152.92:25461/kanale2/Ass/17
-#EXTINF:-1,Mimi TV
-http://62.210.152.92:25461/kanale2/Ass/18
-#EXTINF:-1,TOM & JERRY
-http://62.210.152.92:25461/kanale2/Ass/19
-#EXTINF:-1,Femije
-http://62.210.152.92:25461/kanale2/Ass/20
-#EXTINF:-1,Filma 24
-http://62.210.152.92:25461/kanale2/Ass/34
-#EXTINF:-1,GOLD 1 HD
-http://62.210.152.92:25461/kanale2/Ass/35
-#EXTINF:-1,Premium 2 HD
-http://62.210.152.92:25461/kanale2/Ass/36
-#EXTINF:-1,ACTION HD
-http://62.210.152.92:25461/kanale2/Ass/37
-#EXTINF:-1,Premium 1 HD
-http://62.210.152.92:25461/kanale2/Ass/38
-#EXTINF:-1,Fantazi HD
-http://62.210.152.92:25461/kanale2/Ass/39
-#EXTINF:-1,X Family
-http://62.210.152.92:25461/kanale2/Ass/40
-#EXTINF:-1,PREMIER 1
-http://62.210.152.92:25461/kanale2/Ass/41
-#EXTINF:-1,Triller HD
-http://62.210.152.92:25461/kanale2/Ass/42
-#EXTINF:-1,Gold 2
-http://62.210.152.92:25461/kanale2/Ass/43
-#EXTINF:-1,RTSH Femije
-http://62.210.152.92:25461/kanale2/Ass/44
-#EXTINF:-1,NEWS 24
-http://62.210.152.92:25461/kanale2/Ass/45
-#EXTINF:-1,REPORT HD
-http://62.210.152.92:25461/kanale2/Ass/46
-#EXTINF:-1,ABC News
-http://62.210.152.92:25461/kanale2/Ass/50
-#EXTINF:-1,Ora News
-http://62.210.152.92:25461/kanale2/Ass/49
-#EXTINF:-1,RTK 1
-http://62.210.152.92:25461/kanale2/Ass/48
-#EXTINF:-1,Peace TV
-http://62.210.152.92:25461/kanale2/Ass/52
-#EXTINF:-1,TV Dielli
-http://62.210.152.92:25461/kanale2/Ass/53
-#EXTINF:-1,Zjarr TV
-http://62.210.152.92:25461/kanale2/Ass/54
-#EXTINF:-1,Jolly HD
-http://62.210.152.92:25461/kanale2/Ass/56
-#EXTINF:-1,3 Plus
-http://62.210.152.92:25461/kanale2/Ass/57
-#EXTINF:-1,RTSH Film
-http://62.210.152.92:25461/kanale2/Ass/59
-#EXTINF:-1,TDC
-http://62.210.152.92:25461/kanale2/Ass/60
-#EXTINF:-1,Natyra
-http://62.210.152.92:25461/kanale2/Ass/66
-#EXTINF:-1,youtube
-http://62.210.152.92:25461/kanale2/Ass/67
-#EXTINF:-1,RTSH Sport
-http://62.210.152.92:25461/kanale2/Ass/65
-#EXTINF:-1,Opoja
-http://62.210.152.92:25461/kanale2/Ass/68
-#EXTINF:-1,T7
-http://62.210.152.92:25461/kanale2/Ass/74
-#EXTINF:-1,TV Shenja
-http://62.210.152.92:25461/kanale2/Ass/75
-#EXTINF:-1,Big B
-http://62.210.152.92:25461/kanale2/Ass/76
-#EXTINF:-1,BESA
-http://62.210.152.92:25461/kanale2/Ass/77
-#EXTINF:-1,Folk
-http://62.210.152.92:25461/kanale2/Ass/78
-#EXTINF:-1,TOP
-http://62.210.152.92:25461/kanale2/Ass/79
-#EXTINF:-1,Premium 3 
-http://62.210.152.92:25461/kanale2/Ass/80
+#EXTINF:-1 tvg-id="" tvg-name="Klan FHD" tvg-logo="" group-title="Kombtare",Klan FHD
+http://62.210.152.92:25461/live/kanale2/Ass/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ilahi" tvg-logo="" group-title="Kombtare",Ilahi
+http://62.210.152.92:25461/live/kanale2/Ass/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP Channel " tvg-logo="" group-title="Kombtare",TOP Channel 
+http://62.210.152.92:25461/live/kanale2/Ass/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIZION PLUS " tvg-logo="" group-title="Kombtare",VIZION PLUS 
+http://62.210.152.92:25461/live/kanale2/Ass/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 24" tvg-logo="" group-title="Kombtare",RTSH 24
+http://62.210.152.92:25461/live/kanale2/Ass/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KLAN Kosova" tvg-logo="" group-title="Kombtare",KLAN Kosova
+http://62.210.152.92:25461/live/kanale2/Ass/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTV HD" tvg-logo="" group-title="Kombtare",KTV HD
+http://62.210.152.92:25461/live/kanale2/Ass/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 HD" tvg-logo="" group-title="Kombtare",RTV 21 HD
+http://62.210.152.92:25461/live/kanale2/Ass/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Dukagjini" tvg-logo="" group-title="Kombtare",TV Dukagjini
+http://62.210.152.92:25461/live/kanale2/Ass/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Humor HD" tvg-logo="" group-title="Kombtare",Humor HD
+http://62.210.152.92:25461/live/kanale2/Ass/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Qifteli HD" tvg-logo="" group-title="Kombtare",Qifteli HD
+http://62.210.152.92:25461/live/kanale2/Ass/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 HD" tvg-logo="" group-title="Kombtare",RTSH 1 HD
+http://62.210.152.92:25461/live/kanale2/Ass/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mimi TV" tvg-logo="" group-title="femije",Mimi TV
+http://62.210.152.92:25461/live/kanale2/Ass/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="" group-title="femije",TOM & JERRY
+http://62.210.152.92:25461/live/kanale2/Ass/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Femije" tvg-logo="" group-title="femije",Femije
+http://62.210.152.92:25461/live/kanale2/Ass/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filma 24" tvg-logo="" group-title="Filma",Filma 24
+http://62.210.152.92:25461/live/kanale2/Ass/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLD 1 HD" tvg-logo="" group-title="Filma",GOLD 1 HD
+http://62.210.152.92:25461/live/kanale2/Ass/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premium 2 HD" tvg-logo="" group-title="Filma",Premium 2 HD
+http://62.210.152.92:25461/live/kanale2/Ass/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ACTION HD" tvg-logo="" group-title="Filma",ACTION HD
+http://62.210.152.92:25461/live/kanale2/Ass/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premium 1 HD" tvg-logo="" group-title="Filma",Premium 1 HD
+http://62.210.152.92:25461/live/kanale2/Ass/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fantazi HD" tvg-logo="" group-title="Filma",Fantazi HD
+http://62.210.152.92:25461/live/kanale2/Ass/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X Family" tvg-logo="" group-title="Filma",X Family
+http://62.210.152.92:25461/live/kanale2/Ass/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER 1" tvg-logo="" group-title="Filma",PREMIER 1
+http://62.210.152.92:25461/live/kanale2/Ass/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Triller HD" tvg-logo="" group-title="Filma",Triller HD
+http://62.210.152.92:25461/live/kanale2/Ass/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gold 2" tvg-logo="" group-title="Filma",Gold 2
+http://62.210.152.92:25461/live/kanale2/Ass/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Femije" tvg-logo="" group-title="femije",RTSH Femije
+http://62.210.152.92:25461/live/kanale2/Ass/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 24" tvg-logo="" group-title="Kombtare",NEWS 24
+http://62.210.152.92:25461/live/kanale2/Ass/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REPORT HD" tvg-logo="" group-title="Kombtare",REPORT HD
+http://62.210.152.92:25461/live/kanale2/Ass/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="Kombtare",ABC News
+http://62.210.152.92:25461/live/kanale2/Ass/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ora News" tvg-logo="" group-title="Kombtare",Ora News
+http://62.210.152.92:25461/live/kanale2/Ass/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1" tvg-logo="" group-title="Kombtare",RTK 1
+http://62.210.152.92:25461/live/kanale2/Ass/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="" group-title="Kombtare",Peace TV
+http://62.210.152.92:25461/live/kanale2/Ass/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="" group-title="Kombtare",TV Dielli
+http://62.210.152.92:25461/live/kanale2/Ass/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zjarr TV" tvg-logo="" group-title="Kombtare",Zjarr TV
+http://62.210.152.92:25461/live/kanale2/Ass/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jolly HD" tvg-logo="" group-title="Filma",Jolly HD
+http://62.210.152.92:25461/live/kanale2/Ass/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3 Plus" tvg-logo="" group-title="Filma",3 Plus
+http://62.210.152.92:25461/live/kanale2/Ass/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Film" tvg-logo="" group-title="Filma",RTSH Film
+http://62.210.152.92:25461/live/kanale2/Ass/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TDC" tvg-logo="" group-title="Filma",TDC
+http://62.210.152.92:25461/live/kanale2/Ass/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Natyra" tvg-logo="" group-title="Kombtare",Natyra
+http://62.210.152.92:25461/live/kanale2/Ass/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="youtube" tvg-logo="" group-title="femije",youtube
+http://62.210.152.92:25461/live/kanale2/Ass/67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Sport" tvg-logo="" group-title="sport",RTSH Sport
+http://62.210.152.92:25461/live/kanale2/Ass/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Opoja" tvg-logo="" group-title="Kombtare",Opoja
+http://62.210.152.92:25461/live/kanale2/Ass/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T7" tvg-logo="" group-title="Kombtare",T7
+http://62.210.152.92:25461/live/kanale2/Ass/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Shenja" tvg-logo="" group-title="Kombtare",TV Shenja
+http://62.210.152.92:25461/live/kanale2/Ass/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big B" tvg-logo="" group-title="Kombtare",Big B
+http://62.210.152.92:25461/live/kanale2/Ass/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BESA" tvg-logo="" group-title="Kombtare",BESA
+http://62.210.152.92:25461/live/kanale2/Ass/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk" tvg-logo="" group-title="Kombtare",Folk
+http://62.210.152.92:25461/live/kanale2/Ass/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP" tvg-logo="" group-title="Kombtare",TOP
+http://62.210.152.92:25461/live/kanale2/Ass/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premium 3 " tvg-logo="" group-title="Filma",Premium 3 
+http://62.210.152.92:25461/live/kanale2/Ass/80.m3u8
