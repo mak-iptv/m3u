@@ -1,4 +1,115 @@
-EXTM3U #EXTM3U #EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="info-smariptv do not pres ok wait for the list please/12.png" ,Vetem ne smart IPTV Nr +44 79 6008 5008 viber http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8 #EXTINF:-1,00447 888 999 065 LITSA E RE ME 400+ KANALE FALAS VETEM NE SMART TV ME APP SMARTIPTV http://62.210.215.83:8000/play/a00y/index.m3u8 #EXTINF:-1,RTSH 1 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8 #EXTINF:-1,RTSH 2 https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8 #EXTINF:-1,RTSH 3 http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8 #EXTINF:-1,RTSH 24 https://tvlive.rtsh.dev/live/rtsh_24_ott_p3/playlist.m3u8 #EXTINF:-1,RTSH Plus http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8 #EXTINF:-1,RTSH Shqip http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8 #EXTINF:-1,RTSHsport https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8 #EXTINF:-1,RTSH ShkollÃ« https://tvlive.rtsh.dev/live/rtsh_shkolle_mob_p2/playlist.m3u8 #EXTINF:-1,RTSH Agro https://tvlive.rtsh.dev/live/rtsh_agro_ott_p2/playlist.m3u8 #EXTINF:-1,RTSH MuzikÃ« https://tvlive.rtsh.dev/live/rtsh_muzike_mob_p2/playlist.m3u8 #EXTINF:-1,RTSH Film https://tvlive.rtsh.dev/live/rtsh_film_mob_p2/playlist.m3u8 #EXTINF:-1,RTSH SHqip https://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8 #EXTINF:-1,RTSH Kuvend https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott_p1/playlist.m3u8 #EXTINF:-1,RTSH KorÃ§a https://tvlive.rtsh.dev/live/rtsh_korca_ott_p2/playlist.m3u8 #EXTINF:-1,RTSH Gjirokastra https://tvlive.rtsh.dev/live/rtsh_gjirokastra_mob_p1/playlist.m3u8 #EXTINF:-1,RTSH KukÃ«si https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8 #EXTINF:-1,RTSH Pluse https://tvlive.rtsh.dev/live/rtsh_plus_ott_p2/playlist.m3u8 #EXTINF:-1,top channel http://mobflussonic1.tibo.tv/topchannelhd/mpegts #EXTINF:-1 tvg-id="" tvg-name="RTK 1 AL" tvg-logo="http://picon.space/rtk1al.png" ,RTK 1 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8 #EXTINF:-1 tvg-id="" tvg-name="RTK 3 " tvg-logo="http://picon.space/rtk3al.png" ,RTK 3 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8 #EXTINF:-1 tvg-id="" tvg-name="RTK 4 " tvg-logo="http://picon.space/rtk4al.png" ,RTK 4 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8 #EXTINF:0,RROKUM http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8 #EXTINF:0,CHANNEL ONE http://145.239.2.153:8081/channelone/channelone/playlist.m3u8 #EXTINF:0,IN TV HD http://80.90.86.195:1935/live/livestream/playlist.m3u8 #EXTINF:0,Topestrada http://27.shqiptv.org/live/topestrada/index.m3u8 #EXTINF:0,EURO AL http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8 #EXTINF:-1,ALB MUSIC HD http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8 #EXTINF:0, Istogu Channel HD http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8 #EXTINF:-1,ZJARR HD http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8 #EXTINF:-1,TV DIELLI http://51.15.180.159:8081/play/hls/dielli/index.m3u8 #EXTINF:-1 tvg-id="" tvg-name="TV Opoja " tvg-logo="http://picon.space/tvopoja.png" ,TV Opoja http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8 #EXTINF:0, KOHA TV rtmp://live.tvkoha.tv/live/koha/livestream #EXTINF:-1,al usa tv http://stream.shqiptv.com:7080/altvusa/index.m3u8 #EXTINF:-1 tvg-id="" tvg-name="RTV ZIK" tvg-logo="http://iptvfalas.com/zik.png" ,RTV ZIK http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8 #EXTINF:-1,SYRIBLUE HD http://live.syri.tv:6969/live/syriblue/hd/23.ts #EXTINF:-1,SYRIVISION http://178.132.6.97/SYRIVISION1/index.m3u8 #EXTINF:-1,ALB UK rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream #EXTINF:0,Tv 7 Albania http://media.az-mediaserver.com:1935/7064/7064/chunklist.m3u8 #EXTINF:-1,A1 report http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8 #EXTINF:0,ORANEWS http://145.239.2.153:8081/oranews/live/playlist.m3u8 #EXTINF:-1,7 News https://stream.shqiptv.com/tst/7NEWS-8761-sd/index.m3u8 #EXTINF:-1,NEWS 24 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8 #EXTINF:-1, Dream TV http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8 #EXTINF:-1,M2O TV http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on #EXTINF:-1,NRJ HITS http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8 #EXTINF:-1, myHit http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8 #EXTINF:0,MTV #EXTVLCOPT:network-caching=300 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8 #EXTINF:0,MUSIC CHOICE #EXTVLCOPT:network-caching=300 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8 #EXTINF:-1,DW http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on #EXTINF:-1, Sky News http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8 #EXTINF:-1,france24 http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8 #EXTINF:-1,ALL Sports http://173.236.10.10:1935/dgrau/dgrau/live.m3u8 #EXTINF:-1,ID Fashion https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8 #EXTINF:-1,HD Media 3D http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="info-smariptv do not pres ok wait for the list please/12.png" ,Vetem ne smart IPTV Nr +44 79 6008 5008 viber 
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8 
+#EXTINF:-1,00447 888 999 065 LITSA E RE ME 400+ KANALE FALAS VETEM NE SMART TV ME APP SMARTIPTV 
+http://62.210.215.83:8000/play/a00y/index.m3u8 
+#EXTINF:-1,RTSH 1 
+http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
+#EXTINF:-1,RTSH 2
+https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8 
+#EXTINF:-1,RTSH 3
+http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8 
+#EXTINF:-1,RTSH 24
+https://tvlive.rtsh.dev/live/rtsh_24_ott_p3/playlist.m3u8
+#EXTINF:-1,RTSH Plus
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+#EXTINF:-1,RTSH Shqip
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
+#EXTINF:-1,RTSHsport
+https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8 
+#EXTINF:-1,RTSH ShkollÃ«
+https://tvlive.rtsh.dev/live/rtsh_shkolle_mob_p2/playlist.m3u8 
+#EXTINF:-1,RTSH Agro
+https://tvlive.rtsh.dev/live/rtsh_agro_ott_p2/playlist.m3u8
+#EXTINF:-1,RTSH MuzikÃ«
+https://tvlive.rtsh.dev/live/rtsh_muzike_mob_p2/playlist.m3u8
+#EXTINF:-1,RTSH Film
+https://tvlive.rtsh.dev/live/rtsh_film_mob_p2/playlist.m3u8 
+#EXTINF:-1,RTSH SHqip
+https://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8
+#EXTINF:-1,RTSH Kuvend 
+https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott_p1/playlist.m3u8 
+#EXTINF:-1,RTSH KorÃ§a
+https://tvlive.rtsh.dev/live/rtsh_korca_ott_p2/playlist.m3u8 
+#EXTINF:-1,RTSH Gjirokastra
+https://tvlive.rtsh.dev/live/rtsh_gjirokastra_mob_p1/playlist.m3u8 
+#EXTINF:-1,RTSH KukÃ«si 
+https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
+#EXTINF:-1,RTSH Pluse
+https://tvlive.rtsh.dev/live/rtsh_plus_ott_p2/playlist.m3u8 
+#EXTINF:-1,top channel
+http://mobflussonic1.tibo.tv/topchannelhd/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 AL" tvg-logo="http://picon.space/rtk1al.png" ,RTK 1 
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3 " tvg-logo="http://picon.space/rtk3al.png" ,RTK 3 
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4 " tvg-logo="http://picon.space/rtk4al.png" ,RTK 4
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:0,RROKUM 
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:0,CHANNEL ONE
+http://145.239.2.153:8081/channelone/channelone/playlist.m3u8
+#EXTINF:0,IN TV HD
+http://80.90.86.195:1935/live/livestream/playlist.m3u8 
+#EXTINF:0,Topestrada 
+http://27.shqiptv.org/live/topestrada/index.m3u8
+#EXTINF:0,EURO AL 
+http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
+#EXTINF:-1,ALB MUSIC HD 
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8 
+#EXTINF:0, Istogu Channel HD
+http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZJARR HD 
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:-1,TV DIELLI 
+http://51.15.180.159:8081/play/hls/dielli/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja " tvg-logo="http://picon.space/tvopoja.png" ,TV Opoja 
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:0, KOHA TV
+rtmp://live.tvkoha.tv/live/koha/livestream
+#EXTINF:-1,al usa tv
+http://stream.shqiptv.com:7080/altvusa/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV ZIK" tvg-logo="http://iptvfalas.com/zik.png" ,RTV ZIK 
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+#EXTINF:-1,SYRIBLUE HD 
+http://live.syri.tv:6969/live/syriblue/hd/23.ts 
+#EXTINF:-1,SYRIVISION 
+http://178.132.6.97/SYRIVISION1/index.m3u8
+#EXTINF:-1,ALB UK 
+rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream
+#EXTINF:0,Tv 7 
+Albania http://media.az-mediaserver.com:1935/7064/7064/chunklist.m3u8 
+#EXTINF:-1,A1 report
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8 
+#EXTINF:0,ORANEWS 
+http://145.239.2.153:8081/oranews/live/playlist.m3u8 
+#EXTINF:-1,7 News 
+https://stream.shqiptv.com/tst/7NEWS-8761-sd/index.m3u8 
+#EXTINF:-1,NEWS 24 
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1, Dream TV 
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8 
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,NRJ HITS
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1, myHit http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8 
+#EXTINF:0,MTV #EXTVLCOPT:network-caching=300 
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0,MUSIC CHOICE #EXTVLCOPT:network-caching=300
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,DW 
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Sky News 
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,france24 
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+#EXTINF:-1,ALL Sports 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8 
+#EXTINF:-1,ID Fashion
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8 
+#EXTINF:-1,HD Media 3D 
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 #EXTINF:0,RTK 1
 Please login to see this link.
 #EXTINF:0,21 HD
