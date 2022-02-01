@@ -38,789 +38,412 @@ http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="RTK 4 " tvg-logo="http://picon.space/rtk4al.png" ,RTK 4
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1,AL: 3 Plus HD
-http://iptvmedia.live:8080/12810/7f788911/4105
-#EXTINF:-1,AL: 24 Kitchen HD
-http://iptvmedia.live:8080/12810/7f788911/1343
-#EXTINF:-1,AL 24 Kitchen HD
-http://iptvmedia.live:8080/12810/7f788911/274339
-#EXTINF:-1,AL: 8ova Action HD
-http://iptvmedia.live:8080/12810/7f788911/263764
-#EXTINF:-1,AL: 8ova Cifteli FHD
-http://iptvmedia.live:8080/12810/7f788911/12464
-#EXTINF:-1,AL: 8ova Drame HD
-http://iptvmedia.live:8080/12810/7f788911/263766
-#EXTINF:-1,AL: 8ova Gjurme Shqiptare TV HD
-http://iptvmedia.live:8080/12810/7f788911/193733
-#EXTINF:-1,AL: 8ova Komedi HD
-http://iptvmedia.live:8080/12810/7f788911/263767
-#EXTINF:-1,AL: 8ova Music HD
-http://iptvmedia.live:8080/12810/7f788911/263774
-#EXTINF:-1,AL 8ova Music HD
-http://iptvmedia.live:8080/12810/7f788911/274720
-#EXTINF:-1,AL: A TV FHD
-http://iptvmedia.live:8080/12810/7f788911/171891
-#EXTINF:-1,AL: A2 FHD
-http://iptvmedia.live:8080/12810/7f788911/281857
-#EXTINF:-1,AL: AA New York TV HD
-http://iptvmedia.live:8080/12810/7f788911/281965
-#EXTINF:-1,AL: ABC HD
-http://iptvmedia.live:8080/12810/7f788911/2551
-#EXTINF:-1,AL: ACTV HD
-http://iptvmedia.live:8080/12810/7f788911/281966
-#EXTINF:-1,AL: AD TV HD
-http://iptvmedia.live:8080/12810/7f788911/282007
-#EXTINF:-1,AL: Adria Net HD
-http://iptvmedia.live:8080/12810/7f788911/173470
-#EXTINF:-1,AL: ALB Humor 2 HD
-http://iptvmedia.live:8080/12810/7f788911/43078
-#EXTINF:-1,AL: ALB Music HD
-http://iptvmedia.live:8080/12810/7f788911/44994
-#EXTINF:-1,AL ALB Music HD
-http://iptvmedia.live:8080/12810/7f788911/290130
-#EXTINF:-1,AL: Alb Swiss FHD
-http://iptvmedia.live:8080/12810/7f788911/12437
-#EXTINF:-1,AL: Albuk FHD
-http://iptvmedia.live:8080/12810/7f788911/4037
-#EXTINF:-1,AL: Alpo HD
-http://iptvmedia.live:8080/12810/7f788911/278528
-#EXTINF:-1,AL: Alsat FHD
-http://iptvmedia.live:8080/12810/7f788911/1346
-#EXTINF:-1,AL: Amol TV FHD
-http://iptvmedia.live:8080/12810/7f788911/281387
-#EXTINF:-1,AL: ANIMAL PLANET FHD
-http://iptvmedia.live:8080/12810/7f788911/15558
-#EXTINF:-1,AL ANIMAL PLANET FHD
-http://iptvmedia.live:8080/12810/7f788911/273387
-#EXTINF:-1,AL: Apollon TV FHD
-http://iptvmedia.live:8080/12810/7f788911/281856
-#EXTINF:-1,AL: Arena Sport 1 FHD
-http://iptvmedia.live:8080/12810/7f788911/193741
-#EXTINF:-1,AL: Arena Sport 2 HD
-http://iptvmedia.live:8080/12810/7f788911/171883
-#EXTINF:-1,AL: Arena Sport 4 FHD
-http://iptvmedia.live:8080/12810/7f788911/193744
-#EXTINF:-1,AL: Arena Sport 5 FHD
-http://iptvmedia.live:8080/12810/7f788911/57711
-#EXTINF:-1,AL: Art Doku 1 FHD
-http://iptvmedia.live:8080/12810/7f788911/146080
-#EXTINF:-1,AL: Art Doku 2 FHD
-http://iptvmedia.live:8080/12810/7f788911/146081
-#EXTINF:-1,AL: Art Kino 1 FHD
-http://iptvmedia.live:8080/12810/7f788911/146084
-#EXTINF:-1,AL: Art Kino 2 FHD
-http://iptvmedia.live:8080/12810/7f788911/146085
-#EXTINF:-1,AL: Art Kino 3 FHD
-http://iptvmedia.live:8080/12810/7f788911/146086
-#EXTINF:-1,AL: ART Sport 1 FHD
-http://iptvmedia.live:8080/12810/7f788911/23143
-#EXTINF:-1,AL: ART Sport 2 FHD
-http://iptvmedia.live:8080/12810/7f788911/23146
-#EXTINF:-1,AL: ART Sport 3 FHD
-http://iptvmedia.live:8080/12810/7f788911/40061
-#EXTINF:-1,AL: Arta News HD
-http://iptvmedia.live:8080/12810/7f788911/4039
-#EXTINF:-1,AL: Arti TV FHD
-http://iptvmedia.live:8080/12810/7f788911/278529
-#EXTINF:-1,AL: Ashkali TV HD
-http://iptvmedia.live:8080/12810/7f788911/193769
-#EXTINF:-1,AL: B Aksion HD
-http://iptvmedia.live:8080/12810/7f788911/188231
-#EXTINF:-1,AL: B Film Turke HD
-http://iptvmedia.live:8080/12810/7f788911/188233
-#EXTINF:-1,AL: B Gold 1 HD
-http://iptvmedia.live:8080/12810/7f788911/188234
-#EXTINF:-1,AL: B Gold 4 HD
-http://iptvmedia.live:8080/12810/7f788911/188237
-#EXTINF:-1,AL: B Kemal Sunal TV HD
-http://iptvmedia.live:8080/12810/7f788911/188245
-#EXTINF:-1,AL: B Popullore HD
-http://iptvmedia.live:8080/12810/7f788911/266683
-#EXTINF:-1,AL: Baby TV HD
-http://iptvmedia.live:8080/12810/7f788911/4040
-#EXTINF:-1,AL Baby TV HD
-http://iptvmedia.live:8080/12810/7f788911/274323
-#EXTINF:-1,AL: Balkanika Music TV HD
-http://iptvmedia.live:8080/12810/7f788911/281981
-#EXTINF:-1,AL Balkanika Music TV HD
-http://iptvmedia.live:8080/12810/7f788911/283010
-#EXTINF:-1,AL: Bang Bang HD
-http://iptvmedia.live:8080/12810/7f788911/1342
-#EXTINF:-1,AL: BBF Music HD
-http://iptvmedia.live:8080/12810/7f788911/4041
-#EXTINF:-1,AL BBF Music HD
-http://iptvmedia.live:8080/12810/7f788911/274734
-#EXTINF:-1,AL: Besa TV HD
-http://iptvmedia.live:8080/12810/7f788911/4042
-#EXTINF:-1,AL: Big Brother 1 FHD
-http://iptvmedia.live:8080/12810/7f788911/289613
-#EXTINF:-1,AL: Big Brother 2 FHD
-http://iptvmedia.live:8080/12810/7f788911/289614
-#EXTINF:-1,AL: Blue Sky TV Music HD
-http://iptvmedia.live:8080/12810/7f788911/280117
-#EXTINF:-1,AL Blue Sky TV Music HD
-http://iptvmedia.live:8080/12810/7f788911/283003
-#EXTINF:-1,AL: BOIN TV FHD
-http://iptvmedia.live:8080/12810/7f788911/15520
-#EXTINF:-1,AL: Boomerang HD
-http://iptvmedia.live:8080/12810/7f788911/1341
-#EXTINF:-1,AL: Cartoonito HD
-http://iptvmedia.live:8080/12810/7f788911/283189
-#EXTINF:-1,AL Cartoonito HD
-http://iptvmedia.live:8080/12810/7f788911/290095
-#EXTINF:-1,AL: CBS News FHD
-http://iptvmedia.live:8080/12810/7f788911/283188
-#EXTINF:-1,AL: Channel One HD
-http://iptvmedia.live:8080/12810/7f788911/5139
-#EXTINF:-1,AL: Cinema Max HD
-http://iptvmedia.live:8080/12810/7f788911/169857
-#EXTINF:-1,AL: City TV HD
-http://iptvmedia.live:8080/12810/7f788911/281899
-#EXTINF:-1,AL: Click HD
-http://iptvmedia.live:8080/12810/7f788911/16447
-#EXTINF:-1,AL: Comedy Central Extra HD
-http://iptvmedia.live:8080/12810/7f788911/166512
-#EXTINF:-1,AL: Cufo HD
-http://iptvmedia.live:8080/12810/7f788911/1339
-#EXTINF:-1,AL: CW HD
-http://iptvmedia.live:8080/12810/7f788911/283196
-#EXTINF:-1,AL: Dark Aventure FHD
-http://iptvmedia.live:8080/12810/7f788911/266411
-#EXTINF:-1,AL: Dark Balade FHD
-http://iptvmedia.live:8080/12810/7f788911/266409
-#EXTINF:-1,AL: Dark Baskia Humor HD
-http://iptvmedia.live:8080/12810/7f788911/166528
-#EXTINF:-1,AL: Dark Bitonia FHD
-http://iptvmedia.live:8080/12810/7f788911/267055
-#EXTINF:-1,AL: Dark ChuChu TV HD
-http://iptvmedia.live:8080/12810/7f788911/266402
-#EXTINF:-1,AL: Dark Cifteli FHD
-http://iptvmedia.live:8080/12810/7f788911/166535
-#EXTINF:-1,AL: Dark Drame FHD
-http://iptvmedia.live:8080/12810/7f788911/266396
-#EXTINF:-1,AL: Dark Gezuar FHD
-http://iptvmedia.live:8080/12810/7f788911/278588
-#EXTINF:-1,AL: Dark Gold 1 FHD
-http://iptvmedia.live:8080/12810/7f788911/166537
-#EXTINF:-1,AL: Dark Gold 2 FHD
-http://iptvmedia.live:8080/12810/7f788911/2553
-#EXTINF:-1,AL: Dark Gold 3 FHD
-http://iptvmedia.live:8080/12810/7f788911/2554
-#EXTINF:-1,AL: Dark Gold 4 FHD
-http://iptvmedia.live:8080/12810/7f788911/16460
-#EXTINF:-1,AL: Dark Gold 5 FHD
-http://iptvmedia.live:8080/12810/7f788911/266392
-#EXTINF:-1,AL: Dark Gold 6 FHD
-http://iptvmedia.live:8080/12810/7f788911/266393
-#EXTINF:-1,AL: Dark Gold 7 FHD
-http://iptvmedia.live:8080/12810/7f788911/266394
-#EXTINF:-1,AL: Dark Gold 8 FHD
-http://iptvmedia.live:8080/12810/7f788911/266395
-#EXTINF:-1,AL: Dark Hindi FHD
-http://iptvmedia.live:8080/12810/7f788911/266419
-#EXTINF:-1,AL: Dark Hip Hop FHD
-http://iptvmedia.live:8080/12810/7f788911/166534
-#EXTINF:-1,AL: Dark Horror FHD
-http://iptvmedia.live:8080/12810/7f788911/188263
-#EXTINF:-1,AL: Dark iStar Seriali HD
-http://iptvmedia.live:8080/12810/7f788911/247879
-#EXTINF:-1,AL: Dark Kafeneja jone HD
-http://iptvmedia.live:8080/12810/7f788911/188264
-#EXTINF:-1,AL: Dark Komedi FHD
-http://iptvmedia.live:8080/12810/7f788911/166517
-#EXTINF:-1,AL: Dark Netflix HD
-http://iptvmedia.live:8080/12810/7f788911/195797
-#EXTINF:-1,AL: Dark O sa mire HD
-http://iptvmedia.live:8080/12810/7f788911/188270
-#EXTINF:-1,AL: Dark Peralla HD
-http://iptvmedia.live:8080/12810/7f788911/266401
-#EXTINF:-1,AL: Dark Pink Panther HD
-http://iptvmedia.live:8080/12810/7f788911/266399
-#EXTINF:-1,AL: Dark Popullore 2 FHD
-http://iptvmedia.live:8080/12810/7f788911/188272
-#EXTINF:-1,AL: Dark Popullore 3 FHD
-http://iptvmedia.live:8080/12810/7f788911/266407
-#EXTINF:-1,AL: Dark Popullore FHD
-http://iptvmedia.live:8080/12810/7f788911/166533
-#EXTINF:-1,AL: Dark Premiere Kids FHD
-http://iptvmedia.live:8080/12810/7f788911/266397
-#EXTINF:-1,AL: Dark Romance FHD
-http://iptvmedia.live:8080/12810/7f788911/157409
-#EXTINF:-1,AL: Dark sci-fi FHD
-http://iptvmedia.live:8080/12810/7f788911/4065
-#EXTINF:-1,AL: Dark Shengen Visa HD
-http://iptvmedia.live:8080/12810/7f788911/195799
-#EXTINF:-1,AL: Dark Shpk Nazi HD
-http://iptvmedia.live:8080/12810/7f788911/166522
-#EXTINF:-1,AL: Dark Stupcat HD
-http://iptvmedia.live:8080/12810/7f788911/166520
-#EXTINF:-1,AL: Dark Thriller FHD
-http://iptvmedia.live:8080/12810/7f788911/12465
-#EXTINF:-1,AL: Dark western FHD
-http://iptvmedia.live:8080/12810/7f788911/16442
-#EXTINF:-1,AL: Dasma TV HD
-http://iptvmedia.live:8080/12810/7f788911/8288
-#EXTINF:-1,AL: Digi Gold 1 HD
-http://iptvmedia.live:8080/12810/7f788911/281904
-#EXTINF:-1,AL: Discovery Real Time HD
-http://iptvmedia.live:8080/12810/7f788911/290514
-#EXTINF:-1,AL Discovery Real Time HD
-http://iptvmedia.live:8080/12810/7f788911/290588
-#EXTINF:-1,AL: Discovery Science FHD
-http://iptvmedia.live:8080/12810/7f788911/166530
-#EXTINF:-1,AL: Discovery World HD
-http://iptvmedia.live:8080/12810/7f788911/4046
-#EXTINF:-1,AL Discovery World HD
-http://iptvmedia.live:8080/12810/7f788911/273707
-#EXTINF:-1,AL: Disney Channel HD
-http://iptvmedia.live:8080/12810/7f788911/193725
-#EXTINF:-1,AL Disney Channel HD
-http://iptvmedia.live:8080/12810/7f788911/290603
-#EXTINF:-1,AL: Disney Junior FHD
-http://iptvmedia.live:8080/12810/7f788911/44959
-#EXTINF:-1,AL Disney Junior FHD
-http://iptvmedia.live:8080/12810/7f788911/274473
-#EXTINF:-1,AL: Dizi Channel HD
-http://iptvmedia.live:8080/12810/7f788911/41309
-#EXTINF:-1,AL: Docu Box FHD
-http://iptvmedia.live:8080/12810/7f788911/267033
-#EXTINF:-1,AL: Dream Works FHD
-http://iptvmedia.live:8080/12810/7f788911/276672
-#EXTINF:-1,AL: Drita TV FHD
-http://iptvmedia.live:8080/12810/7f788911/41318
-#EXTINF:-1,AL: Elrodi TV HD
-http://iptvmedia.live:8080/12810/7f788911/2557
-#EXTINF:-1,AL: Episode HD
-http://iptvmedia.live:8080/12810/7f788911/169877
-#EXTINF:-1,AL: Era TV HD
-http://iptvmedia.live:8080/12810/7f788911/13864
-#EXTINF:-1,AL: ESPN 2 HD
-http://iptvmedia.live:8080/12810/7f788911/283198
-#EXTINF:-1,AL: ESPN HD
-http://iptvmedia.live:8080/12810/7f788911/283199
-#EXTINF:-1,AL: Euro AL HD
-http://iptvmedia.live:8080/12810/7f788911/42818
-#EXTINF:-1,AL: Eurofilm HD
-http://iptvmedia.live:8080/12810/7f788911/5952
-#EXTINF:-1,AL: euronews Albania FHD
-http://iptvmedia.live:8080/12810/7f788911/169839
-#EXTINF:-1,AL: EUROSPORT 1 FHD
-http://iptvmedia.live:8080/12810/7f788911/45047
-#EXTINF:-1,AL: EUROSPORT 2 FHD
-http://iptvmedia.live:8080/12810/7f788911/16454
-#EXTINF:-1,AL: Explorer History HD
-http://iptvmedia.live:8080/12810/7f788911/1336
-#EXTINF:-1,AL Explorer History HD
-http://iptvmedia.live:8080/12810/7f788911/274198
-#EXTINF:-1,AL: Explorer Natyra HD
-http://iptvmedia.live:8080/12810/7f788911/4048
-#EXTINF:-1,AL: Explorer Shkence HD
-http://iptvmedia.live:8080/12810/7f788911/5961
-#EXTINF:-1,AL: Festina TV HD
-http://iptvmedia.live:8080/12810/7f788911/290454
-#EXTINF:-1,AL: Film & Arts HD
-http://iptvmedia.live:8080/12810/7f788911/285148
-#EXTINF:-1,AL: Film Aksion FHD
-http://iptvmedia.live:8080/12810/7f788911/2558
-#EXTINF:-1,AL: Film Autor HD
-http://iptvmedia.live:8080/12810/7f788911/1333
-#EXTINF:-1,AL: Film Drame HD
-http://iptvmedia.live:8080/12810/7f788911/1332
-#EXTINF:-1,AL: Film DY FHD
-http://iptvmedia.live:8080/12810/7f788911/287740
-#EXTINF:-1,AL: Film Gold HD
-http://iptvmedia.live:8080/12810/7f788911/283212
-#EXTINF:-1,AL: Film Hits FHD
-http://iptvmedia.live:8080/12810/7f788911/1330
-#EXTINF:-1,AL: Film Komedi HD
-http://iptvmedia.live:8080/12810/7f788911/1329
-#EXTINF:-1,AL: Film Max FHD
-http://iptvmedia.live:8080/12810/7f788911/1331
-#EXTINF:-1,AL: Film Nje FHD
-http://iptvmedia.live:8080/12810/7f788911/2559
-#EXTINF:-1,AL: Film Stinet HD
-http://iptvmedia.live:8080/12810/7f788911/4096
-#EXTINF:-1,AL: Film Thriller HD
-http://iptvmedia.live:8080/12810/7f788911/1328
-#EXTINF:-1,AL: FilmBox Arthouse HD
-http://iptvmedia.live:8080/12810/7f788911/145895
-#EXTINF:-1,AL: FilmBox Extra FHD
-http://iptvmedia.live:8080/12810/7f788911/145896
-#EXTINF:-1,AL: FilmBox Premium FHD
-http://iptvmedia.live:8080/12810/7f788911/145894
-#EXTINF:-1,AL: First Channel FHD
-http://iptvmedia.live:8080/12810/7f788911/281855
-#EXTINF:-1,AL: Folk+ HD
-http://iptvmedia.live:8080/12810/7f788911/4053
-#EXTINF:-1,AL: Fox Crime FHD
-http://iptvmedia.live:8080/12810/7f788911/4055
-#EXTINF:-1,AL: FOX HD
-http://iptvmedia.live:8080/12810/7f788911/5133
-#EXTINF:-1,AL: Fox Life FHD
-http://iptvmedia.live:8080/12810/7f788911/5132
-#EXTINF:-1,AL Fox Life FHD
-http://iptvmedia.live:8080/12810/7f788911/273958
-#EXTINF:-1,AL: Fox Movies HD
-http://iptvmedia.live:8080/12810/7f788911/4056
-#EXTINF:-1,AL: Fox News HD
-http://iptvmedia.live:8080/12810/7f788911/5136
-#EXTINF:-1,AL: Fox Soccer Plus HD
-http://iptvmedia.live:8080/12810/7f788911/283187
-#EXTINF:-1,AL: Frame TV FHD
-http://iptvmedia.live:8080/12810/7f788911/281967
-#EXTINF:-1,AL: FreeSports FHD
-http://iptvmedia.live:8080/12810/7f788911/197068
-#EXTINF:-1,AL: FXX HD
-http://iptvmedia.live:8080/12810/7f788911/283197
-#EXTINF:-1,AL: Gjolli Islam HD
-http://iptvmedia.live:8080/12810/7f788911/23795
-#EXTINF:-1,AL: Globi TV HD
-http://iptvmedia.live:8080/12810/7f788911/280161
-#EXTINF:-1,AL: HBO 2 FHD
-http://iptvmedia.live:8080/12810/7f788911/26161
-#EXTINF:-1,AL: HBO 3 HD
-http://iptvmedia.live:8080/12810/7f788911/26156
-#EXTINF:-1,AL: HBO HD
-http://iptvmedia.live:8080/12810/7f788911/26155
-#EXTINF:-1,AL: I Love Tropoja TV HD
-http://iptvmedia.live:8080/12810/7f788911/266657
-#EXTINF:-1,AL: Investigation Discovery HD
-http://iptvmedia.live:8080/12810/7f788911/290513
-#EXTINF:-1,AL Investigation Discovery HD
-http://iptvmedia.live:8080/12810/7f788911/290587
-#EXTINF:-1,AL: Istogu Channel FHD
-http://iptvmedia.live:8080/12810/7f788911/41305
-#EXTINF:-1,AL: JimJam HD
-http://iptvmedia.live:8080/12810/7f788911/145871
-#EXTINF:-1,AL JimJam HD
-http://iptvmedia.live:8080/12810/7f788911/274415
-#EXTINF:-1,AL: Junior TV HD
-http://iptvmedia.live:8080/12810/7f788911/2560
-#EXTINF:-1,AL Junior TV HD
-http://iptvmedia.live:8080/12810/7f788911/274444
-#EXTINF:-1,AL: K Sport 1 HD
-http://iptvmedia.live:8080/12810/7f788911/1863
-#EXTINF:-1,AL: K Sport 2 HD
-http://iptvmedia.live:8080/12810/7f788911/1864
-#EXTINF:-1,AL: K Sport 3 HD
-http://iptvmedia.live:8080/12810/7f788911/1865
-#EXTINF:-1,AL: K Sport 4 HD
-http://iptvmedia.live:8080/12810/7f788911/1866
-#EXTINF:-1,AL: Kanal 10 HD
-http://iptvmedia.live:8080/12810/7f788911/198840
-#EXTINF:-1,AL: Kanal D Drama FHD
-http://iptvmedia.live:8080/12810/7f788911/26182
-#EXTINF:-1,AL: Kanali 7 HD
-http://iptvmedia.live:8080/12810/7f788911/4062
-#EXTINF:-1,AL: Kanali 10 HD
-http://iptvmedia.live:8080/12810/7f788911/281986
-#EXTINF:-1,AL: Kinema Aksion HD
-http://iptvmedia.live:8080/12810/7f788911/264844
-#EXTINF:-1,AL: Kinema Aksion Max FHD
-http://iptvmedia.live:8080/12810/7f788911/166495
-#EXTINF:-1,AL: Kinema Classics HD
-http://iptvmedia.live:8080/12810/7f788911/264843
-#EXTINF:-1,AL: Kinema Drane HD
-http://iptvmedia.live:8080/12810/7f788911/266388
-#EXTINF:-1,AL: Kinema Gold HD
-http://iptvmedia.live:8080/12810/7f788911/188073
-#EXTINF:-1,AL: Kinema Hits HD
-http://iptvmedia.live:8080/12810/7f788911/188072
-#EXTINF:-1,AL: Kinema Milenium HD
-http://iptvmedia.live:8080/12810/7f788911/280140
-#EXTINF:-1,AL: Klan Kosova HD
-http://iptvmedia.live:8080/12810/7f788911/2561
-#EXTINF:-1,AL: Klan Music HD
-http://iptvmedia.live:8080/12810/7f788911/166503
-#EXTINF:-1,AL Klan Music HD
-http://iptvmedia.live:8080/12810/7f788911/279200
-#EXTINF:-1,AL: Klan Plus HD
-http://iptvmedia.live:8080/12810/7f788911/2562
-#EXTINF:-1,AL: Koha TV HD
-http://iptvmedia.live:8080/12810/7f788911/4115
-#EXTINF:-1,AL: Komedi TV HD
-http://iptvmedia.live:8080/12810/7f788911/169863
-#EXTINF:-1,AL: KS Action HD
-http://iptvmedia.live:8080/12810/7f788911/23798
-#EXTINF:-1,AL: KS Cifteli FHD
-http://iptvmedia.live:8080/12810/7f788911/198665
-#EXTINF:-1,AL: KS Comedy HD
-http://iptvmedia.live:8080/12810/7f788911/23793
-#EXTINF:-1,AL: KS EPIC FHD
-http://iptvmedia.live:8080/12810/7f788911/173475
-#EXTINF:-1,AL: KS Filma24 Family HD
-http://iptvmedia.live:8080/12810/7f788911/278247
-#EXTINF:-1,AL: KS Filma24 Premiere HD
-http://iptvmedia.live:8080/12810/7f788911/278255
-#EXTINF:-1,AL: Ks History FHD
-http://iptvmedia.live:8080/12810/7f788911/173472
-#EXTINF:-1,AL Ks History FHD
-http://iptvmedia.live:8080/12810/7f788911/290595
-#EXTINF:-1,AL: KS Hits FHD
-http://iptvmedia.live:8080/12810/7f788911/198433
-#EXTINF:-1,AL: KS Horror FHD
-http://iptvmedia.live:8080/12810/7f788911/173474
-#EXTINF:-1,AL: KS Kids HD
-http://iptvmedia.live:8080/12810/7f788911/151740
-#EXTINF:-1,AL: KS Popullore FHD
-http://iptvmedia.live:8080/12810/7f788911/30180
-#EXTINF:-1,AL: kS premiere 2 HD
-http://iptvmedia.live:8080/12810/7f788911/281898
-#EXTINF:-1,AL: KS Premiere 3 FHD
-http://iptvmedia.live:8080/12810/7f788911/173465
-#EXTINF:-1,AL: KS Premiere 4 FHD
-http://iptvmedia.live:8080/12810/7f788911/173479
-#EXTINF:-1,AL: KS Stupcat FHD
-http://iptvmedia.live:8080/12810/7f788911/59022
-#EXTINF:-1,AL: KTV FHD
-http://iptvmedia.live:8080/12810/7f788911/284209
-#EXTINF:-1,AL: Liria TV HD
-http://iptvmedia.live:8080/12810/7f788911/163401
-#EXTINF:-1,AL: Living FHD
-http://iptvmedia.live:8080/12810/7f788911/4070
-#EXTINF:-1,AL: Lobi TV HD
-http://iptvmedia.live:8080/12810/7f788911/169871
-#EXTINF:-1,AL: Masha & bear FHD
-http://iptvmedia.live:8080/12810/7f788911/263737
-#EXTINF:-1,AL: MCN TV HD
-http://iptvmedia.live:8080/12810/7f788911/286798
-#EXTINF:-1,AL: MFM Music FHD
-http://iptvmedia.live:8080/12810/7f788911/45019
-#EXTINF:-1,AL MFM Music FHD
-http://iptvmedia.live:8080/12810/7f788911/274690
-#EXTINF:-1,AL: Motorvision TV HD
-http://iptvmedia.live:8080/12810/7f788911/290512
-#EXTINF:-1,AL: Mr Bean HD
-http://iptvmedia.live:8080/12810/7f788911/290511
-#EXTINF:-1,AL: MTV Hits HD
-http://iptvmedia.live:8080/12810/7f788911/12434
-#EXTINF:-1,AL MTV Hits HD
-http://iptvmedia.live:8080/12810/7f788911/274035
-#EXTINF:-1,AL: MTV Kosova HD
-http://iptvmedia.live:8080/12810/7f788911/16483
-#EXTINF:-1,AL: Muse TV HD
-http://iptvmedia.live:8080/12810/7f788911/4072
-#EXTINF:-1,AL: MUSIC BOX HD
-http://iptvmedia.live:8080/12810/7f788911/267020
-#EXTINF:-1,AL MUSIC BOX HD
-http://iptvmedia.live:8080/12810/7f788911/290605
-#EXTINF:-1,AL: My Music HD
-http://iptvmedia.live:8080/12810/7f788911/171895
-#EXTINF:-1,AL My Music HD
-http://iptvmedia.live:8080/12810/7f788911/274826
-#EXTINF:-1,AL: NAT GEO FHD
-http://iptvmedia.live:8080/12810/7f788911/6737
-#EXTINF:-1,AL NAT GEO FHD
-http://iptvmedia.live:8080/12810/7f788911/274107
-#EXTINF:-1,AL: NAT GEO Wild FHD
-http://iptvmedia.live:8080/12810/7f788911/23753
-#EXTINF:-1,AL NAT GEO Wild FHD
-http://iptvmedia.live:8080/12810/7f788911/279140
-#EXTINF:-1,AL: Netflix Aksion FHD
-http://iptvmedia.live:8080/12810/7f788911/193772
-#EXTINF:-1,AL: Netflix Arnold Schwarzenegger HD
-http://iptvmedia.live:8080/12810/7f788911/198444
-#EXTINF:-1,AL: Netflix Aventure HD
-http://iptvmedia.live:8080/12810/7f788911/198437
-#EXTINF:-1,AL: Netflix Bud Spencer & Terence Hill HD
-http://iptvmedia.live:8080/12810/7f788911/198443
-#EXTINF:-1,AL: Netflix Dwayne Johnson HD
-http://iptvmedia.live:8080/12810/7f788911/198448
-#EXTINF:-1,AL: Netflix Epik HD
-http://iptvmedia.live:8080/12810/7f788911/198440
-#EXTINF:-1,AL: Netflix Fantazi HD
-http://iptvmedia.live:8080/12810/7f788911/198435
-#EXTINF:-1,AL: Netflix Femije HD
-http://iptvmedia.live:8080/12810/7f788911/198439
-#EXTINF:-1,AL: Netflix Horror HD
-http://iptvmedia.live:8080/12810/7f788911/193771
-#EXTINF:-1,AL: Netflix Jackie Chan HD
-http://iptvmedia.live:8080/12810/7f788911/198446
-#EXTINF:-1,AL: Netflix Komedi FHD
-http://iptvmedia.live:8080/12810/7f788911/193773
-#EXTINF:-1,AL: Netflix Relaks FHD
-http://iptvmedia.live:8080/12810/7f788911/198431
-#EXTINF:-1,AL: Netflix Romance HD
-http://iptvmedia.live:8080/12810/7f788911/198660
-#EXTINF:-1,AL: Netflix Spider Man HD
-http://iptvmedia.live:8080/12810/7f788911/198445
-#EXTINF:-1,AL: Netflix Sylvester Stallone HD
-http://iptvmedia.live:8080/12810/7f788911/198442
-#EXTINF:-1,AL: Netflix Van Damme HD
-http://iptvmedia.live:8080/12810/7f788911/198661
-#EXTINF:-1,AL: News 24 HD
-http://iptvmedia.live:8080/12810/7f788911/5127
-#EXTINF:-1,AL: NTV HD
-http://iptvmedia.live:8080/12810/7f788911/290455
-#EXTINF:-1,AL: ON TV HD
-http://iptvmedia.live:8080/12810/7f788911/12440
-#EXTINF:-1,AL: Ora News HD
-http://iptvmedia.live:8080/12810/7f788911/5126
-#EXTINF:-1,AL: OVERSPORT 1 HD
-http://iptvmedia.live:8080/12810/7f788911/290218
-#EXTINF:-1,AL: OVERSPORT 3 HD
-http://iptvmedia.live:8080/12810/7f788911/290537
-#EXTINF:-1,AL: OVERSPORT 4 HD
-http://iptvmedia.live:8080/12810/7f788911/290538
-#EXTINF:-1,AL: Peace TV HD
-http://iptvmedia.live:8080/12810/7f788911/15562
-#EXTINF:-1,AL: Planet HD
-http://iptvmedia.live:8080/12810/7f788911/290515
-#EXTINF:-1,AL: Pollogu HD
-http://iptvmedia.live:8080/12810/7f788911/264836
-#EXTINF:-1,AL: Premium Channel HD
-http://iptvmedia.live:8080/12810/7f788911/23780
-#EXTINF:-1,AL: Prince Kids FHD
-http://iptvmedia.live:8080/12810/7f788911/44949
-#EXTINF:-1,AL: Prizreni HD
-http://iptvmedia.live:8080/12810/7f788911/264835
-#EXTINF:-1,AL: Report TV HD
-http://iptvmedia.live:8080/12810/7f788911/4077
-#EXTINF:-1,AL: Roma TV HD
-http://iptvmedia.live:8080/12810/7f788911/197065
-#EXTINF:-1,AL: Rozafa News HD
-http://iptvmedia.live:8080/12810/7f788911/6730
-#EXTINF:-1,AL: RTSH 1 FHD
-http://iptvmedia.live:8080/12810/7f788911/4123
-#EXTINF:-1,AL: RTSH 2 HD
-http://iptvmedia.live:8080/12810/7f788911/1854
-#EXTINF:-1,AL: RTSH 3 HD
-http://iptvmedia.live:8080/12810/7f788911/1855
-#EXTINF:-1,AL: RTSH 24 FHD
-http://iptvmedia.live:8080/12810/7f788911/5962
-#EXTINF:-1,AL: RTSH Agro HD
-http://iptvmedia.live:8080/12810/7f788911/193717
-#EXTINF:-1,AL: RTSH Femije HD
-http://iptvmedia.live:8080/12810/7f788911/5146
-#EXTINF:-1,AL: RTSH Film HD
-http://iptvmedia.live:8080/12810/7f788911/5145
-#EXTINF:-1,AL: RTSH Gjirokastra HD
-http://iptvmedia.live:8080/12810/7f788911/23700
-#EXTINF:-1,AL: RTSH Korca HD
-http://iptvmedia.live:8080/12810/7f788911/23708
-#EXTINF:-1,AL: RTSH Kukesi HD
-http://iptvmedia.live:8080/12810/7f788911/198663
-#EXTINF:-1,AL: RTSH Kuvend HD
-http://iptvmedia.live:8080/12810/7f788911/22434
-#EXTINF:-1,AL: RTSH Muzike HD
-http://iptvmedia.live:8080/12810/7f788911/5144
-#EXTINF:-1,AL RTSH Muzike HD
-http://iptvmedia.live:8080/12810/7f788911/274700
-#EXTINF:-1,AL: RTSH Plus HD
-http://iptvmedia.live:8080/12810/7f788911/169831
-#EXTINF:-1,AL: RTSH Satelit HD
-http://iptvmedia.live:8080/12810/7f788911/282301
-#EXTINF:-1,AL: RTSH Shkodra HD
-http://iptvmedia.live:8080/12810/7f788911/284742
-#EXTINF:-1,AL: RTSH Shkolle FHD
-http://iptvmedia.live:8080/12810/7f788911/1856
-#EXTINF:-1,AL: RTSH Shqip HD
-http://iptvmedia.live:8080/12810/7f788911/5143
-#EXTINF:-1,AL: RTSH Sport HD
-http://iptvmedia.live:8080/12810/7f788911/2568
-#EXTINF:-1,AL: RTV 1 HD
-http://iptvmedia.live:8080/12810/7f788911/281994
-#EXTINF:-1,AL: RTV 2 MIX HD
-http://iptvmedia.live:8080/12810/7f788911/280143
-#EXTINF:-1,AL: RTV 4 Muzike HD
-http://iptvmedia.live:8080/12810/7f788911/290452
-#EXTINF:-1,AL RTV 4 Muzike HD
-http://iptvmedia.live:8080/12810/7f788911/290604
-#EXTINF:-1,AL: RTV Ahireti HD
-http://iptvmedia.live:8080/12810/7f788911/281987
-#EXTINF:-1,AL: RTV Fontana HD
-http://iptvmedia.live:8080/12810/7f788911/282006
-#EXTINF:-1,AL: RTV Ilirida HD
-http://iptvmedia.live:8080/12810/7f788911/284743
-#EXTINF:-1,AL: RTV Pendimi HD
-http://iptvmedia.live:8080/12810/7f788911/281982
-#EXTINF:-1,AL: S TV Folk HD
-http://iptvmedia.live:8080/12810/7f788911/30178
-#EXTINF:-1,AL: Scan TV HD
-http://iptvmedia.live:8080/12810/7f788911/23735
-#EXTINF:-1,AL: Shenja TV HD
-http://iptvmedia.live:8080/12810/7f788911/12414
-#EXTINF:-1,AL: SHOTA TV FHD
-http://iptvmedia.live:8080/12810/7f788911/151743
-#EXTINF:-1,AL: Sky Max HD
-http://iptvmedia.live:8080/12810/7f788911/26127
-#EXTINF:-1,AL: Sofia HD
-http://iptvmedia.live:8080/12810/7f788911/15539
-#EXTINF:-1,AL: Spin TV HD
-http://iptvmedia.live:8080/12810/7f788911/6714
-#EXTINF:-1,AL: Sport Klub 1 FHD
-http://iptvmedia.live:8080/12810/7f788911/15575
-#EXTINF:-1,AL Sport Klub 1 FHD
-http://iptvmedia.live:8080/12810/7f788911/273495
-#EXTINF:-1,AL: Sport Klub 2 HD
-http://iptvmedia.live:8080/12810/7f788911/15572
-#EXTINF:-1,AL Sport Klub 2 HD
-http://iptvmedia.live:8080/12810/7f788911/273490
-#EXTINF:-1,AL: Star Plus HD
-http://iptvmedia.live:8080/12810/7f788911/12428
-#EXTINF:-1,AL: Super Sonic TV HD
-http://iptvmedia.live:8080/12810/7f788911/4098
-#EXTINF:-1,AL: SuperSport 1 FHD
-http://iptvmedia.live:8080/12810/7f788911/1316
-#EXTINF:-1,AL: SuperSport 2 HD
-http://iptvmedia.live:8080/12810/7f788911/1312
-#EXTINF:-1,AL: SuperSport 3 FHD
-http://iptvmedia.live:8080/12810/7f788911/1319
-#EXTINF:-1,AL: SuperSport 4 FHD
-http://iptvmedia.live:8080/12810/7f788911/1318
-#EXTINF:-1,AL: SuperSport 5 FHD
-http://iptvmedia.live:8080/12810/7f788911/1860
-#EXTINF:-1,AL: SuperSport 6 FHD
-http://iptvmedia.live:8080/12810/7f788911/3638
-#EXTINF:-1,AL: SuperSport 7 HD
-http://iptvmedia.live:8080/12810/7f788911/174441
-#EXTINF:-1,AL: SuperSport News HD
-http://iptvmedia.live:8080/12810/7f788911/1313
-#EXTINF:-1,AL: Syri News TV HD
-http://iptvmedia.live:8080/12810/7f788911/4100
-#EXTINF:-1,AL: Syri TV Blue HD
-http://iptvmedia.live:8080/12810/7f788911/4099
-#EXTINF:-1,AL: T Channel FHD
-http://iptvmedia.live:8080/12810/7f788911/4101
-#EXTINF:-1,AL: T7 FHD
-http://iptvmedia.live:8080/12810/7f788911/281851
-#EXTINF:-1,AL: Tele One 1 HD
-http://iptvmedia.live:8080/12810/7f788911/145897
-#EXTINF:-1,AL: Tele One 2 HD
-http://iptvmedia.live:8080/12810/7f788911/151734
-#EXTINF:-1,AL: Tele One 4 HD
-http://iptvmedia.live:8080/12810/7f788911/151732
-#EXTINF:-1,AL: Tele one 5 HD
-http://iptvmedia.live:8080/12810/7f788911/151737
-#EXTINF:-1,AL: Tele one 6 HD
-http://iptvmedia.live:8080/12810/7f788911/151733
-#EXTINF:-1,AL: Tele One Aksion HD
-http://iptvmedia.live:8080/12810/7f788911/264853
-#EXTINF:-1,AL: Tele One Aventure HD
-http://iptvmedia.live:8080/12810/7f788911/264852
-#EXTINF:-1,AL: Tele One Epik Film HD
-http://iptvmedia.live:8080/12810/7f788911/247865
-#EXTINF:-1,AL: Tele One Film Crime HD
-http://iptvmedia.live:8080/12810/7f788911/247861
-#EXTINF:-1,AL: Tele One Film Drame HD
-http://iptvmedia.live:8080/12810/7f788911/264854
-#EXTINF:-1,AL: Tele One Film Thriller HD
-http://iptvmedia.live:8080/12810/7f788911/247864
-#EXTINF:-1,AL: Tele One Gold Collection HD
-http://iptvmedia.live:8080/12810/7f788911/247862
-#EXTINF:-1,AL: Tema TV FHD
-http://iptvmedia.live:8080/12810/7f788911/4102
-#EXTINF:-1,AL: Teuta FHD
-http://iptvmedia.live:8080/12810/7f788911/169882
-#EXTINF:-1,AL: Tip TV HD
-http://iptvmedia.live:8080/12810/7f788911/2574
-#EXTINF:-1,AL: TLC HD
-http://iptvmedia.live:8080/12810/7f788911/151764
-#EXTINF:-1,AL: TNT Series HD
-http://iptvmedia.live:8080/12810/7f788911/285140
-#EXTINF:-1,AL: Tom & Jerry HD
-http://iptvmedia.live:8080/12810/7f788911/15543
-#EXTINF:-1,AL: TOP Channel FHD
-http://iptvmedia.live:8080/12810/7f788911/1311
-#EXTINF:-1,AL: TOP Estrada HD
-http://iptvmedia.live:8080/12810/7f788911/16502
-#EXTINF:-1,AL: TOP News HD
-http://iptvmedia.live:8080/12810/7f788911/5122
-#EXTINF:-1,AL: Travel Channel HD
-http://iptvmedia.live:8080/12810/7f788911/5121
-#EXTINF:-1,AL Travel Channel HD
-http://iptvmedia.live:8080/12810/7f788911/290596
-#EXTINF:-1,AL: Tring 3+ HD
-http://iptvmedia.live:8080/12810/7f788911/290208
-#EXTINF:-1,AL: Tring Action FHD
-http://iptvmedia.live:8080/12810/7f788911/1308
-#EXTINF:-1,AL: Tring Classic HD
-http://iptvmedia.live:8080/12810/7f788911/290516
-#EXTINF:-1,AL: Tring Comedy HD
-http://iptvmedia.live:8080/12810/7f788911/1310
-#EXTINF:-1,AL: Tring Family FHD
-http://iptvmedia.live:8080/12810/7f788911/4063
-#EXTINF:-1,AL: Tring Fantasy HD
-http://iptvmedia.live:8080/12810/7f788911/2577
-#EXTINF:-1,AL: Tring History HD
-http://iptvmedia.live:8080/12810/7f788911/1345
-#EXTINF:-1,AL Tring History HD
-http://iptvmedia.live:8080/12810/7f788911/274306
-#EXTINF:-1,AL: Tring International HD
-http://iptvmedia.live:8080/12810/7f788911/15535
-#EXTINF:-1,AL: Tring Jolly FHD
-http://iptvmedia.live:8080/12810/7f788911/1327
-#EXTINF:-1,AL: Tring Kids HD
-http://iptvmedia.live:8080/12810/7f788911/44952
-#EXTINF:-1,AL: Tring Life HD
-http://iptvmedia.live:8080/12810/7f788911/1309
-#EXTINF:-1,AL Tring Life HD
-http://iptvmedia.live:8080/12810/7f788911/273548
-#EXTINF:-1,AL: Tring Planet HD
-http://iptvmedia.live:8080/12810/7f788911/1344
-#EXTINF:-1,AL: Tring Shqip HD
-http://iptvmedia.live:8080/12810/7f788911/1307
-#EXTINF:-1,AL: Tring Smile HD
-http://iptvmedia.live:8080/12810/7f788911/1322
-#EXTINF:-1,AL: Tring Sport 1 FHD
-http://iptvmedia.live:8080/12810/7f788911/1306
-#EXTINF:-1,AL: Tring Sport 2 FHD
-http://iptvmedia.live:8080/12810/7f788911/1305
-#EXTINF:-1,AL: Tring Sport 3 HD
-http://iptvmedia.live:8080/12810/7f788911/1304
-#EXTINF:-1,AL: Tring Sport 4 FHD
-http://iptvmedia.live:8080/12810/7f788911/1862
-#EXTINF:-1,AL: Tring Sport News HD
-http://iptvmedia.live:8080/12810/7f788911/1861
-#EXTINF:-1,AL: Tring Super FHD
-http://iptvmedia.live:8080/12810/7f788911/1303
-#EXTINF:-1,AL: Tring Tring HD
-http://iptvmedia.live:8080/12810/7f788911/1302
-#EXTINF:-1,AL: Tring World HD
-http://iptvmedia.live:8080/12810/7f788911/1301
-#EXTINF:-1,AL: Turbo Channel HD
-http://iptvmedia.live:8080/12810/7f788911/6717
-#EXTINF:-1,AL: TV 7 Albania HD
-http://iptvmedia.live:8080/12810/7f788911/6762
-#EXTINF:-1,AL: TV Apollon HD
-http://iptvmedia.live:8080/12810/7f788911/267037
-#EXTINF:-1,AL: TV Diaspora FHD
-http://iptvmedia.live:8080/12810/7f788911/281350
-#EXTINF:-1,AL: TV Dielli HD
-http://iptvmedia.live:8080/12810/7f788911/12418
-#EXTINF:-1,AL: TV Dukagjini FHD
-http://iptvmedia.live:8080/12810/7f788911/6708
-#EXTINF:-1,AL: TV Klan FHD
-http://iptvmedia.live:8080/12810/7f788911/1853
-#EXTINF:-1,AL: TV Kopliku FHD
-http://iptvmedia.live:8080/12810/7f788911/173458
-#EXTINF:-1,AL: TV Mitrovica HD
-http://iptvmedia.live:8080/12810/7f788911/4118
-#EXTINF:-1,AL: TV Opoja HD
-http://iptvmedia.live:8080/12810/7f788911/4119
-#EXTINF:-1,AL: TV Presheva FHD
-http://iptvmedia.live:8080/12810/7f788911/280160
-#EXTINF:-1,AL: TV Puls FHD
-http://iptvmedia.live:8080/12810/7f788911/4076
-#EXTINF:-1,AL: TV Sharri FHD
-http://iptvmedia.live:8080/12810/7f788911/12416
-#EXTINF:-1,AL: TV Uskana HD
-http://iptvmedia.live:8080/12810/7f788911/12421
-#EXTINF:-1,AL: TV1 Shkoder HD
-http://iptvmedia.live:8080/12810/7f788911/188076
-#EXTINF:-1,AL: TV2 Gostivar FHD
-http://iptvmedia.live:8080/12810/7f788911/169842
-#EXTINF:-1,AL: Ulqini TV HD
-http://iptvmedia.live:8080/12810/7f788911/278582
-#EXTINF:-1,AL: Vizion Plus HD
-http://iptvmedia.live:8080/12810/7f788911/1299
-#EXTINF:-1,AL: Web Star Masha & Bear HD
-http://iptvmedia.live:8080/12810/7f788911/281983
-#EXTINF:-1,AL: X premiere 1 HD
-http://iptvmedia.live:8080/12810/7f788911/12457
-#EXTINF:-1,AL: X premiere 3 HD
-http://iptvmedia.live:8080/12810/7f788911/84133
-#EXTINF:-1,AL: Zeri FHD
-http://iptvmedia.live:8080/12810/7f788911/91064
-#EXTINF:-1,AL: Zjarr TV HD
-http://iptvmedia.live:8080/12810/7f788911/23711
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="########## Albania ##########" tvg-logo="http://pici.life/albania.png" group-title="Albania",########## Albania ##########
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4754
+#EXTINF:-1 tvg-id="" tvg-name="------- Main & Regional -------" tvg-logo="" group-title="Albania",------- Main & Regional -------
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/684829
+#EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH 1 HD AL" tvg-logo="http://pici.life/rtsh1_2.png" group-title="Albania",RTSH 1 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4849
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 2 HD AL" tvg-logo="http://pici.life/AL/RTSH2%20HD.png" group-title="Albania",RTSH 2 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10105
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 3 HD AL" tvg-logo="http://pici.life/AL/RTSH3_HD.png" group-title="Albania",RTSH 3 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/14128
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip AL" tvg-logo="http://pici.life/AL/RTSH_Shqip.png" group-title="Albania",RTSH Shqip AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/14129
+#EXTINF:-1 tvg-id="rtk.al" tvg-name="RTK 1 HD AL" tvg-logo="http://pici.life/rtk1al_2.png" group-title="Albania",RTK 1 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4844
+#EXTINF:-1 tvg-id="rtk.al" tvg-name="RTK 1 [B] HD AL" tvg-logo="" group-title="Albania",RTK 1 [B] HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/14125
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2 FHD AL" tvg-logo="http://pici.life/rtk2al.png" group-title="Albania",RTK 2 FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4843
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2 [B] HD AL" tvg-logo="http://pici.life/AL/rtk2al.png" group-title="Albania",RTK 2 [B] HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/14124
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3 HD AL" tvg-logo="http://pici.life/rtk3al.png" group-title="Albania",RTK 3 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4842
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3 [B] HD AL" tvg-logo="http://pici.life/AL/rtk3al.png" group-title="Albania",RTK 3 [B] HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/14123
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4 HD AL" tvg-logo="http://pici.life/rtk4al.png" group-title="Albania",RTK 4 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4841
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4 HD [B] AL" tvg-logo="http://pici.life/AL/rtk4al.png" group-title="Albania",RTK 4 HD [B] AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/14122
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel FHD AL" tvg-logo="http://pici.life/topchannel_2.png" group-title="Albania",Top Channel FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4856
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel HD AL" tvg-logo="http://pici.life/topchannel_2.png" group-title="Albania",Top Channel HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/21321
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel [B] HD AL" tvg-logo="http://pici.life/AL/topchannel.png" group-title="Albania",Top Channel [B] HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9978
+#EXTINF:-1 tvg-id="klantv.al" tvg-name="Klan TV FHD AL" tvg-logo="http://pici.life/Albania/klan_al_tv_hd.png" group-title="Albania",Klan TV FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4855
+#EXTINF:-1 tvg-id="klantv.al" tvg-name="Klan TV HD AL" tvg-logo="http://pici.life/Albania/klan_al_tv_hd.png" group-title="Albania",Klan TV HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9985
+#EXTINF:-1 tvg-id="alsatm.al" tvg-name="Alsat M FHD VIP AL" tvg-logo="http://pici.life/AL/alsatm.png" group-title="Albania",Alsat M FHD VIP AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/683714
+#EXTINF:-1 tvg-id="Alsat M AL" tvg-name="Alsat M HD AL" tvg-logo="http://pici.life/Albania/AlsatM.png" group-title="Albania",Alsat M HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10014
+#EXTINF:-1 tvg-id="alsatm.al" tvg-name="Alsat M AL" tvg-logo="http://pici.life/AL/alsatm.png" group-title="Albania",Alsat M AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4836
+#EXTINF:-1 tvg-id="klankosova.al" tvg-name="Klan Kosova FHD AL" tvg-logo="http://pici.life/Albania/klan_kosova.png" group-title="Albania",Klan Kosova FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4846
+#EXTINF:-1 tvg-id="Klan Kosova AL" tvg-name="Klan Kosova Toksor HD AL" tvg-logo="http://pici.life/klankosova_2.png" group-title="Albania",Klan Kosova Toksor HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10017
+#EXTINF:-1 tvg-id="Klan TV AL" tvg-name="Klan Plus HD AL" tvg-logo="http://pici.life/Albania/klan_al_tv_plus.png" group-title="Albania",Klan Plus HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4847
+#EXTINF:-1 tvg-id="RTV 21 AL" tvg-name="RTV 21 HD AL" tvg-logo="http://pici.life/rtv21al_2.png" group-title="Albania",RTV 21 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9959
+#EXTINF:-1 tvg-id="RTV 21 AL" tvg-name="RTV 21 EST AL" tvg-logo="http://pici.life/AL/rtv21al.png" group-title="Albania",RTV 21 EST AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9979
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Toksor AL" tvg-logo="http://pici.life/AL/rtv21al.png" group-title="Albania",RTV 21 Toksor AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10018
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Maqedonia AL" tvg-logo="http://pici.life/rtv21maqedonia.png" group-title="Albania",RTV 21 Maqedonia AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4839
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Mix HD AL" tvg-logo="http://pici.life/Albania/21Mix.png" group-title="Albania",RTV 21 Mix HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4840
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Plus AL" tvg-logo="http://pici.life/Albania/21PlusHD.png" group-title="Albania",RTV 21 Plus AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9958
+#EXTINF:-1 tvg-id="RTV 21 AL" tvg-name="RTV 21 Popullore AL" tvg-logo="http://pici.life/Albania/21Popullore.png" group-title="Albania",RTV 21 Popullore AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/14016
+#EXTINF:-1 tvg-id="ktv.al" tvg-name="KTV HD AL" tvg-logo="http://pici.life/ktv.png" group-title="Albania",KTV HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4838
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus FHD AL" tvg-logo="http://pici.life/AL/vizionplus.png" group-title="Albania",Vizion Plus FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4850
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD AL" tvg-logo="http://pici.life/AL/vizionplus.png" group-title="Albania",Vizion Plus HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10016
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus EST HD AL" tvg-logo="http://pici.life/AL/vizionplus.png" group-title="Albania",Vizion Plus EST HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9975
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus Toksor FHD AL" tvg-logo="http://pici.life/AL/vizionplus.png" group-title="Albania",Vizion Plus Toksor FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10015
+#EXTINF:-1 tvg-id="" tvg-name="Syri Vizion AL" tvg-logo="http://pici.life/AL/vizionplus.png" group-title="Albania",Syri Vizion AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9955
+#EXTINF:-1 tvg-id="" tvg-name="T7 HD AL" tvg-logo="http://pici.life/AL/T7.png" group-title="Albania",T7 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/20567
+#EXTINF:-1 tvg-id="" tvg-name="Shenja TV AL" tvg-logo="http://pici.life/shenja.png" group-title="Albania",Shenja TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/7880
+#EXTINF:-1 tvg-id="" tvg-name="TV Tetova AL" tvg-logo="http://pici.life/AL/tvtetova.png" group-title="Albania",TV Tetova AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10073
+#EXTINF:-1 tvg-id="" tvg-name="Besa HD AL" tvg-logo="http://pici.life/AL/besatv.png" group-title="Albania",Besa HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/14018
+#EXTINF:-1 tvg-id="" tvg-name="TV Koha AL" tvg-logo="http://pici.life/kohatv.png" group-title="Albania",TV Koha AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10075
+#EXTINF:-1 tvg-id="" tvg-name="ERA TV AL" tvg-logo="http://pici.life/Albania/ERATV.png" group-title="Albania",ERA TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10063
+#EXTINF:-1 tvg-id="" tvg-name="TV Dukagjini HD AL" tvg-logo="http://pici.life/AL/dukagini.png" group-title="Albania",TV Dukagjini HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9954
+#EXTINF:-1 tvg-id="" tvg-name="TV Diaspora AL" tvg-logo="http://pici.life/AL/TV_Diaspora.png" group-title="Albania",TV Diaspora AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10066
+#EXTINF:-1 tvg-id="" tvg-name="RTV Presheva AL" tvg-logo="http://pici.life/presheva.png" group-title="Albania",RTV Presheva AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10065
+#EXTINF:-1 tvg-id="" tvg-name="Premium Channel HD AL" tvg-logo="http://pici.life/AL/RTV.png" group-title="Albania",Premium Channel HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9922
+#EXTINF:-1 tvg-id="" tvg-name="EuroNews Albania AL" tvg-logo="http://pici.life/Albania/A1Shqiptare.png" group-title="Albania",EuroNews Albania AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9930
+#EXTINF:-1 tvg-id="tematv.al" tvg-name="Tema TV AL" tvg-logo="http://pici.life/tematv.png" group-title="Albania",Tema TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4716
+#EXTINF:-1 tvg-id="" tvg-name="Scan FHD AL" tvg-logo="http://pici.life/AL/TV_Llapi.jpg" group-title="Albania",Scan FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/648469
+#EXTINF:-1 tvg-id="" tvg-name="TV Mitrovica AL" tvg-logo="http://pici.life/tvmitrovica.png" group-title="Albania",TV Mitrovica AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9951
+#EXTINF:-1 tvg-id="" tvg-name="TV Kopliku HD AL" tvg-logo="http://pici.life/AL/TV_Kopliku.jpg" group-title="Albania",TV Kopliku HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10212
+#EXTINF:-1 tvg-id="" tvg-name="RTV Pendimi AL" tvg-logo="http://pici.life/AL/RTV-Pendimi.png" group-title="Albania",RTV Pendimi AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/624941
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 10 HD AL" tvg-logo="http://pici.life/rrokum.png" group-title="Albania",Kanal 10 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4833
+#EXTINF:-1 tvg-id="" tvg-name="Star Shkodra AL" tvg-logo="http://pici.life/AL/Star_Shakodra.jpg" group-title="Albania",Star Shkodra AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9998
+#EXTINF:-1 tvg-id="" tvg-name="------- News -------" tvg-logo="" group-title="Albania",------- News -------
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/684830
+#EXTINF:-1 tvg-id="ABC News AL" tvg-name="ABC News AL" tvg-logo="http://pici.life/Albania/abc_news_al.png" group-title="Albania",ABC News AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4854
+#EXTINF:-1 tvg-id="" tvg-name="ABC News EST AL" tvg-logo="http://pici.life/AL/abcnews.png" group-title="Albania",ABC News EST AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9977
+#EXTINF:-1 tvg-id="Ora News AL" tvg-name="ORA News HD AL" tvg-logo="http://pici.life/oranews.png" group-title="Albania",ORA News HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4853
+#EXTINF:-1 tvg-id="News 24 AL" tvg-name="News 24 AL" tvg-logo="http://pici.life/AL/news24.png" group-title="Albania",News 24 AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10005
+#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="http://pici.life/topnews.png" group-title="Albania",Top News AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4851
+#EXTINF:-1 tvg-id="" tvg-name="A1 Report AL" tvg-logo="http://pici.life/Albania/a1_report_al.png" group-title="Albania",A1 Report AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4852
+#EXTINF:-1 tvg-id="" tvg-name="Kanali 7 AL" tvg-logo="http://pici.life/Albania/kanali7.png" group-title="Albania",Kanali 7 AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4848
+#EXTINF:-1 tvg-id="" tvg-name="Top News HD AL" tvg-logo="http://pici.life/AL/topnews.png" group-title="Albania",Top News HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10007
+#EXTINF:-1 tvg-id="News 24 AL" tvg-name="News 24 HD AL" tvg-logo="http://pici.life/AL/news24.png" group-title="Albania",News 24 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10006
+#EXTINF:-1 tvg-id="" tvg-name="ATV FHD AL" tvg-logo="" group-title="Albania",ATV FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/687786
+#EXTINF:-1 tvg-id="" tvg-name="Arta TV HD AL" tvg-logo="http://pici.life/AL/Arta.png" group-title="Albania",Arta TV HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10072
+#EXTINF:-1 tvg-id="" tvg-name="Report TV AL" tvg-logo="http://pici.life/AL/reporttv.png" group-title="Albania",Report TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10002
+#EXTINF:-1 tvg-id="" tvg-name="------- Religious -------" tvg-logo="" group-title="Albania",------- Religious -------
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/684831
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV Shqip AL" tvg-logo="http://pici.life/AL/peaceshqiptv.png" group-title="Albania",Peace TV Shqip AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10060
+#EXTINF:-1 tvg-id="Peace TV AL" tvg-name="Peace TV [En] AL" tvg-logo="http://pici.life/AL/peace-tv-english-live-channel.png" group-title="Albania",Peace TV [En] AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10051
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV AL" tvg-logo="http://pici.life/AL/peaceshqiptv.png" group-title="Albania",Peace TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9932
+#EXTINF:-1 tvg-id="" tvg-name="------- Sports -------" tvg-logo="" group-title="Albania",------- Sports -------
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/684832
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 1 HD AL" tvg-logo="http://pici.life/supersport1hd.png" group-title="Albania",Supersport 1 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4729
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 2 HD AL" tvg-logo="http://pici.life/supersport2hd.png" group-title="Albania",Supersport 2 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4728
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 3 FHD AL" tvg-logo="http://pici.life/supersport3hd.png" group-title="Albania",Supersport 3 FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/625241
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 4 FHD AL" tvg-logo="http://pici.life/supersport4hd.png" group-title="Albania",Supersport 4 FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/625240
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 5 FHD AL" tvg-logo="http://pici.life/supersport5hd.png" group-title="Albania",Supersport 5 FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4725
+#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="Tring Sport 1 HD AL" tvg-logo="http://pici.life/tringsport1hd.png" group-title="Albania",Tring Sport 1 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4721
+#EXTINF:-1 tvg-id="tringsport2.al" tvg-name="Tring Sport 2 HD AL" tvg-logo="http://pici.life/AL/tringsport2hd.png" group-title="Albania",Tring Sport 2 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/21615
+#EXTINF:-1 tvg-id="tringsport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="http://pici.life/tringsport3hd.png" group-title="Albania",Tring Sport 3 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4719
+#EXTINF:-1 tvg-id="tringsport4.al" tvg-name="Tring Sport 4 [Match Time] FHD AL" tvg-logo="http://pici.life/tringsport4hd.png" group-title="Albania",Tring Sport 4 [Match Time] FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4718
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 1 HD AL" tvg-logo="http://pici.life/AL/Kujtesa_Sport_1.png" group-title="Albania",Kujtesa Sport 1 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/15177
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 2 HD AL" tvg-logo="http://pici.life/AL/Kujtesa_Sport_2.png" group-title="Albania",Kujtesa Sport 2 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/151762
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 3 HD AL" tvg-logo="http://pici.life/AL/Kujtesa_Sport.png" group-title="Albania",Kujtesa Sport 3 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/151754
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 4 HD AL" tvg-logo="http://pici.life/AL/Kujtesa_Sport.png" group-title="Albania",Kujtesa Sport 4 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/15174
+#EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH Sport HD AL" tvg-logo="http://pici.life/AL/rtshsport.png" group-title="Albania",RTSH Sport HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/14017
+#EXTINF:-1 tvg-id="" tvg-name="------- Movies & Series -------" tvg-logo="" group-title="Albania",------- Movies & Series -------
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/684836
+#EXTINF:-1 tvg-id="filmaksion.al" tvg-name="Film Aksion FHD AL" tvg-logo="http://pici.life/filmaksion.png" group-title="Albania",Film Aksion FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4806
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion HD AL" tvg-logo="http://pici.life/AL/aksion.png" group-title="Albania",Film Aksion HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4745
+#EXTINF:-1 tvg-id="TringSport2.al" tvg-name="Film Hits FHD AL" tvg-logo="http://pici.life/tringsport2hd.png" group-title="Albania",Film Hits FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4720
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits HD AL" tvg-logo="http://pici.life/filmhits.png" group-title="Albania",Film Hits HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4805
+#EXTINF:-1 tvg-id="Film Komedi AL" tvg-name="Film Komedi AL" tvg-logo="http://pici.life/filmkomedi.png" group-title="Albania",Film Komedi AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4803
+#EXTINF:-1 tvg-id="filmthriller.al" tvg-name="Film Thriller AL" tvg-logo="http://pici.life/Albania/FilmThriller.png" group-title="Albania",Film Thriller AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4802
+#EXTINF:-1 tvg-id="" tvg-name="Film Autor AL" tvg-logo="http://pici.life/filmautor.png" group-title="Albania",Film Autor AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4801
+#EXTINF:-1 tvg-id="filmdrame.al" tvg-name="Film Drame AL" tvg-logo="http://pici.life/filmdrame.png" group-title="Albania",Film Drame AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4800
+#EXTINF:-1 tvg-id="" tvg-name="Film Stinet AL" tvg-logo="http://pici.life/AL/Film_Stinet.png" group-title="Albania",Film Stinet AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4797
+#EXTINF:-1 tvg-id="" tvg-name="Film Family FHD AL" tvg-logo="http://pici.life/Albania/family-hd-al.png" group-title="Albania",Film Family FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9929
+#EXTINF:-1 tvg-id="3plus.al" tvg-name="Tring 3 Plus AL" tvg-logo="http://www.pici.life/Albania/3Plus.png" group-title="Albania",Tring 3 Plus AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4789
+#EXTINF:-1 tvg-id="tringcomedy.al" tvg-name="Tring Comedy AL" tvg-logo="http://pici.life/tringcomedy.png" group-title="Albania",Tring Comedy AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4786
+#EXTINF:-1 tvg-id="tringfantazi.al" tvg-name="Tring Fantasy AL" tvg-logo="http://pici.life/tringfantasy.png" group-title="Albania",Tring Fantasy AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4784
+#EXTINF:-1 tvg-id="jolly.al" tvg-name="Tring Jolly FHD AL" tvg-logo="http://pici.life/tringjully.png" group-title="Albania",Tring Jolly FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4787
+#EXTINF:-1 tvg-id="tringlife.al" tvg-name="Tring Life AL" tvg-logo="http://pici.life/tringlife.png" group-title="Albania",Tring Life AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4783
+#EXTINF:-1 tvg-id="" tvg-name="Tring Action AL" tvg-logo="http://pici.life/AL/Tring_action.png" group-title="Albania",Tring Action AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9925
+#EXTINF:-1 tvg-id="tringsuper.al" tvg-name="Tring Super AL" tvg-logo="http://pici.life/tringsuper.png" group-title="Albania",Tring Super AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4785
+#EXTINF:-1 tvg-id="tringshqip.al" tvg-name="Tring Shqip AL" tvg-logo="http://pici.life/tringshqip.png" group-title="Albania",Tring Shqip AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4782
+#EXTINF:-1 tvg-id="smile.al" tvg-name="Tring Smile AL" tvg-logo="http://pici.life/tringsmile.png" group-title="Albania",Tring Smile AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4788
+#EXTINF:-1 tvg-id="" tvg-name="Shqip TV Hindi HD AL" tvg-logo="http://pici.life/picon/albhindi.png" group-title="Albania",Shqip TV Hindi HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9942
+#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy HD AL" tvg-logo="http://pici.life/AL/Fantasy.jpg" group-title="Albania",Tring Fantasy HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4739
+#EXTINF:-1 tvg-id="" tvg-name="Sky Aksion AL" tvg-logo="http://pici.life/skyaksion.png" group-title="Albania",Sky Aksion AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4774
+#EXTINF:-1 tvg-id="" tvg-name="Sky Novela AL" tvg-logo="http://pici.life/AL/Sky_navela.png" group-title="Albania",Sky Novela AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4767
+#EXTINF:-1 tvg-id="" tvg-name="Sky Komedi FHD AL" tvg-logo="http://pici.life/AL/skykomedi.png" group-title="Albania",Sky Komedi FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4770
+#EXTINF:-1 tvg-id="" tvg-name="Sky Histori AL" tvg-logo="http://pici.life/picon/historia_2.png" group-title="Albania",Sky Histori AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4809
+#EXTINF:-1 tvg-id="" tvg-name="Sky Shkence AL" tvg-logo="http://pici.life/picon/shkence.png" group-title="Albania",Sky Shkence AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4810
+#EXTINF:-1 tvg-id="" tvg-name="Alb Hits FHD AL" tvg-logo="http://pici.life/AL/digit_alb_hits.jpg" group-title="Albania",Alb Hits FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10118
+#EXTINF:-1 tvg-id="" tvg-name="Alb Action HD AL" tvg-logo="http://pici.life/albaction.png" group-title="Albania",Alb Action HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4753
+#EXTINF:-1 tvg-id="" tvg-name="Alb Thriller AL" tvg-logo="http://pici.life/albthriller.png" group-title="Albania",Alb Thriller AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4752
+#EXTINF:-1 tvg-id="" tvg-name="Kino SciFi HD AL" tvg-logo="http://pici.life/AL/Kino_Scifi.png" group-title="Albania",Kino SciFi HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4756
+#EXTINF:-1 tvg-id="" tvg-name="Kino Action HD AL" tvg-logo="http://pici.life/AL/kinoactional.png" group-title="Albania",Kino Action HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10215
+#EXTINF:-1 tvg-id="" tvg-name="Kino Thriller HD AL" tvg-logo="http://pici.life/picon/albthriller.png" group-title="Albania",Kino Thriller HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4761
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD AL" tvg-logo="" group-title="Albania",Kino Premiere 1 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/689443
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 2 HD AL" tvg-logo="" group-title="Albania",Kino Premiere 2 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/689442
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 3 HD AL" tvg-logo="http://pici.life/AL/kinopremiere3.png" group-title="Albania",Kino Premiere 3 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10213
+#EXTINF:-1 tvg-id="" tvg-name="Film Gold 1 AL" tvg-logo="http://pici.life/AL/filmgold.png" group-title="Albania",Film Gold 1 AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10196
+#EXTINF:-1 tvg-id="" tvg-name="Euro Film AL" tvg-logo="http://pici.life/Albania/EUROFILM.png" group-title="Albania",Euro Film AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4796
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 1 HD AL" tvg-logo="http://pici.life/picon/gold.png" group-title="Albania",Digi Gold 1 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10024
+#EXTINF:-1 tvg-id="digigold.al" tvg-name="Digi Gold 1 HD [B] AL" tvg-logo="http://pici.life/Albania/DigiGold1.png" group-title="Albania",Digi Gold 1 HD [B] AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4780
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 2 HD AL" tvg-logo="http://pici.life/Albania/DigiGold2.png" group-title="Albania",Digi Gold 2 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4779
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 3 HD AL" tvg-logo="http://pici.life/Albania/DigiGold3.png" group-title="Albania",Digi Gold 3 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4778
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 4 HD AL" tvg-logo="http://pici.life/Albania/DigiGold4.png" group-title="Albania",Digi Gold 4 HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9928
+#EXTINF:-1 tvg-id="" tvg-name="X Action AL" tvg-logo="" group-title="Albania",X Action AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/655155
+#EXTINF:-1 tvg-id="" tvg-name="X Drama AL" tvg-logo="" group-title="Albania",X Drama AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/655151
+#EXTINF:-1 tvg-id="" tvg-name="X Family AL" tvg-logo="" group-title="Albania",X Family AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/655150
+#EXTINF:-1 tvg-id="" tvg-name="X Histori AL" tvg-logo="" group-title="Albania",X Histori AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/655149
+#EXTINF:-1 tvg-id="" tvg-name="X Humor AL" tvg-logo="" group-title="Albania",X Humor AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/655148
+#EXTINF:-1 tvg-id="" tvg-name="X Romance AL" tvg-logo="" group-title="Albania",X Romance AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/655145
+#EXTINF:-1 tvg-id="" tvg-name="X Thriller AL" tvg-logo="" group-title="Albania",X Thriller AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/655143
+#EXTINF:-1 tvg-id="" tvg-name="X Western AL" tvg-logo="" group-title="Albania",X Western AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/655142
+#EXTINF:-1 tvg-id="fox.al" tvg-name="Fox Life AL" tvg-logo="http://pici.life/Albania/FOX.png" group-title="Albania",Fox Life AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4794
+#EXTINF:-1 tvg-id="foxcrime.al" tvg-name="Fox Crime AL" tvg-logo="http://pici.life/Albania/FOXCrime.png" group-title="Albania",Fox Crime AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4792
+#EXTINF:-1 tvg-id="foxlife.al" tvg-name="Fox Life AL" tvg-logo="http://pici.life/Albania/FOXLife.png" group-title="Albania",Fox Life AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4793
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD AL" tvg-logo="http://pici.life/logo.png" group-title="Albania",Kanal D Drama FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/683178
+#EXTINF:-1 tvg-id="" tvg-name="Timeless Dizi Channel HD AL" tvg-logo="http://pici.life/logo.png" group-title="Albania",Timeless Dizi Channel HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/683179
+#EXTINF:-1 tvg-id="" tvg-name="------- Documentary -------" tvg-logo="" group-title="Albania",------- Documentary -------
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/684837
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="Explorer Shkence HD AL" tvg-logo="http://pici.life/explorershkence_2.png" group-title="Albania",Explorer Shkence HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4815
+#EXTINF:-1 tvg-id="exphistori.al" tvg-name="Explorer Histori AL" tvg-logo="http://pici.life/Albania/EXPLORERHistori.png" group-title="Albania",Explorer Histori AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4813
+#EXTINF:-1 tvg-id="expnatyra.al" tvg-name="Explorer Natyra AL" tvg-logo="http://pici.life/explorernatyra_2.png" group-title="Albania",Explorer Natyra AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4814
+#EXTINF:-1 tvg-id="living.al" tvg-name="Living FHD AL" tvg-logo="http://pici.life/livinghd.png" group-title="Albania",Living FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4831
+#EXTINF:-1 tvg-id="" tvg-name="Tring History AL" tvg-logo="http://pici.life/tringhistory.png" group-title="Albania",Tring History AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4811
+#EXTINF:-1 tvg-id="tringplanet.al" tvg-name="Tring Planet AL" tvg-logo="http://pici.life/tringplanet.png" group-title="Albania",Tring Planet AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9924
+#EXTINF:-1 tvg-id="tringworld.al" tvg-name="Tring World AL" tvg-logo="http://pici.life/tringworld.png" group-title="Albania",Tring World AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4812
+#EXTINF:-1 tvg-id="muse.al" tvg-name="Tring Muse AL" tvg-logo="http://pici.life/AL/tringmuse.png" group-title="Albania",Tring Muse AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10086
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen NL" tvg-logo="http://pici.life/Albania/24Kitchen.png" group-title="Albania",24 Kitchen NL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4808
+#EXTINF:-1 tvg-id="nationalgeographic.al" tvg-name="National Geographic AL" tvg-logo="http://pici.life/nationalgeo_2.png" group-title="Albania",National Geographic AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4818
+#EXTINF:-1 tvg-id="travelchannel.al" tvg-name="Travel Channel HD AL" tvg-logo="http://pici.life/travelchannel_2.png" group-title="Albania",Travel Channel HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4817
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD AL" tvg-logo="http://pici.life/discoveryscience_2.png" group-title="Albania",Discovery Science HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10101
+#EXTINF:-1 tvg-id="" tvg-name="X Natyra AL" tvg-logo="" group-title="Albania",X Natyra AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/655146
+#EXTINF:-1 tvg-id="" tvg-name="------- Children -------" tvg-logo="" group-title="Albania",------- Children -------
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/684838
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV AL" tvg-logo="http://pici.life/Albania/BabyTV.png" group-title="Albania",Baby TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4821
+#EXTINF:-1 tvg-id="21 Junior AL" tvg-name="RTV 21 Junior AL" tvg-logo="http://pici.life/Albania/21Junior.png" group-title="Albania",RTV 21 Junior AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9956
+#EXTINF:-1 tvg-id="JuniorTV.al" tvg-name="Junior TV AL" tvg-logo="http://pici.life/juniortv.png" group-title="Albania",Junior TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4828
+#EXTINF:-1 tvg-id="TringTring.al" tvg-name="Tring Tring AL" tvg-logo="http://pici.life/tringtring.png" group-title="Albania",Tring Tring AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4826
+#EXTINF:-1 tvg-id="" tvg-name="Tring Kids AL" tvg-logo="http://pici.life/tringkids.png" group-title="Albania",Tring Kids AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4825
+#EXTINF:-1 tvg-id="tiptv.al" tvg-name="Tring Tip TV AL" tvg-logo="http://pici.life/tiptv.png" group-title="Albania",Tring Tip TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4823
+#EXTINF:-1 tvg-id="" tvg-name="Lobi TV AL" tvg-logo="http://pici.life/Albania/AMOL.png" group-title="Albania",Lobi TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10114
+#EXTINF:-1 tvg-id="cufotv.al" tvg-name="Cufo HD AL" tvg-logo="http://pici.life/Albania/club_tv_al.png" group-title="Albania",Cufo HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9973
+#EXTINF:-1 tvg-id="cufotv.al" tvg-name="Cufo AL" tvg-logo="http://pici.life/cufo.png" group-title="Albania",Cufo AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4827
+#EXTINF:-1 tvg-id="" tvg-name="Sofia TV AL" tvg-logo="http://pici.life/AL/Sofia.png" group-title="Albania",Sofia TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4824
+#EXTINF:-1 tvg-id="" tvg-name="Kids AL" tvg-logo="http://pici.life/AL/Ksport.jpg" group-title="Albania",Kids AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9972
+#EXTINF:-1 tvg-id="bangbang.al" tvg-name="Bang Bang FHD AL" tvg-logo="http://pici.life/Albania/bang_bang.png" group-title="Albania",Bang Bang FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4829
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang AL" tvg-logo="http://pici.life/Albania/Boomerang.png" group-title="Albania",Boomerang AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10216
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV AL" tvg-logo="http://pici.life/Albania/Ducktv.png" group-title="Albania",Duck TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9960
+#EXTINF:-1 tvg-id="" tvg-name="Jim Jam [En Audio] AL" tvg-logo="http://pici.life/pta/jimjam.png" group-title="Albania",Jim Jam [En Audio] AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10098
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr AL" tvg-logo="http://pici.life/nickjr_2.png" group-title="Albania",Nick Jr AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10217
+#EXTINF:-1 tvg-id="" tvg-name="------- Music -------" tvg-logo="" group-title="Albania",------- Music -------
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/684880
+#EXTINF:-1 tvg-id="RTSH 1 HD AL" tvg-name="RTSH Muzik AL" tvg-logo="http://pici.life/AL/RTSH_Muzik.png" group-title="Albania",RTSH Muzik AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/14130
+#EXTINF:-1 tvg-id="" tvg-name="Folklorit HD AL" tvg-logo="http://pici.life/Albania/folklorit_tv_al.png" group-title="Albania",Folklorit HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10103
+#EXTINF:-1 tvg-id="" tvg-name="Folklorit AL" tvg-logo="http://pici.life/Albania/folk_plus.png" group-title="Albania",Folklorit AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10120
+#EXTINF:-1 tvg-id="" tvg-name="Alb Music HD AL" tvg-logo="http://pici.life/Albania/ALBMUSICHD.png" group-title="Albania",Alb Music HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10168
+#EXTINF:-1 tvg-id="" tvg-name="Top Estrada TV HD AL" tvg-logo="http://pici.life/AL/topestrada.png" group-title="Albania",Top Estrada TV HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10009
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi TV AL" tvg-logo="http://pici.life/Albania/ElrodiTV.png" group-title="Albania",Elrodi TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10121
+#EXTINF:-1 tvg-id="" tvg-name="Albania TV HD AL" tvg-logo="http://pici.life/tiranatv.png" group-title="Albania",Albania TV HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4715
+#EXTINF:-1 tvg-id="" tvg-name="BBF Music HD AL" tvg-logo="http://pici.life/AL/bbfmusic.png" group-title="Albania",BBF Music HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10104
+#EXTINF:-1 tvg-id="" tvg-name="X Music Hits AL" tvg-logo="" group-title="Albania",X Music Hits AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/655147
+#EXTINF:-1 tvg-id="" tvg-name="Zico TV FHD AL" tvg-logo="http://pici.life/AL/ZTV.png" group-title="Albania",Zico TV FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10122
+#EXTINF:-1 tvg-id="" tvg-name="Click TV AL" tvg-logo="http://pici.life/Albania/ClickTV.png" group-title="Albania",Click TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10169
+#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova AL" tvg-logo="http://pici.life/AL/mtvkosova.png" group-title="Albania",MTV Kosova AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10125
+#EXTINF:-1 tvg-id="My Music AL" tvg-name="My Music AL" tvg-logo="http://pici.life/mymusical.png" group-title="Albania",My Music AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10111
+#EXTINF:-1 tvg-id="" tvg-name="Supersonic TV AL" tvg-logo="http://pici.life/AL/supersonic.png" group-title="Albania",Supersonic TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10109
+#EXTINF:-1 tvg-id="" tvg-name="STV Folk AL" tvg-logo="http://pici.life/AL/Stv_folk.png" group-title="Albania",STV Folk AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4733
+#EXTINF:-1 tvg-id="" tvg-name="Folk AL" tvg-logo="http://pici.life/AL/folklorit.png" group-title="Albania",Folk AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4736
+#EXTINF:-1 tvg-id="" tvg-name="Lugina Popullore HD AL" tvg-logo="http://pici.life/AL/Lugina.jpg" group-title="Albania",Lugina Popullore HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10171
+#EXTINF:-1 tvg-id="" tvg-name="Syri Blue FHD AL" tvg-logo="http://pici.life/AL/syriblueal.png" group-title="Albania",Syri Blue FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10048
+#EXTINF:-1 tvg-id="" tvg-name="Turbo Channel AL" tvg-logo="http://pici.life/AL/turbo_channel.jpg" group-title="Albania",Turbo Channel AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10113
+#EXTINF:-1 tvg-id="" tvg-name="Uskana TV AL" tvg-logo="http://pici.life/AL/TvUskana.png" group-title="Albania",Uskana TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10133
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="http://pici.life/Albania/DasmaTV.png" group-title="Albania",Dasma TV AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4732
+#EXTINF:-1 tvg-id="" tvg-name="First Channel FHD AL" tvg-logo="http://pici.life/firstchannel_2.png" group-title="Albania",First Channel FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/9948
+#EXTINF:-1 tvg-id="" tvg-name="First Channel AL" tvg-logo="http://pici.life/AL/First_TV.png" group-title="Albania",First Channel AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4834
+#EXTINF:-1 tvg-id="" tvg-name="Qifteli FHD AL" tvg-logo="http://pici.life/AL/qifteli.png" group-title="Albania",Qifteli FHD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10132
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja AL" tvg-logo="" group-title="Albania",TV Opoja AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/677924
+#EXTINF:-1 tvg-id="" tvg-name="TV Mitrovica HD AL" tvg-logo="http://pici.life/logo.png" group-title="Albania",TV Mitrovica HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/680238
+#EXTINF:-1 tvg-id="" tvg-name="In TV HD AL" tvg-logo="" group-title="Albania",In TV HD AL
+http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/685649
