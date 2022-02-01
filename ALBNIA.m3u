@@ -1,256 +1,826 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="info-smariptv do not pres ok wait for the list please/12.png" ,Vetem ne smart IPTV Nr +44 79 6008 5008 viber 
-http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8 
-#EXTINF:-1,00447 888 999 065 LITSA E RE ME 400+ KANALE FALAS VETEM NE SMART TV ME APP SMARTIPTV 
-http://62.210.215.83:8000/play/a00y/index.m3u8 
-#EXTINF:-1,RTSH 1 
+
+#EXTINF:-1,RTSH
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
 #EXTINF:-1,RTSH 2
-https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8 
+http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
 #EXTINF:-1,RTSH 3
-http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8 
+http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8
 #EXTINF:-1,RTSH 24
-https://tvlive.rtsh.dev/live/rtsh_24_ott_p3/playlist.m3u8
-#EXTINF:-1,RTSH Plus
-http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
-#EXTINF:-1,RTSH Shqip
-http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
-#EXTINF:-1,RTSHsport
-https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8 
-#EXTINF:-1,RTSH ShkollÃ«
-https://tvlive.rtsh.dev/live/rtsh_shkolle_mob_p2/playlist.m3u8 
-#EXTINF:-1,RTSH Agro
-https://tvlive.rtsh.dev/live/rtsh_agro_ott_p2/playlist.m3u8
-#EXTINF:-1,RTSH MuzikÃ«
-https://tvlive.rtsh.dev/live/rtsh_muzike_mob_p2/playlist.m3u8
+http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
+#EXTINF:-1,RTSH Sport
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m..
+#EXTINF:-1,RTSH Kids
+http://edge01eu.ekranet.com:80/rtshfemije_240p/index...
 #EXTINF:-1,RTSH Film
-https://tvlive.rtsh.dev/live/rtsh_film_mob_p2/playlist.m3u8 
-#EXTINF:-1,RTSH SHqip
-https://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8
-#EXTINF:-1,RTSH Kuvend 
-https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott_p1/playlist.m3u8 
-#EXTINF:-1,RTSH KorÃ§a
-https://tvlive.rtsh.dev/live/rtsh_korca_ott_p2/playlist.m3u8 
-#EXTINF:-1,RTSH Gjirokastra
-https://tvlive.rtsh.dev/live/rtsh_gjirokastra_mob_p1/playlist.m3u8 
-#EXTINF:-1,RTSH KukÃ«si 
-https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
-#EXTINF:-1,RTSH Pluse
-https://tvlive.rtsh.dev/live/rtsh_plus_ott_p2/playlist.m3u8 
-#EXTINF:-1,top channel
-http://mobflussonic1.tibo.tv/topchannelhd/mpegts
+http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
+#EXTINF:-1,RTSH Shqip
+http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
+#EXTINF:-1,TV Korca
+http://edge01eu.ekranet.com/tvkorca/index.m3u8
+#EXTINF:-1,RTSH Kuvend
+htto://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8
+#EXTINF:-1,RTSH Muzike
+http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
+#EXTINF:-1,RTSH FILM
+http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
+#EXTINF:-1,Zjarr
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8
+#EXTINF:-1,TEMA
+http://edge01eu.ekranet.com/tematv_360p/index.m3u8
+#EXTINF:-1,SCAN 24
+http://edge01eu.ekranet.com/scantv/index.m3u8
+#EXTINF:-1,FAX NEWS
+http://edge01eu.ekranet.com/faxnews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 AL" tvg-logo="http://picon.space/rtk1al.png" ,RTK 1 
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="RTK 3 " tvg-logo="http://picon.space/rtk3al.png" ,RTK 3 
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="RTK 4 " tvg-logo="http://picon.space/rtk4al.png" ,RTK 4
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:0,RROKUM 
-http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:0,CHANNEL ONE
-http://145.239.2.153:8081/channelone/channelone/playlist.m3u8
-#EXTINF:0,IN TV HD
-http://80.90.86.195:1935/live/livestream/playlist.m3u8 
-#EXTINF:0,Topestrada 
-http://27.shqiptv.org/live/topestrada/index.m3u8
-#EXTINF:0,EURO AL 
-http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
-#EXTINF:-1,ALB MUSIC HD 
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8 
-#EXTINF:0, Istogu Channel HD
-http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZJARR HD 
-http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
-#EXTINF:-1,TV DIELLI 
-http://51.15.180.159:8081/play/hls/dielli/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Opoja " tvg-logo="http://picon.space/tvopoja.png" ,TV Opoja 
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:0, KOHA TV
-rtmp://live.tvkoha.tv/live/koha/livestream
-#EXTINF:-1,al usa tv
-http://stream.shqiptv.com:7080/altvusa/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV ZIK" tvg-logo="http://iptvfalas.com/zik.png" ,RTV ZIK 
-http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
-#EXTINF:-1,SYRIBLUE HD 
-http://live.syri.tv:6969/live/syriblue/hd/23.ts 
-#EXTINF:-1,SYRIVISION 
-http://178.132.6.97/SYRIVISION1/index.m3u8
-#EXTINF:-1,ALB UK 
-rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream
-#EXTINF:0,Tv 7 
-Albania http://media.az-mediaserver.com:1935/7064/7064/chunklist.m3u8 
-#EXTINF:-1,A1 report
-http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8 
-#EXTINF:0,ORANEWS 
-http://145.239.2.153:8081/oranews/live/playlist.m3u8 
-#EXTINF:-1,7 News 
-https://stream.shqiptv.com/tst/7NEWS-8761-sd/index.m3u8 
-#EXTINF:-1,NEWS 24 
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1, Dream TV 
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8 
-#EXTINF:-1,M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,NRJ HITS
-http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
-#EXTINF:-1, myHit http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8 
-#EXTINF:0,MTV #EXTVLCOPT:network-caching=300 
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:0,MUSIC CHOICE #EXTVLCOPT:network-caching=300
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1,DW 
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, Sky News 
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,france24 
-http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
-#EXTINF:-1,ALL Sports 
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8 
-#EXTINF:-1,ID Fashion
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8 
-#EXTINF:-1,HD Media 3D 
-http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
-#EXTINF:0,RTK 1
-Please login to see this link.
-#EXTINF:0,21 HD
-http://37.187.171.94:4041/udp/239.0.0.102:12345
-#EXTINF:0,KTV
-Please login to see this link.
-#EXTINF:0,Film Aksion
-http://37.187.171.94:4041/udp/239.0.0.105:12345
-#EXTINF:0,TOP Channel HD
-Please login to see this link.
-#EXTINF:0,BBF
-http://37.187.171.94:4041/udp/239.0.0.115:12345
-#EXTINF:0,21 Plus
-Please login to see this link.
-#EXTINF:0,Agon
-http://37.187.171.94:4041/udp/239.0.0.120:12345
-#EXTINF:0,RTK 3
-Please login to see this link.
-#EXTINF:0,TVSH
-http://37.187.171.94:4041/udp/239.0.0.122:12345
-#EXTINF:0,Klan
-Please login to see this link.
-#EXTINF:0,Klan Kosova
-http://37.187.171.94:4041/udp/239.0.0.124:12345
-#EXTINF:0,Bang Bang
-Please login to see this link.
-#EXTINF:0,Cufo
-http://37.187.171.94:4041/udp/239.0.0.126:12345
-#EXTINF:0,Tring Tring
-Please login to see this link.
-#EXTINF:0,Tring Comedy
-http://37.187.171.94:4041/udp/239.0.0.128:12345
-#EXTINF:0,ABC News
-Please login to see this link.
-#EXTINF:0,Top News
-http://37.187.171.94:4041/udp/239.0.0.131:12345
-#EXTINF:0,Exp Natyra
-Please login to see this link.
-#EXTINF:0,Exp Shkence
-http://37.187.171.94:4041/udp/239.0.0.134:12345
-#EXTINF:0,Exp Histori
-Please login to see this link.
-#EXTINF:0,T HD
-http://37.187.171.94:4041/udp/239.0.0.136:12345
-#EXTINF:0,T HD
-Please login to see this link.
-#EXTINF:0,Film Hits
-http://37.187.171.94:4041/udp/239.0.0.138:12345
-#EXTINF:0,Film Drame
-Please login to see this link.
-#EXTINF:0,Film Komedi
-http://37.187.171.94:4041/udp/239.0.0.140:12345
-#EXTINF:0,Film Thriller
-Please login to see this link.
-#EXTINF:0,Film Autor
-http://37.187.171.94:4041/udp/239.0.0.142:12345
-#EXTINF:0,Super Sport News
-Please login to see this link.
-#EXTINF:0,Super Sport 2 HD
-http://37.187.171.94:4041/udp/239.0.0.144:12345
-#EXTINF:0,Super Sport 3 HD
-Please login to see this link.
-#EXTINF:0,Super Sport 4 HD
-http://37.187.171.94:4041/udp/239.0.0.146:12345
-#EXTINF:0,SS Kosova 1 HD
-Please login to see this link.
-#EXTINF:0,21 HD
-http://37.187.171.94:4041/udp/239.0.0.149:12345
-#EXTINF:0,Tring Super
-Please login to see this link.
-#EXTINF:0,Tring Max
-http://37.187.171.94:4041/udp/239.0.0.151:12345
-#EXTINF:0,Tring Shqip
-Please login to see this link.
-#EXTINF:0,Tring Life
-http://37.187.171.94:4041/udp/239.0.0.153:12345
-#EXTINF:0,My Music
-Please login to see this link.
-#EXTINF:0,Film Nje HD
-http://37.187.171.94:4041/udp/239.0.0.157:12345
-#EXTINF:0,Film Dy HD
-Please login to see this link.
-#EXTINF:0,Alsat M
-http://37.187.171.94:4041/udp/239.0.0.159:12345
-#EXTINF:0,Big Brother 1
-Please login to see this link.
-#EXTINF:0,Tring Sport
-http://37.187.171.94:4041/udp/239.0.0.161:12345
-#EXTINF:0,Tring Planet
-Please login to see this link.
-#EXTINF:0,A1
-http://37.187.171.94:4041/udp/239.0.0.163:12345
-#EXTINF:0,Folk Plus
-Please login to see this link.
-#EXTINF:0,Smile
-http://37.187.171.94:4041/udp/239.0.0.165:12345
-#EXTINF:0,Junior
-Please login to see this link.
-#EXTINF:0,Vizion Plus
-http://37.187.171.94:4041/udp/239.0.0.167:12345
-#EXTINF:0,Tele Sport
-Please login to see this link.
-#EXTINF:0,Tring 3
-http://37.187.171.94:4041/udp/239.0.0.170:12345
-#EXTINF:0,Click Tv
-Please login to see this link.
-#EXTINF:0,Fox Crime
-http://37.187.171.94:4041/udp/239.0.0.174:12345
-#EXTINF:0,Fox Life
-Please login to see this link.
-#EXTINF:0,New Channel
-http://37.187.171.94:4041/udp/239.0.0.176:12345
-#EXTINF:0,Tring Jolly HD
-Please login to see this link.
-#EXTINF:0,Living HD
-http://37.187.171.94:4041/udp/239.0.0.178:12345
-#EXTINF:0,Motors
-Please login to see this link.
-#EXTINF:0,Nat Geo Channel
-http://37.187.171.94:4041/udp/239.0.0.180:12345
-#EXTINF:0,Tring Planet
-Please login to see this link.
-#EXTINF:0,Tirana Tv
-http://37.187.171.94:4041/udp/239.0.0.182:12345
-#EXTINF:0,Tring World
-Please login to see this link.
-#EXTINF:0,New Channel
-http://37.187.171.94:4041/udp/239.0.0.184:12345
-#EXTINF:0,First Channel
-Please login to see this link.
-#EXTINF:0,STV
-http://37.187.171.94:4041/udp/239.0.0.186:12345
-#EXTINF:0,A1 Report
-Please login to see this link.
-#EXTINF:0,Plus HD
-http://37.187.171.94:4041/udp/239.0.0.188:12345
-#EXTINF:0,Tirana Tv
-Please login to see this link.
-#EXTINF:0,X3
-http://37.187.171.94:4041/udp/239.0.0.190:12345
-#EXTINF:0,Baby
-Please login to see this link.
-#EXTINF:0,Nat Geo Channel HD
-http://37.187.171.94:4041/udp/239.0.0.193:12345
+#EXTINF:-1,AL: 3 Plus HD
+http://iptvmedia.live:8080/12810/7f788911/4105
+#EXTINF:-1,AL: 24 Kitchen HD
+http://iptvmedia.live:8080/12810/7f788911/1343
+#EXTINF:-1,AL 24 Kitchen HD
+http://iptvmedia.live:8080/12810/7f788911/274339
+#EXTINF:-1,AL: 8ova Action HD
+http://iptvmedia.live:8080/12810/7f788911/263764
+#EXTINF:-1,AL: 8ova Cifteli FHD
+http://iptvmedia.live:8080/12810/7f788911/12464
+#EXTINF:-1,AL: 8ova Drame HD
+http://iptvmedia.live:8080/12810/7f788911/263766
+#EXTINF:-1,AL: 8ova Gjurme Shqiptare TV HD
+http://iptvmedia.live:8080/12810/7f788911/193733
+#EXTINF:-1,AL: 8ova Komedi HD
+http://iptvmedia.live:8080/12810/7f788911/263767
+#EXTINF:-1,AL: 8ova Music HD
+http://iptvmedia.live:8080/12810/7f788911/263774
+#EXTINF:-1,AL 8ova Music HD
+http://iptvmedia.live:8080/12810/7f788911/274720
+#EXTINF:-1,AL: A TV FHD
+http://iptvmedia.live:8080/12810/7f788911/171891
+#EXTINF:-1,AL: A2 FHD
+http://iptvmedia.live:8080/12810/7f788911/281857
+#EXTINF:-1,AL: AA New York TV HD
+http://iptvmedia.live:8080/12810/7f788911/281965
+#EXTINF:-1,AL: ABC HD
+http://iptvmedia.live:8080/12810/7f788911/2551
+#EXTINF:-1,AL: ACTV HD
+http://iptvmedia.live:8080/12810/7f788911/281966
+#EXTINF:-1,AL: AD TV HD
+http://iptvmedia.live:8080/12810/7f788911/282007
+#EXTINF:-1,AL: Adria Net HD
+http://iptvmedia.live:8080/12810/7f788911/173470
+#EXTINF:-1,AL: ALB Humor 2 HD
+http://iptvmedia.live:8080/12810/7f788911/43078
+#EXTINF:-1,AL: ALB Music HD
+http://iptvmedia.live:8080/12810/7f788911/44994
+#EXTINF:-1,AL ALB Music HD
+http://iptvmedia.live:8080/12810/7f788911/290130
+#EXTINF:-1,AL: Alb Swiss FHD
+http://iptvmedia.live:8080/12810/7f788911/12437
+#EXTINF:-1,AL: Albuk FHD
+http://iptvmedia.live:8080/12810/7f788911/4037
+#EXTINF:-1,AL: Alpo HD
+http://iptvmedia.live:8080/12810/7f788911/278528
+#EXTINF:-1,AL: Alsat FHD
+http://iptvmedia.live:8080/12810/7f788911/1346
+#EXTINF:-1,AL: Amol TV FHD
+http://iptvmedia.live:8080/12810/7f788911/281387
+#EXTINF:-1,AL: ANIMAL PLANET FHD
+http://iptvmedia.live:8080/12810/7f788911/15558
+#EXTINF:-1,AL ANIMAL PLANET FHD
+http://iptvmedia.live:8080/12810/7f788911/273387
+#EXTINF:-1,AL: Apollon TV FHD
+http://iptvmedia.live:8080/12810/7f788911/281856
+#EXTINF:-1,AL: Arena Sport 1 FHD
+http://iptvmedia.live:8080/12810/7f788911/193741
+#EXTINF:-1,AL: Arena Sport 2 HD
+http://iptvmedia.live:8080/12810/7f788911/171883
+#EXTINF:-1,AL: Arena Sport 4 FHD
+http://iptvmedia.live:8080/12810/7f788911/193744
+#EXTINF:-1,AL: Arena Sport 5 FHD
+http://iptvmedia.live:8080/12810/7f788911/57711
+#EXTINF:-1,AL: Art Doku 1 FHD
+http://iptvmedia.live:8080/12810/7f788911/146080
+#EXTINF:-1,AL: Art Doku 2 FHD
+http://iptvmedia.live:8080/12810/7f788911/146081
+#EXTINF:-1,AL: Art Kino 1 FHD
+http://iptvmedia.live:8080/12810/7f788911/146084
+#EXTINF:-1,AL: Art Kino 2 FHD
+http://iptvmedia.live:8080/12810/7f788911/146085
+#EXTINF:-1,AL: Art Kino 3 FHD
+http://iptvmedia.live:8080/12810/7f788911/146086
+#EXTINF:-1,AL: ART Sport 1 FHD
+http://iptvmedia.live:8080/12810/7f788911/23143
+#EXTINF:-1,AL: ART Sport 2 FHD
+http://iptvmedia.live:8080/12810/7f788911/23146
+#EXTINF:-1,AL: ART Sport 3 FHD
+http://iptvmedia.live:8080/12810/7f788911/40061
+#EXTINF:-1,AL: Arta News HD
+http://iptvmedia.live:8080/12810/7f788911/4039
+#EXTINF:-1,AL: Arti TV FHD
+http://iptvmedia.live:8080/12810/7f788911/278529
+#EXTINF:-1,AL: Ashkali TV HD
+http://iptvmedia.live:8080/12810/7f788911/193769
+#EXTINF:-1,AL: B Aksion HD
+http://iptvmedia.live:8080/12810/7f788911/188231
+#EXTINF:-1,AL: B Film Turke HD
+http://iptvmedia.live:8080/12810/7f788911/188233
+#EXTINF:-1,AL: B Gold 1 HD
+http://iptvmedia.live:8080/12810/7f788911/188234
+#EXTINF:-1,AL: B Gold 4 HD
+http://iptvmedia.live:8080/12810/7f788911/188237
+#EXTINF:-1,AL: B Kemal Sunal TV HD
+http://iptvmedia.live:8080/12810/7f788911/188245
+#EXTINF:-1,AL: B Popullore HD
+http://iptvmedia.live:8080/12810/7f788911/266683
+#EXTINF:-1,AL: Baby TV HD
+http://iptvmedia.live:8080/12810/7f788911/4040
+#EXTINF:-1,AL Baby TV HD
+http://iptvmedia.live:8080/12810/7f788911/274323
+#EXTINF:-1,AL: Balkanika Music TV HD
+http://iptvmedia.live:8080/12810/7f788911/281981
+#EXTINF:-1,AL Balkanika Music TV HD
+http://iptvmedia.live:8080/12810/7f788911/283010
+#EXTINF:-1,AL: Bang Bang HD
+http://iptvmedia.live:8080/12810/7f788911/1342
+#EXTINF:-1,AL: BBF Music HD
+http://iptvmedia.live:8080/12810/7f788911/4041
+#EXTINF:-1,AL BBF Music HD
+http://iptvmedia.live:8080/12810/7f788911/274734
+#EXTINF:-1,AL: Besa TV HD
+http://iptvmedia.live:8080/12810/7f788911/4042
+#EXTINF:-1,AL: Big Brother 1 FHD
+http://iptvmedia.live:8080/12810/7f788911/289613
+#EXTINF:-1,AL: Big Brother 2 FHD
+http://iptvmedia.live:8080/12810/7f788911/289614
+#EXTINF:-1,AL: Blue Sky TV Music HD
+http://iptvmedia.live:8080/12810/7f788911/280117
+#EXTINF:-1,AL Blue Sky TV Music HD
+http://iptvmedia.live:8080/12810/7f788911/283003
+#EXTINF:-1,AL: BOIN TV FHD
+http://iptvmedia.live:8080/12810/7f788911/15520
+#EXTINF:-1,AL: Boomerang HD
+http://iptvmedia.live:8080/12810/7f788911/1341
+#EXTINF:-1,AL: Cartoonito HD
+http://iptvmedia.live:8080/12810/7f788911/283189
+#EXTINF:-1,AL Cartoonito HD
+http://iptvmedia.live:8080/12810/7f788911/290095
+#EXTINF:-1,AL: CBS News FHD
+http://iptvmedia.live:8080/12810/7f788911/283188
+#EXTINF:-1,AL: Channel One HD
+http://iptvmedia.live:8080/12810/7f788911/5139
+#EXTINF:-1,AL: Cinema Max HD
+http://iptvmedia.live:8080/12810/7f788911/169857
+#EXTINF:-1,AL: City TV HD
+http://iptvmedia.live:8080/12810/7f788911/281899
+#EXTINF:-1,AL: Click HD
+http://iptvmedia.live:8080/12810/7f788911/16447
+#EXTINF:-1,AL: Comedy Central Extra HD
+http://iptvmedia.live:8080/12810/7f788911/166512
+#EXTINF:-1,AL: Cufo HD
+http://iptvmedia.live:8080/12810/7f788911/1339
+#EXTINF:-1,AL: CW HD
+http://iptvmedia.live:8080/12810/7f788911/283196
+#EXTINF:-1,AL: Dark Aventure FHD
+http://iptvmedia.live:8080/12810/7f788911/266411
+#EXTINF:-1,AL: Dark Balade FHD
+http://iptvmedia.live:8080/12810/7f788911/266409
+#EXTINF:-1,AL: Dark Baskia Humor HD
+http://iptvmedia.live:8080/12810/7f788911/166528
+#EXTINF:-1,AL: Dark Bitonia FHD
+http://iptvmedia.live:8080/12810/7f788911/267055
+#EXTINF:-1,AL: Dark ChuChu TV HD
+http://iptvmedia.live:8080/12810/7f788911/266402
+#EXTINF:-1,AL: Dark Cifteli FHD
+http://iptvmedia.live:8080/12810/7f788911/166535
+#EXTINF:-1,AL: Dark Drame FHD
+http://iptvmedia.live:8080/12810/7f788911/266396
+#EXTINF:-1,AL: Dark Gezuar FHD
+http://iptvmedia.live:8080/12810/7f788911/278588
+#EXTINF:-1,AL: Dark Gold 1 FHD
+http://iptvmedia.live:8080/12810/7f788911/166537
+#EXTINF:-1,AL: Dark Gold 2 FHD
+http://iptvmedia.live:8080/12810/7f788911/2553
+#EXTINF:-1,AL: Dark Gold 3 FHD
+http://iptvmedia.live:8080/12810/7f788911/2554
+#EXTINF:-1,AL: Dark Gold 4 FHD
+http://iptvmedia.live:8080/12810/7f788911/16460
+#EXTINF:-1,AL: Dark Gold 5 FHD
+http://iptvmedia.live:8080/12810/7f788911/266392
+#EXTINF:-1,AL: Dark Gold 6 FHD
+http://iptvmedia.live:8080/12810/7f788911/266393
+#EXTINF:-1,AL: Dark Gold 7 FHD
+http://iptvmedia.live:8080/12810/7f788911/266394
+#EXTINF:-1,AL: Dark Gold 8 FHD
+http://iptvmedia.live:8080/12810/7f788911/266395
+#EXTINF:-1,AL: Dark Hindi FHD
+http://iptvmedia.live:8080/12810/7f788911/266419
+#EXTINF:-1,AL: Dark Hip Hop FHD
+http://iptvmedia.live:8080/12810/7f788911/166534
+#EXTINF:-1,AL: Dark Horror FHD
+http://iptvmedia.live:8080/12810/7f788911/188263
+#EXTINF:-1,AL: Dark iStar Seriali HD
+http://iptvmedia.live:8080/12810/7f788911/247879
+#EXTINF:-1,AL: Dark Kafeneja jone HD
+http://iptvmedia.live:8080/12810/7f788911/188264
+#EXTINF:-1,AL: Dark Komedi FHD
+http://iptvmedia.live:8080/12810/7f788911/166517
+#EXTINF:-1,AL: Dark Netflix HD
+http://iptvmedia.live:8080/12810/7f788911/195797
+#EXTINF:-1,AL: Dark O sa mire HD
+http://iptvmedia.live:8080/12810/7f788911/188270
+#EXTINF:-1,AL: Dark Peralla HD
+http://iptvmedia.live:8080/12810/7f788911/266401
+#EXTINF:-1,AL: Dark Pink Panther HD
+http://iptvmedia.live:8080/12810/7f788911/266399
+#EXTINF:-1,AL: Dark Popullore 2 FHD
+http://iptvmedia.live:8080/12810/7f788911/188272
+#EXTINF:-1,AL: Dark Popullore 3 FHD
+http://iptvmedia.live:8080/12810/7f788911/266407
+#EXTINF:-1,AL: Dark Popullore FHD
+http://iptvmedia.live:8080/12810/7f788911/166533
+#EXTINF:-1,AL: Dark Premiere Kids FHD
+http://iptvmedia.live:8080/12810/7f788911/266397
+#EXTINF:-1,AL: Dark Romance FHD
+http://iptvmedia.live:8080/12810/7f788911/157409
+#EXTINF:-1,AL: Dark sci-fi FHD
+http://iptvmedia.live:8080/12810/7f788911/4065
+#EXTINF:-1,AL: Dark Shengen Visa HD
+http://iptvmedia.live:8080/12810/7f788911/195799
+#EXTINF:-1,AL: Dark Shpk Nazi HD
+http://iptvmedia.live:8080/12810/7f788911/166522
+#EXTINF:-1,AL: Dark Stupcat HD
+http://iptvmedia.live:8080/12810/7f788911/166520
+#EXTINF:-1,AL: Dark Thriller FHD
+http://iptvmedia.live:8080/12810/7f788911/12465
+#EXTINF:-1,AL: Dark western FHD
+http://iptvmedia.live:8080/12810/7f788911/16442
+#EXTINF:-1,AL: Dasma TV HD
+http://iptvmedia.live:8080/12810/7f788911/8288
+#EXTINF:-1,AL: Digi Gold 1 HD
+http://iptvmedia.live:8080/12810/7f788911/281904
+#EXTINF:-1,AL: Discovery Real Time HD
+http://iptvmedia.live:8080/12810/7f788911/290514
+#EXTINF:-1,AL Discovery Real Time HD
+http://iptvmedia.live:8080/12810/7f788911/290588
+#EXTINF:-1,AL: Discovery Science FHD
+http://iptvmedia.live:8080/12810/7f788911/166530
+#EXTINF:-1,AL: Discovery World HD
+http://iptvmedia.live:8080/12810/7f788911/4046
+#EXTINF:-1,AL Discovery World HD
+http://iptvmedia.live:8080/12810/7f788911/273707
+#EXTINF:-1,AL: Disney Channel HD
+http://iptvmedia.live:8080/12810/7f788911/193725
+#EXTINF:-1,AL Disney Channel HD
+http://iptvmedia.live:8080/12810/7f788911/290603
+#EXTINF:-1,AL: Disney Junior FHD
+http://iptvmedia.live:8080/12810/7f788911/44959
+#EXTINF:-1,AL Disney Junior FHD
+http://iptvmedia.live:8080/12810/7f788911/274473
+#EXTINF:-1,AL: Dizi Channel HD
+http://iptvmedia.live:8080/12810/7f788911/41309
+#EXTINF:-1,AL: Docu Box FHD
+http://iptvmedia.live:8080/12810/7f788911/267033
+#EXTINF:-1,AL: Dream Works FHD
+http://iptvmedia.live:8080/12810/7f788911/276672
+#EXTINF:-1,AL: Drita TV FHD
+http://iptvmedia.live:8080/12810/7f788911/41318
+#EXTINF:-1,AL: Elrodi TV HD
+http://iptvmedia.live:8080/12810/7f788911/2557
+#EXTINF:-1,AL: Episode HD
+http://iptvmedia.live:8080/12810/7f788911/169877
+#EXTINF:-1,AL: Era TV HD
+http://iptvmedia.live:8080/12810/7f788911/13864
+#EXTINF:-1,AL: ESPN 2 HD
+http://iptvmedia.live:8080/12810/7f788911/283198
+#EXTINF:-1,AL: ESPN HD
+http://iptvmedia.live:8080/12810/7f788911/283199
+#EXTINF:-1,AL: Euro AL HD
+http://iptvmedia.live:8080/12810/7f788911/42818
+#EXTINF:-1,AL: Eurofilm HD
+http://iptvmedia.live:8080/12810/7f788911/5952
+#EXTINF:-1,AL: euronews Albania FHD
+http://iptvmedia.live:8080/12810/7f788911/169839
+#EXTINF:-1,AL: EUROSPORT 1 FHD
+http://iptvmedia.live:8080/12810/7f788911/45047
+#EXTINF:-1,AL: EUROSPORT 2 FHD
+http://iptvmedia.live:8080/12810/7f788911/16454
+#EXTINF:-1,AL: Explorer History HD
+http://iptvmedia.live:8080/12810/7f788911/1336
+#EXTINF:-1,AL Explorer History HD
+http://iptvmedia.live:8080/12810/7f788911/274198
+#EXTINF:-1,AL: Explorer Natyra HD
+http://iptvmedia.live:8080/12810/7f788911/4048
+#EXTINF:-1,AL: Explorer Shkence HD
+http://iptvmedia.live:8080/12810/7f788911/5961
+#EXTINF:-1,AL: Festina TV HD
+http://iptvmedia.live:8080/12810/7f788911/290454
+#EXTINF:-1,AL: Film & Arts HD
+http://iptvmedia.live:8080/12810/7f788911/285148
+#EXTINF:-1,AL: Film Aksion FHD
+http://iptvmedia.live:8080/12810/7f788911/2558
+#EXTINF:-1,AL: Film Autor HD
+http://iptvmedia.live:8080/12810/7f788911/1333
+#EXTINF:-1,AL: Film Drame HD
+http://iptvmedia.live:8080/12810/7f788911/1332
+#EXTINF:-1,AL: Film DY FHD
+http://iptvmedia.live:8080/12810/7f788911/287740
+#EXTINF:-1,AL: Film Gold HD
+http://iptvmedia.live:8080/12810/7f788911/283212
+#EXTINF:-1,AL: Film Hits FHD
+http://iptvmedia.live:8080/12810/7f788911/1330
+#EXTINF:-1,AL: Film Komedi HD
+http://iptvmedia.live:8080/12810/7f788911/1329
+#EXTINF:-1,AL: Film Max FHD
+http://iptvmedia.live:8080/12810/7f788911/1331
+#EXTINF:-1,AL: Film Nje FHD
+http://iptvmedia.live:8080/12810/7f788911/2559
+#EXTINF:-1,AL: Film Stinet HD
+http://iptvmedia.live:8080/12810/7f788911/4096
+#EXTINF:-1,AL: Film Thriller HD
+http://iptvmedia.live:8080/12810/7f788911/1328
+#EXTINF:-1,AL: FilmBox Arthouse HD
+http://iptvmedia.live:8080/12810/7f788911/145895
+#EXTINF:-1,AL: FilmBox Extra FHD
+http://iptvmedia.live:8080/12810/7f788911/145896
+#EXTINF:-1,AL: FilmBox Premium FHD
+http://iptvmedia.live:8080/12810/7f788911/145894
+#EXTINF:-1,AL: First Channel FHD
+http://iptvmedia.live:8080/12810/7f788911/281855
+#EXTINF:-1,AL: Folk+ HD
+http://iptvmedia.live:8080/12810/7f788911/4053
+#EXTINF:-1,AL: Fox Crime FHD
+http://iptvmedia.live:8080/12810/7f788911/4055
+#EXTINF:-1,AL: FOX HD
+http://iptvmedia.live:8080/12810/7f788911/5133
+#EXTINF:-1,AL: Fox Life FHD
+http://iptvmedia.live:8080/12810/7f788911/5132
+#EXTINF:-1,AL Fox Life FHD
+http://iptvmedia.live:8080/12810/7f788911/273958
+#EXTINF:-1,AL: Fox Movies HD
+http://iptvmedia.live:8080/12810/7f788911/4056
+#EXTINF:-1,AL: Fox News HD
+http://iptvmedia.live:8080/12810/7f788911/5136
+#EXTINF:-1,AL: Fox Soccer Plus HD
+http://iptvmedia.live:8080/12810/7f788911/283187
+#EXTINF:-1,AL: Frame TV FHD
+http://iptvmedia.live:8080/12810/7f788911/281967
+#EXTINF:-1,AL: FreeSports FHD
+http://iptvmedia.live:8080/12810/7f788911/197068
+#EXTINF:-1,AL: FXX HD
+http://iptvmedia.live:8080/12810/7f788911/283197
+#EXTINF:-1,AL: Gjolli Islam HD
+http://iptvmedia.live:8080/12810/7f788911/23795
+#EXTINF:-1,AL: Globi TV HD
+http://iptvmedia.live:8080/12810/7f788911/280161
+#EXTINF:-1,AL: HBO 2 FHD
+http://iptvmedia.live:8080/12810/7f788911/26161
+#EXTINF:-1,AL: HBO 3 HD
+http://iptvmedia.live:8080/12810/7f788911/26156
+#EXTINF:-1,AL: HBO HD
+http://iptvmedia.live:8080/12810/7f788911/26155
+#EXTINF:-1,AL: I Love Tropoja TV HD
+http://iptvmedia.live:8080/12810/7f788911/266657
+#EXTINF:-1,AL: Investigation Discovery HD
+http://iptvmedia.live:8080/12810/7f788911/290513
+#EXTINF:-1,AL Investigation Discovery HD
+http://iptvmedia.live:8080/12810/7f788911/290587
+#EXTINF:-1,AL: Istogu Channel FHD
+http://iptvmedia.live:8080/12810/7f788911/41305
+#EXTINF:-1,AL: JimJam HD
+http://iptvmedia.live:8080/12810/7f788911/145871
+#EXTINF:-1,AL JimJam HD
+http://iptvmedia.live:8080/12810/7f788911/274415
+#EXTINF:-1,AL: Junior TV HD
+http://iptvmedia.live:8080/12810/7f788911/2560
+#EXTINF:-1,AL Junior TV HD
+http://iptvmedia.live:8080/12810/7f788911/274444
+#EXTINF:-1,AL: K Sport 1 HD
+http://iptvmedia.live:8080/12810/7f788911/1863
+#EXTINF:-1,AL: K Sport 2 HD
+http://iptvmedia.live:8080/12810/7f788911/1864
+#EXTINF:-1,AL: K Sport 3 HD
+http://iptvmedia.live:8080/12810/7f788911/1865
+#EXTINF:-1,AL: K Sport 4 HD
+http://iptvmedia.live:8080/12810/7f788911/1866
+#EXTINF:-1,AL: Kanal 10 HD
+http://iptvmedia.live:8080/12810/7f788911/198840
+#EXTINF:-1,AL: Kanal D Drama FHD
+http://iptvmedia.live:8080/12810/7f788911/26182
+#EXTINF:-1,AL: Kanali 7 HD
+http://iptvmedia.live:8080/12810/7f788911/4062
+#EXTINF:-1,AL: Kanali 10 HD
+http://iptvmedia.live:8080/12810/7f788911/281986
+#EXTINF:-1,AL: Kinema Aksion HD
+http://iptvmedia.live:8080/12810/7f788911/264844
+#EXTINF:-1,AL: Kinema Aksion Max FHD
+http://iptvmedia.live:8080/12810/7f788911/166495
+#EXTINF:-1,AL: Kinema Classics HD
+http://iptvmedia.live:8080/12810/7f788911/264843
+#EXTINF:-1,AL: Kinema Drane HD
+http://iptvmedia.live:8080/12810/7f788911/266388
+#EXTINF:-1,AL: Kinema Gold HD
+http://iptvmedia.live:8080/12810/7f788911/188073
+#EXTINF:-1,AL: Kinema Hits HD
+http://iptvmedia.live:8080/12810/7f788911/188072
+#EXTINF:-1,AL: Kinema Milenium HD
+http://iptvmedia.live:8080/12810/7f788911/280140
+#EXTINF:-1,AL: Klan Kosova HD
+http://iptvmedia.live:8080/12810/7f788911/2561
+#EXTINF:-1,AL: Klan Music HD
+http://iptvmedia.live:8080/12810/7f788911/166503
+#EXTINF:-1,AL Klan Music HD
+http://iptvmedia.live:8080/12810/7f788911/279200
+#EXTINF:-1,AL: Klan Plus HD
+http://iptvmedia.live:8080/12810/7f788911/2562
+#EXTINF:-1,AL: Koha TV HD
+http://iptvmedia.live:8080/12810/7f788911/4115
+#EXTINF:-1,AL: Komedi TV HD
+http://iptvmedia.live:8080/12810/7f788911/169863
+#EXTINF:-1,AL: KS Action HD
+http://iptvmedia.live:8080/12810/7f788911/23798
+#EXTINF:-1,AL: KS Cifteli FHD
+http://iptvmedia.live:8080/12810/7f788911/198665
+#EXTINF:-1,AL: KS Comedy HD
+http://iptvmedia.live:8080/12810/7f788911/23793
+#EXTINF:-1,AL: KS EPIC FHD
+http://iptvmedia.live:8080/12810/7f788911/173475
+#EXTINF:-1,AL: KS Filma24 Family HD
+http://iptvmedia.live:8080/12810/7f788911/278247
+#EXTINF:-1,AL: KS Filma24 Premiere HD
+http://iptvmedia.live:8080/12810/7f788911/278255
+#EXTINF:-1,AL: Ks History FHD
+http://iptvmedia.live:8080/12810/7f788911/173472
+#EXTINF:-1,AL Ks History FHD
+http://iptvmedia.live:8080/12810/7f788911/290595
+#EXTINF:-1,AL: KS Hits FHD
+http://iptvmedia.live:8080/12810/7f788911/198433
+#EXTINF:-1,AL: KS Horror FHD
+http://iptvmedia.live:8080/12810/7f788911/173474
+#EXTINF:-1,AL: KS Kids HD
+http://iptvmedia.live:8080/12810/7f788911/151740
+#EXTINF:-1,AL: KS Popullore FHD
+http://iptvmedia.live:8080/12810/7f788911/30180
+#EXTINF:-1,AL: kS premiere 2 HD
+http://iptvmedia.live:8080/12810/7f788911/281898
+#EXTINF:-1,AL: KS Premiere 3 FHD
+http://iptvmedia.live:8080/12810/7f788911/173465
+#EXTINF:-1,AL: KS Premiere 4 FHD
+http://iptvmedia.live:8080/12810/7f788911/173479
+#EXTINF:-1,AL: KS Stupcat FHD
+http://iptvmedia.live:8080/12810/7f788911/59022
+#EXTINF:-1,AL: KTV FHD
+http://iptvmedia.live:8080/12810/7f788911/284209
+#EXTINF:-1,AL: Liria TV HD
+http://iptvmedia.live:8080/12810/7f788911/163401
+#EXTINF:-1,AL: Living FHD
+http://iptvmedia.live:8080/12810/7f788911/4070
+#EXTINF:-1,AL: Lobi TV HD
+http://iptvmedia.live:8080/12810/7f788911/169871
+#EXTINF:-1,AL: Masha & bear FHD
+http://iptvmedia.live:8080/12810/7f788911/263737
+#EXTINF:-1,AL: MCN TV HD
+http://iptvmedia.live:8080/12810/7f788911/286798
+#EXTINF:-1,AL: MFM Music FHD
+http://iptvmedia.live:8080/12810/7f788911/45019
+#EXTINF:-1,AL MFM Music FHD
+http://iptvmedia.live:8080/12810/7f788911/274690
+#EXTINF:-1,AL: Motorvision TV HD
+http://iptvmedia.live:8080/12810/7f788911/290512
+#EXTINF:-1,AL: Mr Bean HD
+http://iptvmedia.live:8080/12810/7f788911/290511
+#EXTINF:-1,AL: MTV Hits HD
+http://iptvmedia.live:8080/12810/7f788911/12434
+#EXTINF:-1,AL MTV Hits HD
+http://iptvmedia.live:8080/12810/7f788911/274035
+#EXTINF:-1,AL: MTV Kosova HD
+http://iptvmedia.live:8080/12810/7f788911/16483
+#EXTINF:-1,AL: Muse TV HD
+http://iptvmedia.live:8080/12810/7f788911/4072
+#EXTINF:-1,AL: MUSIC BOX HD
+http://iptvmedia.live:8080/12810/7f788911/267020
+#EXTINF:-1,AL MUSIC BOX HD
+http://iptvmedia.live:8080/12810/7f788911/290605
+#EXTINF:-1,AL: My Music HD
+http://iptvmedia.live:8080/12810/7f788911/171895
+#EXTINF:-1,AL My Music HD
+http://iptvmedia.live:8080/12810/7f788911/274826
+#EXTINF:-1,AL: NAT GEO FHD
+http://iptvmedia.live:8080/12810/7f788911/6737
+#EXTINF:-1,AL NAT GEO FHD
+http://iptvmedia.live:8080/12810/7f788911/274107
+#EXTINF:-1,AL: NAT GEO Wild FHD
+http://iptvmedia.live:8080/12810/7f788911/23753
+#EXTINF:-1,AL NAT GEO Wild FHD
+http://iptvmedia.live:8080/12810/7f788911/279140
+#EXTINF:-1,AL: Netflix Aksion FHD
+http://iptvmedia.live:8080/12810/7f788911/193772
+#EXTINF:-1,AL: Netflix Arnold Schwarzenegger HD
+http://iptvmedia.live:8080/12810/7f788911/198444
+#EXTINF:-1,AL: Netflix Aventure HD
+http://iptvmedia.live:8080/12810/7f788911/198437
+#EXTINF:-1,AL: Netflix Bud Spencer & Terence Hill HD
+http://iptvmedia.live:8080/12810/7f788911/198443
+#EXTINF:-1,AL: Netflix Dwayne Johnson HD
+http://iptvmedia.live:8080/12810/7f788911/198448
+#EXTINF:-1,AL: Netflix Epik HD
+http://iptvmedia.live:8080/12810/7f788911/198440
+#EXTINF:-1,AL: Netflix Fantazi HD
+http://iptvmedia.live:8080/12810/7f788911/198435
+#EXTINF:-1,AL: Netflix Femije HD
+http://iptvmedia.live:8080/12810/7f788911/198439
+#EXTINF:-1,AL: Netflix Horror HD
+http://iptvmedia.live:8080/12810/7f788911/193771
+#EXTINF:-1,AL: Netflix Jackie Chan HD
+http://iptvmedia.live:8080/12810/7f788911/198446
+#EXTINF:-1,AL: Netflix Komedi FHD
+http://iptvmedia.live:8080/12810/7f788911/193773
+#EXTINF:-1,AL: Netflix Relaks FHD
+http://iptvmedia.live:8080/12810/7f788911/198431
+#EXTINF:-1,AL: Netflix Romance HD
+http://iptvmedia.live:8080/12810/7f788911/198660
+#EXTINF:-1,AL: Netflix Spider Man HD
+http://iptvmedia.live:8080/12810/7f788911/198445
+#EXTINF:-1,AL: Netflix Sylvester Stallone HD
+http://iptvmedia.live:8080/12810/7f788911/198442
+#EXTINF:-1,AL: Netflix Van Damme HD
+http://iptvmedia.live:8080/12810/7f788911/198661
+#EXTINF:-1,AL: News 24 HD
+http://iptvmedia.live:8080/12810/7f788911/5127
+#EXTINF:-1,AL: NTV HD
+http://iptvmedia.live:8080/12810/7f788911/290455
+#EXTINF:-1,AL: ON TV HD
+http://iptvmedia.live:8080/12810/7f788911/12440
+#EXTINF:-1,AL: Ora News HD
+http://iptvmedia.live:8080/12810/7f788911/5126
+#EXTINF:-1,AL: OVERSPORT 1 HD
+http://iptvmedia.live:8080/12810/7f788911/290218
+#EXTINF:-1,AL: OVERSPORT 3 HD
+http://iptvmedia.live:8080/12810/7f788911/290537
+#EXTINF:-1,AL: OVERSPORT 4 HD
+http://iptvmedia.live:8080/12810/7f788911/290538
+#EXTINF:-1,AL: Peace TV HD
+http://iptvmedia.live:8080/12810/7f788911/15562
+#EXTINF:-1,AL: Planet HD
+http://iptvmedia.live:8080/12810/7f788911/290515
+#EXTINF:-1,AL: Pollogu HD
+http://iptvmedia.live:8080/12810/7f788911/264836
+#EXTINF:-1,AL: Premium Channel HD
+http://iptvmedia.live:8080/12810/7f788911/23780
+#EXTINF:-1,AL: Prince Kids FHD
+http://iptvmedia.live:8080/12810/7f788911/44949
+#EXTINF:-1,AL: Prizreni HD
+http://iptvmedia.live:8080/12810/7f788911/264835
+#EXTINF:-1,AL: Report TV HD
+http://iptvmedia.live:8080/12810/7f788911/4077
+#EXTINF:-1,AL: Roma TV HD
+http://iptvmedia.live:8080/12810/7f788911/197065
+#EXTINF:-1,AL: Rozafa News HD
+http://iptvmedia.live:8080/12810/7f788911/6730
+#EXTINF:-1,AL: RTSH 1 FHD
+http://iptvmedia.live:8080/12810/7f788911/4123
+#EXTINF:-1,AL: RTSH 2 HD
+http://iptvmedia.live:8080/12810/7f788911/1854
+#EXTINF:-1,AL: RTSH 3 HD
+http://iptvmedia.live:8080/12810/7f788911/1855
+#EXTINF:-1,AL: RTSH 24 FHD
+http://iptvmedia.live:8080/12810/7f788911/5962
+#EXTINF:-1,AL: RTSH Agro HD
+http://iptvmedia.live:8080/12810/7f788911/193717
+#EXTINF:-1,AL: RTSH Femije HD
+http://iptvmedia.live:8080/12810/7f788911/5146
+#EXTINF:-1,AL: RTSH Film HD
+http://iptvmedia.live:8080/12810/7f788911/5145
+#EXTINF:-1,AL: RTSH Gjirokastra HD
+http://iptvmedia.live:8080/12810/7f788911/23700
+#EXTINF:-1,AL: RTSH Korca HD
+http://iptvmedia.live:8080/12810/7f788911/23708
+#EXTINF:-1,AL: RTSH Kukesi HD
+http://iptvmedia.live:8080/12810/7f788911/198663
+#EXTINF:-1,AL: RTSH Kuvend HD
+http://iptvmedia.live:8080/12810/7f788911/22434
+#EXTINF:-1,AL: RTSH Muzike HD
+http://iptvmedia.live:8080/12810/7f788911/5144
+#EXTINF:-1,AL RTSH Muzike HD
+http://iptvmedia.live:8080/12810/7f788911/274700
+#EXTINF:-1,AL: RTSH Plus HD
+http://iptvmedia.live:8080/12810/7f788911/169831
+#EXTINF:-1,AL: RTSH Satelit HD
+http://iptvmedia.live:8080/12810/7f788911/282301
+#EXTINF:-1,AL: RTSH Shkodra HD
+http://iptvmedia.live:8080/12810/7f788911/284742
+#EXTINF:-1,AL: RTSH Shkolle FHD
+http://iptvmedia.live:8080/12810/7f788911/1856
+#EXTINF:-1,AL: RTSH Shqip HD
+http://iptvmedia.live:8080/12810/7f788911/5143
+#EXTINF:-1,AL: RTSH Sport HD
+http://iptvmedia.live:8080/12810/7f788911/2568
+#EXTINF:-1,AL: RTV 1 HD
+http://iptvmedia.live:8080/12810/7f788911/281994
+#EXTINF:-1,AL: RTV 2 MIX HD
+http://iptvmedia.live:8080/12810/7f788911/280143
+#EXTINF:-1,AL: RTV 4 Muzike HD
+http://iptvmedia.live:8080/12810/7f788911/290452
+#EXTINF:-1,AL RTV 4 Muzike HD
+http://iptvmedia.live:8080/12810/7f788911/290604
+#EXTINF:-1,AL: RTV Ahireti HD
+http://iptvmedia.live:8080/12810/7f788911/281987
+#EXTINF:-1,AL: RTV Fontana HD
+http://iptvmedia.live:8080/12810/7f788911/282006
+#EXTINF:-1,AL: RTV Ilirida HD
+http://iptvmedia.live:8080/12810/7f788911/284743
+#EXTINF:-1,AL: RTV Pendimi HD
+http://iptvmedia.live:8080/12810/7f788911/281982
+#EXTINF:-1,AL: S TV Folk HD
+http://iptvmedia.live:8080/12810/7f788911/30178
+#EXTINF:-1,AL: Scan TV HD
+http://iptvmedia.live:8080/12810/7f788911/23735
+#EXTINF:-1,AL: Shenja TV HD
+http://iptvmedia.live:8080/12810/7f788911/12414
+#EXTINF:-1,AL: SHOTA TV FHD
+http://iptvmedia.live:8080/12810/7f788911/151743
+#EXTINF:-1,AL: Sky Max HD
+http://iptvmedia.live:8080/12810/7f788911/26127
+#EXTINF:-1,AL: Sofia HD
+http://iptvmedia.live:8080/12810/7f788911/15539
+#EXTINF:-1,AL: Spin TV HD
+http://iptvmedia.live:8080/12810/7f788911/6714
+#EXTINF:-1,AL: Sport Klub 1 FHD
+http://iptvmedia.live:8080/12810/7f788911/15575
+#EXTINF:-1,AL Sport Klub 1 FHD
+http://iptvmedia.live:8080/12810/7f788911/273495
+#EXTINF:-1,AL: Sport Klub 2 HD
+http://iptvmedia.live:8080/12810/7f788911/15572
+#EXTINF:-1,AL Sport Klub 2 HD
+http://iptvmedia.live:8080/12810/7f788911/273490
+#EXTINF:-1,AL: Star Plus HD
+http://iptvmedia.live:8080/12810/7f788911/12428
+#EXTINF:-1,AL: Super Sonic TV HD
+http://iptvmedia.live:8080/12810/7f788911/4098
+#EXTINF:-1,AL: SuperSport 1 FHD
+http://iptvmedia.live:8080/12810/7f788911/1316
+#EXTINF:-1,AL: SuperSport 2 HD
+http://iptvmedia.live:8080/12810/7f788911/1312
+#EXTINF:-1,AL: SuperSport 3 FHD
+http://iptvmedia.live:8080/12810/7f788911/1319
+#EXTINF:-1,AL: SuperSport 4 FHD
+http://iptvmedia.live:8080/12810/7f788911/1318
+#EXTINF:-1,AL: SuperSport 5 FHD
+http://iptvmedia.live:8080/12810/7f788911/1860
+#EXTINF:-1,AL: SuperSport 6 FHD
+http://iptvmedia.live:8080/12810/7f788911/3638
+#EXTINF:-1,AL: SuperSport 7 HD
+http://iptvmedia.live:8080/12810/7f788911/174441
+#EXTINF:-1,AL: SuperSport News HD
+http://iptvmedia.live:8080/12810/7f788911/1313
+#EXTINF:-1,AL: Syri News TV HD
+http://iptvmedia.live:8080/12810/7f788911/4100
+#EXTINF:-1,AL: Syri TV Blue HD
+http://iptvmedia.live:8080/12810/7f788911/4099
+#EXTINF:-1,AL: T Channel FHD
+http://iptvmedia.live:8080/12810/7f788911/4101
+#EXTINF:-1,AL: T7 FHD
+http://iptvmedia.live:8080/12810/7f788911/281851
+#EXTINF:-1,AL: Tele One 1 HD
+http://iptvmedia.live:8080/12810/7f788911/145897
+#EXTINF:-1,AL: Tele One 2 HD
+http://iptvmedia.live:8080/12810/7f788911/151734
+#EXTINF:-1,AL: Tele One 4 HD
+http://iptvmedia.live:8080/12810/7f788911/151732
+#EXTINF:-1,AL: Tele one 5 HD
+http://iptvmedia.live:8080/12810/7f788911/151737
+#EXTINF:-1,AL: Tele one 6 HD
+http://iptvmedia.live:8080/12810/7f788911/151733
+#EXTINF:-1,AL: Tele One Aksion HD
+http://iptvmedia.live:8080/12810/7f788911/264853
+#EXTINF:-1,AL: Tele One Aventure HD
+http://iptvmedia.live:8080/12810/7f788911/264852
+#EXTINF:-1,AL: Tele One Epik Film HD
+http://iptvmedia.live:8080/12810/7f788911/247865
+#EXTINF:-1,AL: Tele One Film Crime HD
+http://iptvmedia.live:8080/12810/7f788911/247861
+#EXTINF:-1,AL: Tele One Film Drame HD
+http://iptvmedia.live:8080/12810/7f788911/264854
+#EXTINF:-1,AL: Tele One Film Thriller HD
+http://iptvmedia.live:8080/12810/7f788911/247864
+#EXTINF:-1,AL: Tele One Gold Collection HD
+http://iptvmedia.live:8080/12810/7f788911/247862
+#EXTINF:-1,AL: Tema TV FHD
+http://iptvmedia.live:8080/12810/7f788911/4102
+#EXTINF:-1,AL: Teuta FHD
+http://iptvmedia.live:8080/12810/7f788911/169882
+#EXTINF:-1,AL: Tip TV HD
+http://iptvmedia.live:8080/12810/7f788911/2574
+#EXTINF:-1,AL: TLC HD
+http://iptvmedia.live:8080/12810/7f788911/151764
+#EXTINF:-1,AL: TNT Series HD
+http://iptvmedia.live:8080/12810/7f788911/285140
+#EXTINF:-1,AL: Tom & Jerry HD
+http://iptvmedia.live:8080/12810/7f788911/15543
+#EXTINF:-1,AL: TOP Channel FHD
+http://iptvmedia.live:8080/12810/7f788911/1311
+#EXTINF:-1,AL: TOP Estrada HD
+http://iptvmedia.live:8080/12810/7f788911/16502
+#EXTINF:-1,AL: TOP News HD
+http://iptvmedia.live:8080/12810/7f788911/5122
+#EXTINF:-1,AL: Travel Channel HD
+http://iptvmedia.live:8080/12810/7f788911/5121
+#EXTINF:-1,AL Travel Channel HD
+http://iptvmedia.live:8080/12810/7f788911/290596
+#EXTINF:-1,AL: Tring 3+ HD
+http://iptvmedia.live:8080/12810/7f788911/290208
+#EXTINF:-1,AL: Tring Action FHD
+http://iptvmedia.live:8080/12810/7f788911/1308
+#EXTINF:-1,AL: Tring Classic HD
+http://iptvmedia.live:8080/12810/7f788911/290516
+#EXTINF:-1,AL: Tring Comedy HD
+http://iptvmedia.live:8080/12810/7f788911/1310
+#EXTINF:-1,AL: Tring Family FHD
+http://iptvmedia.live:8080/12810/7f788911/4063
+#EXTINF:-1,AL: Tring Fantasy HD
+http://iptvmedia.live:8080/12810/7f788911/2577
+#EXTINF:-1,AL: Tring History HD
+http://iptvmedia.live:8080/12810/7f788911/1345
+#EXTINF:-1,AL Tring History HD
+http://iptvmedia.live:8080/12810/7f788911/274306
+#EXTINF:-1,AL: Tring International HD
+http://iptvmedia.live:8080/12810/7f788911/15535
+#EXTINF:-1,AL: Tring Jolly FHD
+http://iptvmedia.live:8080/12810/7f788911/1327
+#EXTINF:-1,AL: Tring Kids HD
+http://iptvmedia.live:8080/12810/7f788911/44952
+#EXTINF:-1,AL: Tring Life HD
+http://iptvmedia.live:8080/12810/7f788911/1309
+#EXTINF:-1,AL Tring Life HD
+http://iptvmedia.live:8080/12810/7f788911/273548
+#EXTINF:-1,AL: Tring Planet HD
+http://iptvmedia.live:8080/12810/7f788911/1344
+#EXTINF:-1,AL: Tring Shqip HD
+http://iptvmedia.live:8080/12810/7f788911/1307
+#EXTINF:-1,AL: Tring Smile HD
+http://iptvmedia.live:8080/12810/7f788911/1322
+#EXTINF:-1,AL: Tring Sport 1 FHD
+http://iptvmedia.live:8080/12810/7f788911/1306
+#EXTINF:-1,AL: Tring Sport 2 FHD
+http://iptvmedia.live:8080/12810/7f788911/1305
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://iptvmedia.live:8080/12810/7f788911/1304
+#EXTINF:-1,AL: Tring Sport 4 FHD
+http://iptvmedia.live:8080/12810/7f788911/1862
+#EXTINF:-1,AL: Tring Sport News HD
+http://iptvmedia.live:8080/12810/7f788911/1861
+#EXTINF:-1,AL: Tring Super FHD
+http://iptvmedia.live:8080/12810/7f788911/1303
+#EXTINF:-1,AL: Tring Tring HD
+http://iptvmedia.live:8080/12810/7f788911/1302
+#EXTINF:-1,AL: Tring World HD
+http://iptvmedia.live:8080/12810/7f788911/1301
+#EXTINF:-1,AL: Turbo Channel HD
+http://iptvmedia.live:8080/12810/7f788911/6717
+#EXTINF:-1,AL: TV 7 Albania HD
+http://iptvmedia.live:8080/12810/7f788911/6762
+#EXTINF:-1,AL: TV Apollon HD
+http://iptvmedia.live:8080/12810/7f788911/267037
+#EXTINF:-1,AL: TV Diaspora FHD
+http://iptvmedia.live:8080/12810/7f788911/281350
+#EXTINF:-1,AL: TV Dielli HD
+http://iptvmedia.live:8080/12810/7f788911/12418
+#EXTINF:-1,AL: TV Dukagjini FHD
+http://iptvmedia.live:8080/12810/7f788911/6708
+#EXTINF:-1,AL: TV Klan FHD
+http://iptvmedia.live:8080/12810/7f788911/1853
+#EXTINF:-1,AL: TV Kopliku FHD
+http://iptvmedia.live:8080/12810/7f788911/173458
+#EXTINF:-1,AL: TV Mitrovica HD
+http://iptvmedia.live:8080/12810/7f788911/4118
+#EXTINF:-1,AL: TV Opoja HD
+http://iptvmedia.live:8080/12810/7f788911/4119
+#EXTINF:-1,AL: TV Presheva FHD
+http://iptvmedia.live:8080/12810/7f788911/280160
+#EXTINF:-1,AL: TV Puls FHD
+http://iptvmedia.live:8080/12810/7f788911/4076
+#EXTINF:-1,AL: TV Sharri FHD
+http://iptvmedia.live:8080/12810/7f788911/12416
+#EXTINF:-1,AL: TV Uskana HD
+http://iptvmedia.live:8080/12810/7f788911/12421
+#EXTINF:-1,AL: TV1 Shkoder HD
+http://iptvmedia.live:8080/12810/7f788911/188076
+#EXTINF:-1,AL: TV2 Gostivar FHD
+http://iptvmedia.live:8080/12810/7f788911/169842
+#EXTINF:-1,AL: Ulqini TV HD
+http://iptvmedia.live:8080/12810/7f788911/278582
+#EXTINF:-1,AL: Vizion Plus HD
+http://iptvmedia.live:8080/12810/7f788911/1299
+#EXTINF:-1,AL: Web Star Masha & Bear HD
+http://iptvmedia.live:8080/12810/7f788911/281983
+#EXTINF:-1,AL: X premiere 1 HD
+http://iptvmedia.live:8080/12810/7f788911/12457
+#EXTINF:-1,AL: X premiere 3 HD
+http://iptvmedia.live:8080/12810/7f788911/84133
+#EXTINF:-1,AL: Zeri FHD
+http://iptvmedia.live:8080/12810/7f788911/91064
+#EXTINF:-1,AL: Zjarr TV HD
+http://iptvmedia.live:8080/12810/7f788911/23711
