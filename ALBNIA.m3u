@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1,RTSH
-http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshfilm_240p&medium=websocket
+http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshhd_low&medium=websocket
 #EXTINF:-1,RTSH 2
 http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtsh2hd1&medium=websocket
 #EXTINF:-1,RTSH 3
