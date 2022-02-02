@@ -1,0 +1,45 @@
+#EXTINF:=================Makedonija=================
+#EXTINF:-1 tvg-id="MRT1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="MK: MRT 1" tvg-logo="http://nextgen-iptv.com/logo/MRT_1_new_logo.png" group-title="Macedonia",Mrt 1 Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
+#EXTINF:-1 tvg-id="SITEL_MK" tvg-link="http://193.164.133.64/guide.xmltv" tvg-name="SITEL MK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sitel.jpg" group-title="MAKEDONSKI",Sitel Hd Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/alfa10.png",Alfa Hd Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
+#EXTINF:-1 tvg-logo="http://makedonskitvkanali.ueuo.com/folder/24vesti.gif",24 Vesti Hd Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(24_Vesti)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/kanal510.png",Kanal 5 Hd Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(Kanal_5_MK)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="?????" tvg-logo="http://ohridskoleto.com.mk/wp-content/uploads/2017/04/telma.png" group-title="MAQEDONI",Telma Hd Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.infel.net.mk/media/images/tv_channels/nasatv.jpg",Naša Hd Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
+#EXTINF:-1 tvg-logo="http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/mk/9/94/Mrt_3.png",Mrt 3 Hd Makedonija Tv
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QX4vqEG.png" group-title="ARGENTINA",Mtm Prva Skopska Hd Makedonija Tv
+http://83.139.104.184/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+#EXTINF:-1 tvg-id="TV+_MK" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="TV+ MK" tvg-logo="http://www.tvplus.bg/img/site/logo.png" group-title="MAKEDONSKI",Plus Hd Makedonija Tv
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pz74xkH/PTK.png",Kavadarci Hd Makedonija Tv
+http://95.86.27.228/rtklive/rtklive_1500/index.m3u8
+#EXTINF:-1 tvg-ID="NOVA 12" tvg-name="NOVA 12" tvg-logo="https://bit.ly/2EPLE0o" group-title="MACEDONIA",Nova 12 Hd Makedonija Tv
+http://151.236.247.171:9000/live/dzunde/dzunde/1.ts
+#EXTINF:-1, Orbis Makedonija Tv
+http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8 
+#EXTINF:0 tvg-id="ext" group-title="NMK",Kanal 8 Makedonija Tv
+http://kanal8.hugo.mk:1935/live/kanal8/chunklist.m3u8 
+#EXTINF:-1, M-Net Makedonija Tv
+https://giganet.mk/hls/mnet.m3u8
+#EXTINF:-1, Macedonian Channel Documentary Tv
+https://giganet.mk/hls/macdoc.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-name="TV IN" tvg-logo="http://plati.uzivo.tv/logo/(MK)%20TV%20IN.png" group-title="Makedonija",In Tv Folk Hd Makedonija Tv
+rtmp://tv1.intv.mk:1935/live/intv
+#EXTINF:-1 tvg-id="Folk" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Folk" tvg-logo="https://4.bp.blogspot.com/-Qf3XHQRxox8/WomY065dPxI/AAAAAAAAAFw/CVOo4d2igg8AQs-d4T_rL8rJoiWl6qWpQCLcBGAs/s1600/DA.jpg" group-title="MAKEDONIJA",Sky Folk Hd Music Makedonija Tv
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="https://i42.servimg.com/u/f42/14/19/88/25/folk_t10.png",Star Folk Hd Makedonija Tv
+https://live.muzickatv.mk/live/StarMusic.m3u8
+#EXTINF:-1 tvg-name="Balkan Music" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/balkan_music.png" group-title="Ex-Yu Glazba",Balkan Music Makedonija Tv
+http://balkanmusictv.ddns.net/live/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/h210.png",Hugo 2 Hd Makedonija Tv
+http://fta.hugo.mk:1935/tvhugo/stream/2
+#EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/folk_k10.jpg",Folk Club Hd Makedonija Tv
+rtmp://tv1.intv.mk:1935/live2/folkklub
