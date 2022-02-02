@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,Darts tv  BG
+https://streamer103.neterra.tv/darts/live.m3u8
+#EXTINF:-1,PLANETA BG
+rtsp://stream.teracomm.bg/planeta
+#EXTINF:-1,TV BALKANIKA BG
+rtsp://stream.teracomm.bg/balkanika
+#EXTINF:-1,BN T1 TV BG
+http://mwls.xlctkvyd.xyz:8880/tv/bnt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjIgMzoyNjowMSBQTSZoYXNoX3ZhbHVlPVlOcyt0UGxETStvMUhmdjJxSm9xNWc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1,BN T2 TV BG
+http://mwls.xlctkvyd.xyz:8880/tv/bnt2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjIgMzoyNzozMyBQTSZoYXNoX3ZhbHVlPXBucVBCQW9PcHhmS25MVVlMbEdPdHc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1,BN T3 TV BG
+http://mwls.xlctkvyd.xyz:8880/tv/bnt3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjIgMzoyODozNyBQTSZoYXNoX3ZhbHVlPTNWbmRlYTMyb0JHeVNVeTgvMzhIU3c9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1,DSTV TV BG
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1,BN T1 TV BG
+http://tmjk.xlctkvyd.xyz:8880/tv/bnt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjIgMzozNTozNSBQTSZoYXNoX3ZhbHVlPUpsd2l6NHg4c1BzSXJlSGZjeUNobEE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1,BNT2 TV BG
+http://tmjk.xlctkvyd.xyz:8880/tv/bnt2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjIgMzozNTozNSBQTSZoYXNoX3ZhbHVlPUpsd2l6NHg4c1BzSXJlSGZjeUNobEE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1,BNT3 TV BG
+http://tmjk.xlctkvyd.xyz:8880/tv/bnt3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjIgMzozNTozNSBQTSZoYXNoX3ZhbHVlPUpsd2l6NHg4c1BzSXJlSGZjeUNobEE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1,DIEMA TV BG
+http://tmjk.xlctkvyd.xyz:8880/tv/diema/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjIgMzo1MToyMyBQTSZoYXNoX3ZhbHVlPVJSQk1wcmJHTWcvRG5Ud2NEUkx1S2c9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1,KINONOVA TV BG
+http://tmjk.xlctkvyd.xyz:8880/tv/kinonova/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjIgMzo1MjozNiBQTSZoYXNoX3ZhbHVlPVNabm5mdklzQjk5dmtRd1c1Ulc3K1E9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1,DIEMA FAMILY TV BG
+http://tmjk.xlctkvyd.xyz:8880/tv/diemafamily/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjIgMzo1MzozMiBQTSZoYXNoX3ZhbHVlPWVCVnErT0hkcVg2VmxLQnpiQkEwV0E9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1,FOX CRIME TV BG
+http://tmjk.xlctkvyd.xyz:8880/tv/foxcrime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjIgMzo1NDozNiBQTSZoYXNoX3ZhbHVlPURyMlB1NVZadXUxV3kxSTJrcEZiWXc9PSZ2YWxpZG1pbnV0ZXM9NjA=
