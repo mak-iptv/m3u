@@ -1,37 +1,37 @@
 #EXTM3U 
 
 #EXTINF:-1,RTSH
-http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
+http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshfilm_240p&medium=websocket
 #EXTINF:-1,RTSH 2
-http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
+http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtsh2hd1&medium=websocket
 #EXTINF:-1,RTSH 3
-http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8
+http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rrtsh3hd1&medium=websocket
 #EXTINF:-1,RTSH 24
-http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
+http://edge01eu.ekranet.com:80/rtsh24/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtsh_24&medium=websocket
 #EXTINF:-1,RTSH Sport
-http://edge01eu.ekranet.com:80/rtshsport_240p/index.m..
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshsport_240p&medium=websocket
 #EXTINF:-1,RTSH Kids
-http://edge01eu.ekranet.com:80/rtshfemije_240p/index...
+http://edge01eu.ekranet.com:80/rtshfemije_240p/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshfemije_240p&medium=websocket
 #EXTINF:-1,RTSH Film
-http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
+http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshfilm_240p&medium=websocket
 #EXTINF:-1,RTSH Shqip
-http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
+http://edge01eu.ekranet.com/rtshshqip1/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshshqip1&medium=websocket
 #EXTINF:-1,TV Korca
-http://edge01eu.ekranet.com/tvkorca/index.m3u8
+http://edge01eu.ekranet.com/tvkorca/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshshqip1&medium=websocket
 #EXTINF:-1,RTSH Kuvend
-htto://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8
+htto://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=tvkorca&medium=websocket
 #EXTINF:-1,RTSH Muzike
-http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
+http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshmsicweb&medium=websocket
 #EXTINF:-1,RTSH FILM
-http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
+http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshfilm1&medium=websocket
 #EXTINF:-1,Zjarr
-http://edge01eu.ekranet.com/zjarrtv/index.m3u8
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=zjarrtv&medium=websocket
 #EXTINF:-1,TEMA
-http://edge01eu.ekranet.com/tematv_360p/index.m3u8
+http://edge01eu.ekranet.com/tematv_360p/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=tematv_360p&medium=websocket
 #EXTINF:-1,SCAN 24
-http://edge01eu.ekranet.com/scantv/index.m3u8
+http://edge01eu.ekranet.com/scantv/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=scantv&medium=websocket
 #EXTINF:-1,FAX NEWS
-http://edge01eu.ekranet.com/faxnews/index.m3u8
+http://edge01eu.ekranet.com/faxnews/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=faxnews&medium=websocket
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 AL" tvg-logo="http://picon.space/rtk1al.png" ,RTK 1 
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="RTK 3 " tvg-logo="http://picon.space/rtk3al.png" ,RTK 3 
