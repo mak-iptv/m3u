@@ -1,4 +1,15 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
-https://live1.mediadesk.al/oratv.php
+#EXTM3U #EXT-X-VERSION:3 
+#EXT-X-MEDIA-SEQUENCE:408996 
+#EXT-X-TARGETDURATION:7 
+#EXTINF:5.680, 
+https://live1.mediadesk.al/oratv-408996.ts 
+#EXTINF:6.480, 
+https://live1.mediadesk.al/oratv-408997.ts 
+#EXTINF:5.640, 
+https://live1.mediadesk.al/oratv-408998.ts
+#EXTINF:5.080, 
+https://live1.mediadesk.al/oratv-408999.ts 
+#EXTINF:6.000, 
+https://live1.mediadesk.al/oratv-409000.ts 
+#EXTINF:6.720, 
+https://live1.mediadesk.al/oratv-409001.ts
