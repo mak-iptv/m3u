@@ -32,6 +32,8 @@ http://edge01eu.ekranet.com/tematv_360p/index.m3u8?e=9178de00dacb868417b291d7d83
 http://edge01eu.ekranet.com/scantv/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=scantv&medium=websocket
 #EXTINF:-1,FAX NEWS
 http://edge01eu.ekranet.com/faxnews/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=faxnews&medium=websocket
+#EXTINF:-1,TOP CANNEL
+http://185.226.88.3:1036/live/backup/backup/131.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 AL" tvg-logo="http://picon.space/rtk1al.png" ,RTK 1 
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="RTK 3 " tvg-logo="http://picon.space/rtk3al.png" ,RTK 3 
