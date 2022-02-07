@@ -1,5 +1,7 @@
 #EXTM3U 
 #EXTINF:-1,TV TOP CANNEL HD
+http://45.58.122.106:8081/live/top/playlist.m3u8
+#EXTINF:-1,TV TOP CANNEL HD
 https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1, VIZION PLUS HD
 https://kanale.cdn-stream.com:30443/live/vizionplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
