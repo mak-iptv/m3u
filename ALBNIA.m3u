@@ -84,7 +84,7 @@ http://edge01eu.ekranet.com/tvkorca/index.m3u8?e=9178de00dacb868417b291d7d83fd39
 #EXTINF:-1,RTSH Kuvend
 htto://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=tvkorca&medium=websocket
 #EXTINF:-1,RTSH Muzike
-http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshmsicweb&medium=websocket
+https://edge01eu.ekranet.com/rtshmsicweb/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshmsicweb&medium=websocket
 #EXTINF:-1,RTSH FILM
 http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshfilm1&medium=websocket
 #EXTINF:-1,Zjarr
