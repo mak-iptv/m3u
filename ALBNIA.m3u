@@ -1,4 +1,8 @@
 #EXTM3U 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTINF:-1,Top Channel HD
+https://knaqu.tv/live/topch.m3u8
 #EXTINF:-1,TV TOP CANNEL HD
 http://45.58.122.106:8081/live/top/playlist.m3u8
 #EXTINF:-1,TV TOP CANNEL HD
