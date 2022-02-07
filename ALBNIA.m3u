@@ -1,8 +1,22 @@
 #EXTM3U 
+#EXTINF:-1,TV TOP CANNEL HD
+https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8
+#EXTINF:-1, VIZION PLUS HD
+https://kanale.cdn-stream.com:30443/live/vizionplus/playlist.m3u8
 #EXTINF:-1,TV KLAN HD
 https://kanale.cdn-stream.com:30443/live/klan1/chunks.m3u8
 #EXTINF:-1,TV KLAN KS HD
 https://kanale.cdn-stream.com:30443/live/klanks/chunks.m3u8
+#EXTINF:-1,TV KLAN MK HD
+https://kanale.cdn-stream.com:30443/live/klanmk/playlist.m3u8
+#EXTINF:-1,TV TRING SPORT 1
+https://kanale.cdn-stream.com:30443/live/ts1/playlist.m3u8
+#EXTINF:-1,TV TRING SPORT 2
+https://kanale.cdn-stream.com:30443/live/ts2/playlist.m3u8
+#EXTINF:-1,TV TRING SPORT 3
+https://kanale.cdn-stream.com:30443/live/ts3/playlist.m3u8
+#EXTINF:-1,TV TRING SPORT 4
+https://kanale.cdn-stream.com:30443/live/ts4/playlist.m3u8
 #EXTINF:-1,RTSH
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshhd_low&medium=websocket
 #EXTINF:-1,RTSH 2
