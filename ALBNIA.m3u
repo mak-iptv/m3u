@@ -4,7 +4,7 @@ https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8
 #EXTINF:-1, VIZION PLUS HD
 https://kanale.cdn-stream.com:30443/live/vizionplus/playlist.m3u8
 #EXTINF:-1,TV KLAN HD
-https://kanale.cdn-stream.com:30443/live/klan1/chunks.m3u8
+https://kanale.cdn-stream.com:30443/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TV KLAN KS HD
 https://kanale.cdn-stream.com:30443/live/klanks/chunks.m3u8
 #EXTINF:-1,TV KLAN MK HD
