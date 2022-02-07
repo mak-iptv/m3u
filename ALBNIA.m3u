@@ -1,63 +1,63 @@
 #EXTM3U 
 #EXTINF:-1,TV TOP CANNEL HD
-https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1, VIZION PLUS HD
-https://kanale.cdn-stream.com:30443/live/vizionplus/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/vizionplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TV KLAN HD
 https://kanale.cdn-stream.com:30443/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TV KLAN KS HD
-https://kanale.cdn-stream.com:30443/live/klanks/chunks.m3u8
+https://kanale.cdn-stream.com:30443/live/klanks/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TV KLAN MK HD
-https://kanale.cdn-stream.com:30443/live/klanmk/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/klanmk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,  KOHATV
-https://kanale.cdn-stream.com:30443/live/ktv/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/ktv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1, RTV21 TV
-https://kanale.cdn-stream.com:30443/live/rtv21/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/rtv21/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1, T7
-https://kanale.cdn-stream.com:30443/live/t7/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/t7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1, NEWS 24 AL
-https://kanale.cdn-stream.com:30443/live/news24/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/news24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1, ORANEWS
-https://kanale.cdn-stream.com:30443/live/oranews/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/oranews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1, ABCNEWS
-https://kanale.cdn-stream.com:30443/live/abcnews/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/abcnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1, SYRITV
-https://kanale.cdn-stream.com:30443/live/syritv/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/syritv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,FILM HITS
-https://kanale.cdn-stream.com:30443/live/filmhits/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/filmhits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,FILM TRILER
 https://kanale.cdn-stream.com:30443/live/filmthriller/playlist.m3u8
 #EXTINF:-1,FILM AUTOR
-https://kanale.cdn-stream.com:30443/live/filmautor/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/filmautor/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,FILM DRAME
-https://kanale.cdn-stream.com:30443/live/drame/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/drame/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TRING AKSION
-https://kanale.cdn-stream.com:30443/live/tringaksion/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/tringaksion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TRING SUPER
-https://kanale.cdn-stream.com:30443/live/tringsuper/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/tringsuper/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TRINGTRING
-https://kanale.cdn-stream.com:30443/live/tringtring/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/tringtring/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TRING SHQIP
-https://kanale.cdn-stream.com:30443/live/tringshqip/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/tringshqip/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 
 #EXTINF:-1,TV TRING SPORT 1
-https://kanale.cdn-stream.com:30443/live/ts1/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/ts1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TV TRING SPORT 2
-https://kanale.cdn-stream.com:30443/live/ts2/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/ts2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TV TRTSH1
-https://kanale.cdn-stream.com:30443/live/ts1/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/ts1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TV RTSH2
-https://kanale.cdn-stream.com:30443/live/rtsh2/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/rtsh2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,RTSH3
-https://kanale.cdn-stream.com:30443/live/rtsh3/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/rtsh3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,RTSH FILM
-https://kanale.cdn-stream.com:30443/live/rtshfilm/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/rtshfilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,RTSH SPORT
-https://kanale.cdn-stream.com:30443/live/rtshsport/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/rtshsport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,RTSH SHQIP
-https://kanale.cdn-stream.com:30443/live/rtshshqip/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/rtshshqip/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,RTSH 24
-https://kanale.cdn-stream.com:30443/live/rtsh24/playlist.m3u8
+https://kanale.cdn-stream.com:30443/live/rtsh24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 
 
 
