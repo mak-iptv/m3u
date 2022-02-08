@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 group-title="Украина",Первый независимый HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="Украина",1+1
+http://iptv.prosto.tv:7000/ch1/video.m3u8
+#EXTINF:-1 group-title="Украина",Интер HD
+http://iptv.prosto.tv:7000/ch5/video.m3u8
+#EXTINF:-1 group-title="Украина",Интер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 group-title="Украина",К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Украина",Новий канал
+http://51.15.176.84/hls/novy-live/index.m3u8
+#EXTINF:-1 group-title="Украина",Украина HD
+http://iptv.prosto.tv:7000/ch3/video.m3u8
+#EXTINF:-1 group-title="Украина",Украина
+http://51.15.176.84/hls/ukraina-live/index.m3u8
+#EXTINF:-1 group-title="Украина",Украина 24
+http://iptv.prosto.tv:7000/ch179/video.m3u8
+#EXTINF:-1 group-title="Украина",ICTV
+http://51.15.176.84/hls/ictv-live/index.m3u8
+#EXTINF:-1 group-title="Украина",ТЕТ
+http://iptv.prosto.tv:7000/ch7/video.m3u8
+#EXTINF:-1 group-title="Украина",НТН
+https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8?bw986329639912.m3u8
+#EXTINF:-1 group-title="Украина",Перший діловий
+https://pershij-dlovij.cdn-02.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Украина",М1
+http://live.m2.tv/hls2/stream.m3u8
+#EXTINF:-1 group-title="Украина",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Украина",UA TV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+#EXTINF:-1 group-title="Украина",UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Украина",Правда ТУТ Киев
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Украина",Прямой
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Украина",Прямой HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Украина",Первый автомобильный HD
+http://iptv.prosto.tv:7000/ch121/video.m3u8
+#EXTINF:-1 group-title="Украина",Рыбалка
+http://iptv.prosto.tv:7000/ch88/video.m3u8
+#EXTINF:-1 group-title="Украина",Трофей HD
+http://iptv.prosto.tv:7000/ch89/video.m3u8
+#EXTINF:-1 group-title="Украина",Дача
+http://iptv.prosto.tv:7000/ch92/video.m3u8
+#EXTINF:-1 group-title="Украина",Фауна
+http://iptv.prosto.tv:7000/ch95/video.m3u8
+#EXTINF:-1 group-title="Украина",Терра
+http://iptv.prosto.tv:7000/ch101/video.m3u8
+#EXTINF:-1 group-title="Украина",36.6 TV
+http://iptv.prosto.tv:7000/ch98/video.m3u8
+#EXTINF:-1 group-title="Украина",Кус кус
+http://iptv.prosto.tv:7000/ch103/video.m3u8
+#EXTINF:-1 group-title="Украина",Европа
+http://iptv.prosto.tv:7000/ch91/video.m3u8
+#EXTINF:-1 group-title="Украина",Paramount Comedy
+http://iptv.prosto.tv:7000/ch60/video.m3u8
+#EXTINF:-1 group-title="Украина",Квартал TV
+http://iptv.prosto.tv:7000/ch65/video.m3u8
+#EXTINF:-1 group-title="Украина",FILM UA DRAMA
+http://iptv.prosto.tv:7000/ch59/video.m3u8
+#EXTINF:-1 group-title="Украина",STAR family
+http://iptv.prosto.tv:7000/ch57/video.m3u8
+#EXTINF:-1 group-title="Украина",FILM BOX
+http://iptv.prosto.tv:7000/ch64/video.m3u8
+#EXTINF:-1 group-title="Украина",STAR cinema
+http://iptv.prosto.tv:7000/ch56/video.m3u8
+#EXTINF:-1 group-title="Украина",Е ФIЛЬМ
+http://iptv.prosto.tv:7000/ch54/video.m3u8
+#EXTINF:-1 group-title="Украина",Болт
+http://iptv.prosto.tv:7000/ch53/video.m3u8
+#EXTINF:-1 group-title="Украина",Плюс Плюс
+http://iptv.prosto.tv:7000/ch66/video.m3u8
+#EXTINF:-1 group-title="Украина",ПIКСЕЛЬ
+http://iptv.prosto.tv:7000/ch67/video.m3u8
+#EXTINF:-1 group-title="Украина",Niki Junior
+http://iptv.prosto.tv:7000/ch72/video.m3u8
+#EXTINF:-1 group-title="Украина",Niki Junior HD
+http://iptv.prosto.tv:7000/ch76/video.m3u8
+#EXTINF:-1 group-title="Украина",Niki Kids
+http://iptv.prosto.tv:7000/ch71/video.m3u8
+#EXTINF:-1 group-title="Украина",Niki Kids HD
+http://iptv.prosto.tv:7000/ch75/video.m3u8
+#EXTINF:-1 group-title="Украина",Nick
+http://iptv.prosto.tv:7000/ch68/video.m3u8
+#EXTINF:-1 group-title="Украина",Nick jr.
+http://iptv.prosto.tv:7000/ch69/video.m3u8
+#EXTINF:-1 group-title="Украина",nicktoons
+http://iptv.prosto.tv:7000/ch70/video.m3u8
+#EXTINF:-1 group-title="Украина",TiJi
+http://iptv.prosto.tv:7000/ch73/video.m3u8
+#EXTINF:-1 group-title="Украина",Gulli Girl
+http://iptv.prosto.tv:7000/ch74/video.m3u8
+#EXTINF:-1 group-title="Украина",Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1 group-title="Украина",ЧП.INFO
+http://lb1.macc.com.ua/life/magnolia_3/index.m3u8?bw986329639912.m3u8
+#EXTINF:-1,world planet
+http://188.113.190.12/89/tracks-v1a1/index.m3u8
+#EXTINF:-1,Animal Planet 
+http://iptv.prosto.tv:7000/ch95/video.m3u8
+#EXTINF:-1,Discovery wild
+http://iptv.prosto.tv:7000/ch83/video.m3u8
+#EXTINF:-1,viasat nature
+http://iptv.prosto.tv:7000/ch84/video.m3u8
+#EXTINF:-1,viasat explore
+http://iptv.prosto.tv:7000/ch85/video.m3u8
+#EXTINF:-1,viasat histori
+http://iptv.prosto.tv:7000/ch86/video.m3u8
+#EXTINF:-1,history Channel
+http://iptv.prosto.tv:7000/ch87/video.m3u8
