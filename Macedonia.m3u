@@ -13,20 +13,22 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://makedonskitvkanali.ueuo.com/folder/24vesti.gif",24 Vesti Hd Makedonija Tv
-http://83.139.104.184/Content/onevip-hls/Live/Channel(24_Vesti)/index.m3u8
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(24_Vesti)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/kanal510.png",Kanal 5 Hd Makedonija Tv
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_MK)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/kanal510.png",KANAL 5HD Makedonija Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://51.178.133.43:8081/tvstanici/2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="?????" tvg-logo="http://ohridskoleto.com.mk/wp-content/uploads/2017/04/telma.png" group-title="MAQEDONI",Telma Hd Makedonija Tv
-http://83.139.104.184/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="?????" tvg-logo="http://ohridskoleto.com.mk/wp-content/uploads/2017/04/telma.png" group-title="MAQEDONI",TELMA TV HD Makedonija Tv
+http://135.125.204.34:8081/tvstanici/3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.infel.net.mk/media/images/tv_channels/nasatv.jpg",Naša Hd Makedonija Tv
-http://83.139.104.184/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
 #EXTINF:-1 tvg-logo="http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/mk/9/94/Mrt_3.png",Mrt 3 Hd Makedonija Tv
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QX4vqEG.png" group-title="ARGENTINA",Mtm Prva Skopska Hd Makedonija Tv
-http://83.139.104.184/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 #EXTINF:-1 tvg-id="TV+_MK" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="TV+ MK" tvg-logo="http://www.tvplus.bg/img/site/logo.png" group-title="MAKEDONSKI",Plus Hd Makedonija Tv
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz74xkH/PTK.png",Kavadarci Hd Makedonija Tv
