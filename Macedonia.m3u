@@ -59,3 +59,6 @@ http://balkanmusictv.ddns.net/live/stream/index.m3u8
 http://fta.hugo.mk:1935/tvhugo/stream/2
 #EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/folk_k10.jpg",Folk Club Hd Makedonija Tv
 rtmp://tv1.intv.mk:1935/live2/folkklub
+#EXTINF:-1, TV SONCE Makedonija Tv
+https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
+
