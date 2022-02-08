@@ -1,9 +1,12 @@
 #EXTM3U
 #EXTINF:=================Makedonija=================
 #EXTINF:-1 tvg-id="MRT1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="MK: MRT 1" tvg-logo="http://nextgen-iptv.com/logo/MRT_1_new_logo.png" group-title="Macedonia",Mrt 1 Makedonija Tv
-http://83.139.104.184/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
 #EXTINF:-1 tvg-id="SITEL_MK" tvg-link="http://193.164.133.64/guide.xmltv" tvg-name="SITEL MK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sitel.jpg" group-title="MAKEDONSKI",Sitel Hd Makedonija Tv
-http://83.139.104.184/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+#EXTINF:-1 tvg-id="SITEL_MK" tvg-link="http://193.164.133.64/guide.xmltv" tvg-name="SITEL MK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sitel.jpg" group-title="MAKEDONSKI",Sitel Hd Makedonija Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/alfa10.png",Alfa Hd Makedonija Tv
 http://83.139.104.184/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
 #EXTINF:-1 tvg-logo="http://makedonskitvkanali.ueuo.com/folder/24vesti.gif",24 Vesti Hd Makedonija Tv
