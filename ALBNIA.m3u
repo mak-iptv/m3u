@@ -119,7 +119,20 @@ https://vod-c57.interspace.com/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVy
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1,BALKANIKA  TV
 rtsp://stream.teracomm.bg/balkanika
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" group-title="Sports", Super Sports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports", Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports", Super Sports 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports", Super Sports 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vowBrPg.png" group-title="Sports", Super Sports 5
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N8CJxDY.png" group-title="Sports", Super Sports 6
+http://93.157.62.180/Supersport6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1gyHXhe.png" group-title="Sports", Super Sports 7
+http://93.157.62.180/Supersport7/index.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="########## Albania ##########" tvg-logo="http://pici.life/albania.png" group-title="Albania",########## Albania ##########
 http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4754
 #EXTINF:-1 tvg-id="" tvg-name="------- Main & Regional -------" tvg-logo="" group-title="Albania",------- Main & Regional -------
