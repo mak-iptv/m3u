@@ -16,7 +16,7 @@ http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
 http://83.139.104.184/Content/onevip-hls/Live/Channel(24_Vesti)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/kanal510.png",Kanal 5 Hd Makedonija Tv
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_MK)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/kanal510.png",KANAL 5 HD Makedonija Tv
+#EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/kanal510.png",KANAL 5HD Makedonija Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://51.178.133.43:8081/tvstanici/2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="?????" tvg-logo="http://ohridskoleto.com.mk/wp-content/uploads/2017/04/telma.png" group-title="MAQEDONI",Telma Hd Makedonija Tv
