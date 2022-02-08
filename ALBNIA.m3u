@@ -61,6 +61,8 @@ http://93.157.62.180/TringSuper/index.m3u8
 http://93.157.62.180/TringAction/index.m3u8
 #EXTINF:-1 ,FOX TV
 http://93.157.62.180/Fox/index.m3u8
+#EXTINF:-1 ,CUFO TV
+http://93.157.62.180/Cufo/index.m3u8
 #EXTINF:-1 group-title="Украина",Niki Junior
 http://iptv.prosto.tv:7000/ch72/video.m3u8
 #EXTINF:-1 group-title="Украина",Niki Junior HD
