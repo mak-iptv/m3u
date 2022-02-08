@@ -114,6 +114,14 @@ http://93.157.62.180/VizionPlus/index.m3u8
 #EXTINF:-1,alsat
 http://93.157.62.180/AlsatM/index.m3u8
 
+
+#EXTINF:-1,Arberia muzik
+http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
+#EXTINF:-1,Arbëria 2
+http://rtvarberia1.flashmediacast.com:1935/RtvArberia1/livestream/playlist.m3u8
+#EXTINF:-1,Drita tv
+https://nesertv.live/ntv/livestream/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,RTSH
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshhd_low&medium=websocket
 #EXTINF:-1,RTSH 2
