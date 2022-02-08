@@ -1,9 +1,7 @@
 #EXTM3U 
 
 
-#EXTINF:-1,Top Channel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://knaqu.tv/live/topch.m3u8
+
 #EXTINF:-1,TV TOP CANNEL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://45.58.122.106:8081/live/top/playlist.m3u8
@@ -13,6 +11,10 @@ https://kanale.cdn-stream.com:30443/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX
 https://kanale.cdn-stream.com:30443/live/vizionplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TV KLAN HD
 https://kanale.cdn-stream.com:30443/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
+#EXTINF:-1,KLAN HD
+https://kanale.cdn-stream.com:30443/live/klan1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgODo1MDo1MyBQTSZoYXNoX3ZhbHVlPTlyUC9KemZLbnhFU3dyc2poR05DbEE9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
+
+
 #EXTINF:-1,TV KLAN KS HD
 https://kanale.cdn-stream.com:30443/live/klanks/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TV KLAN MK HD
@@ -53,7 +55,28 @@ http://93.157.62.180/TringFantasy/index.m3u8
 http://93.157.62.180/TringComedy/index.m3u8
 #EXTINF:-1, JOLLY HD
 http://93.157.62.180/JollyHD/index.m3u8
-
+#EXTINF:-1, TRING super
+http://93.157.62.180/TringSuper/index.m3u8
+#EXTINF:-1,TRING Action
+http://93.157.62.180/TringAction/index.m3u8
+#EXTINF:-1 group-title="Украина",Niki Junior
+http://iptv.prosto.tv:7000/ch72/video.m3u8
+#EXTINF:-1 group-title="Украина",Niki Junior HD
+http://iptv.prosto.tv:7000/ch76/video.m3u8
+#EXTINF:-1 group-title="Украина",Niki Kids
+http://iptv.prosto.tv:7000/ch71/video.m3u8
+#EXTINF:-1 group-title="Украина",Niki Kids HD
+http://iptv.prosto.tv:7000/ch75/video.m3u8
+#EXTINF:-1 group-title="Украина",Nick
+http://iptv.prosto.tv:7000/ch68/video.m3u8
+#EXTINF:-1 group-title="Украина",Nick jr.
+http://iptv.prosto.tv:7000/ch69/video.m3u8
+#EXTINF:-1 group-title="Украина",nicktoons
+http://iptv.prosto.tv:7000/ch70/video.m3u8
+#EXTINF:-1 group-title="Украина",TiJi
+http://iptv.prosto.tv:7000/ch73/video.m3u8
+#EXTINF:-1 group-title="Украина",Gulli Girl
+http://iptv.prosto.tv:7000/ch74/video.m3u8
 
 
 #EXTINF:-1,TV TRING SPORT 1
