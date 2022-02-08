@@ -47,6 +47,14 @@ https://kanale.cdn-stream.com:30443/live/tringsuper/playlist.m3u8?wmsAuthSign=c2
 https://kanale.cdn-stream.com:30443/live/tringtring/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,TRING SHQIP
 https://kanale.cdn-stream.com:30443/live/tringshqip/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
+#EXTINF:-1,TRING FANTASY
+http://93.157.62.180/TringFantasy/index.m3u8
+#EXTINF:-1,TRING COMEDY
+http://93.157.62.180/TringComedy/index.m3u8
+#EXTINF:-1, JOLLY HD
+http://93.157.62.180/JollyHD/index.m3u8
+
+
 
 #EXTINF:-1,TV TRING SPORT 1
 https://kanale.cdn-stream.com:30443/live/ts1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
@@ -66,8 +74,22 @@ https://kanale.cdn-stream.com:30443/live/rtshsport/playlist.m3u8?wmsAuthSign=c2V
 https://kanale.cdn-stream.com:30443/live/rtshshqip/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:-1,RTSH 24
 https://kanale.cdn-stream.com:30443/live/rtsh24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjIgNzo0NDoyMCBQTSZoYXNoX3ZhbHVlPTJyV3J5UW1aa0pJUEx0Wm92UWIyL0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-
-
+#EXTINF:-1,Rtsh 1
+http://93.157.62.180/RTSH1/index.m3u8
+#EXTINF:-1,Rtsh 2
+http://93.157.62.180/RTSH2/index.m3u8
+#EXTINF:-1,Rtsh 3
+http://93.157.62.180/RTSH3/index.m3u8
+#EXTINF:-1,Klan Plus
+http://93.157.62.180/KlanPlus/index.m3u8
+#EXTINF:-1,Top Channel
+http://93.157.62.180/TopChannel/index.m3u8
+#EXTINF:-1,Klan Tv
+http://93.157.62.180/TVKlanHD/index.m3u8
+#EXTINF:-1,Vizion Plus
+http://93.157.62.180/VizionPlus/index.m3u8
+#EXTINF:-1,alsat
+http://93.157.62.180/AlsatM/index.m3u8
 
 #EXTINF:-1,RTSH
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8?e=9178de00dacb868417b291d7d83fd394&c=rtshhd_low&medium=websocket
